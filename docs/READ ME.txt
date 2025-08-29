@@ -1,0 +1,11 @@
+# HR Interview Dashboard
+
+This repository contains:
+- Power BI dashboard for HR interview and hiring predictions
+- Source datasets (in `/data`)
+- Scripts for data preparation (`/scripts`)
+- Documentation and reports (`/docs`)
+- Exported files from analysis (`/exports`)
+
+Project Overview:
+This dashboard predicts and visualizes hiring outcomes using machine learning and interactive BI tools. See `project_report.pdf` for details.

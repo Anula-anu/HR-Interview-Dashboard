@@ -1,0 +1,3553 @@
+CandidateID,Skill,Level
+C0001,Git,Beginner
+C0001,JavaScript,Advanced
+C0001,Communication,Beginner
+C0001,NLP,Intermediate
+C0001,Data Visualization,Beginner
+C0001,Pandas,Beginner
+C0001,Cloud (Azure/AWS),Intermediate
+C0001,Statistics,Beginner
+C0001,Kubernetes,Intermediate
+C0002,Computer Vision,Intermediate
+C0002,APIs,Intermediate
+C0002,Cloud (Azure/AWS),Advanced
+C0002,HR Policies,Beginner
+C0002,Kubernetes,Beginner
+C0002,Git,Advanced
+C0002,React,Intermediate
+C0002,DAX,Intermediate
+C0003,Excel,Intermediate
+C0003,Linux,Beginner
+C0003,Python,Beginner
+C0003,Deep Learning,Intermediate
+C0003,Stakeholder Management,Intermediate
+C0003,Recruitment,Advanced
+C0004,Tableau,Beginner
+C0004,Communication,Beginner
+C0004,NLP,Advanced
+C0004,APIs,Beginner
+C0004,Machine Learning,Advanced
+C0004,Statistics,Beginner
+C0004,Kubernetes,Advanced
+C0005,NLP,Advanced
+C0005,Flask,Intermediate
+C0005,Excel,Beginner
+C0005,APIs,Advanced
+C0005,JavaScript,Intermediate
+C0005,Numpy,Beginner
+C0005,DAX,Intermediate
+C0005,Cloud (Azure/AWS),Advanced
+C0005,Deep Learning,Intermediate
+C0006,React,Intermediate
+C0006,Leadership,Intermediate
+C0006,Computer Vision,Beginner
+C0006,APIs,Intermediate
+C0006,Deep Learning,Intermediate
+C0006,NLP,Intermediate
+C0006,SQL,Advanced
+C0006,HR Policies,Intermediate
+C0007,Cloud (Azure/AWS),Beginner
+C0007,Deep Learning,Beginner
+C0007,Numpy,Intermediate
+C0007,Stakeholder Management,Beginner
+C0008,DAX,Intermediate
+C0008,Django,Advanced
+C0008,Stakeholder Management,Advanced
+C0008,Power BI,Beginner
+C0008,Git,Beginner
+C0008,Tableau,Intermediate
+C0008,Docker,Advanced
+C0009,React,Intermediate
+C0009,Tableau,Intermediate
+C0009,Data Visualization,Intermediate
+C0009,Excel,Beginner
+C0009,NLP,Beginner
+C0009,Linux,Beginner
+C0009,Cloud (Azure/AWS),Beginner
+C0009,Python,Intermediate
+C0009,Numpy,Intermediate
+C0010,Kubernetes,Advanced
+C0010,React,Intermediate
+C0010,Data Visualization,Advanced
+C0010,Communication,Beginner
+C0010,Stakeholder Management,Beginner
+C0010,Linux,Beginner
+C0010,Cloud (Azure/AWS),Beginner
+C0010,Pandas,Beginner
+C0010,Django,Beginner
+C0011,Pandas,Beginner
+C0011,HR Policies,Intermediate
+C0011,SQL,Intermediate
+C0011,Excel,Intermediate
+C0011,JavaScript,Beginner
+C0011,Numpy,Advanced
+C0012,Deep Learning,Beginner
+C0012,Interviewing,Beginner
+C0012,Recruitment,Intermediate
+C0012,Pandas,Advanced
+C0012,APIs,Beginner
+C0012,HR Policies,Beginner
+C0012,Kubernetes,Intermediate
+C0012,Git,Intermediate
+C0012,JavaScript,Intermediate
+C0013,Docker,Advanced
+C0013,Pandas,Beginner
+C0013,SQL,Beginner
+C0013,Machine Learning,Advanced
+C0013,React,Beginner
+C0014,Django,Beginner
+C0014,Linux,Advanced
+C0014,Leadership,Intermediate
+C0014,Power BI,Intermediate
+C0014,APIs,Intermediate
+C0014,Stakeholder Management,Beginner
+C0014,Excel,Beginner
+C0014,Recruitment,Intermediate
+C0014,Statistics,Beginner
+C0015,Power BI,Advanced
+C0015,Interviewing,Beginner
+C0015,Recruitment,Intermediate
+C0015,Cloud (Azure/AWS),Intermediate
+C0015,Numpy,Advanced
+C0015,Stakeholder Management,Intermediate
+C0015,Pandas,Beginner
+C0015,Git,Beginner
+C0015,NLP,Intermediate
+C0015,Leadership,Beginner
+C0016,Machine Learning,Beginner
+C0016,Computer Vision,Intermediate
+C0016,Flask,Intermediate
+C0016,NLP,Advanced
+C0016,Recruitment,Intermediate
+C0017,Linux,Intermediate
+C0017,NLP,Beginner
+C0017,Pandas,Intermediate
+C0017,Computer Vision,Intermediate
+C0017,DAX,Beginner
+C0017,Interviewing,Intermediate
+C0017,Flask,Advanced
+C0017,HR Policies,Beginner
+C0018,Computer Vision,Beginner
+C0018,Machine Learning,Intermediate
+C0018,DAX,Beginner
+C0018,Communication,Intermediate
+C0018,Power BI,Beginner
+C0018,Numpy,Intermediate
+C0018,Excel,Intermediate
+C0018,Tableau,Beginner
+C0018,Flask,Intermediate
+C0019,SQL,Intermediate
+C0019,React,Advanced
+C0019,Computer Vision,Intermediate
+C0019,Pandas,Beginner
+C0019,Statistics,Advanced
+C0019,HR Policies,Beginner
+C0019,Leadership,Beginner
+C0019,Communication,Intermediate
+C0019,Numpy,Advanced
+C0019,Python,Beginner
+C0020,APIs,Intermediate
+C0020,Communication,Intermediate
+C0020,Recruitment,Intermediate
+C0020,JavaScript,Intermediate
+C0021,Data Visualization,Intermediate
+C0021,Python,Intermediate
+C0021,Excel,Advanced
+C0021,Leadership,Intermediate
+C0021,Kubernetes,Intermediate
+C0021,Cloud (Azure/AWS),Advanced
+C0022,Linux,Advanced
+C0022,APIs,Intermediate
+C0022,NLP,Intermediate
+C0022,Deep Learning,Intermediate
+C0022,Kubernetes,Beginner
+C0022,Interviewing,Advanced
+C0022,Computer Vision,Advanced
+C0022,HR Policies,Intermediate
+C0022,JavaScript,Intermediate
+C0023,Kubernetes,Beginner
+C0023,NLP,Beginner
+C0023,Stakeholder Management,Beginner
+C0023,Linux,Intermediate
+C0023,Leadership,Intermediate
+C0023,Machine Learning,Advanced
+C0023,Recruitment,Intermediate
+C0023,Flask,Intermediate
+C0023,DAX,Beginner
+C0023,Pandas,Advanced
+C0024,SQL,Advanced
+C0024,Computer Vision,Intermediate
+C0024,Pandas,Intermediate
+C0024,HR Policies,Beginner
+C0024,Flask,Advanced
+C0024,JavaScript,Beginner
+C0024,Excel,Advanced
+C0024,Cloud (Azure/AWS),Beginner
+C0024,Python,Beginner
+C0024,React,Beginner
+C0025,HR Policies,Intermediate
+C0025,Leadership,Intermediate
+C0025,Django,Beginner
+C0025,Machine Learning,Beginner
+C0025,Tableau,Beginner
+C0025,Deep Learning,Beginner
+C0026,Excel,Advanced
+C0026,Interviewing,Intermediate
+C0026,Python,Intermediate
+C0026,Statistics,Intermediate
+C0026,DAX,Beginner
+C0026,Docker,Beginner
+C0026,JavaScript,Beginner
+C0027,Cloud (Azure/AWS),Intermediate
+C0027,Linux,Intermediate
+C0027,Flask,Beginner
+C0027,Recruitment,Beginner
+C0027,Git,Advanced
+C0027,Communication,Intermediate
+C0027,DAX,Intermediate
+C0027,Pandas,Advanced
+C0028,Machine Learning,Advanced
+C0028,Computer Vision,Advanced
+C0028,Flask,Advanced
+C0028,APIs,Beginner
+C0028,Leadership,Intermediate
+C0028,Stakeholder Management,Beginner
+C0029,Communication,Beginner
+C0029,Numpy,Advanced
+C0029,JavaScript,Intermediate
+C0029,Interviewing,Advanced
+C0029,Django,Intermediate
+C0029,SQL,Advanced
+C0029,Kubernetes,Intermediate
+C0029,APIs,Advanced
+C0029,Computer Vision,Beginner
+C0029,Power BI,Beginner
+C0030,Communication,Intermediate
+C0030,Tableau,Advanced
+C0030,Data Visualization,Intermediate
+C0030,Power BI,Intermediate
+C0030,Django,Beginner
+C0030,APIs,Intermediate
+C0030,Excel,Beginner
+C0030,JavaScript,Beginner
+C0030,DAX,Beginner
+C0030,Recruitment,Beginner
+C0031,NLP,Intermediate
+C0031,Cloud (Azure/AWS),Intermediate
+C0031,Docker,Intermediate
+C0031,SQL,Advanced
+C0031,Django,Advanced
+C0031,Machine Learning,Beginner
+C0031,Interviewing,Beginner
+C0031,APIs,Intermediate
+C0031,Leadership,Intermediate
+C0032,Deep Learning,Intermediate
+C0032,Linux,Advanced
+C0032,JavaScript,Beginner
+C0032,Data Visualization,Intermediate
+C0032,Communication,Beginner
+C0032,Docker,Beginner
+C0033,Statistics,Advanced
+C0033,Deep Learning,Intermediate
+C0033,Pandas,Beginner
+C0033,SQL,Intermediate
+C0033,Computer Vision,Intermediate
+C0033,Cloud (Azure/AWS),Beginner
+C0033,Django,Beginner
+C0033,React,Intermediate
+C0034,JavaScript,Beginner
+C0034,Python,Intermediate
+C0034,Computer Vision,Intermediate
+C0034,Communication,Intermediate
+C0034,Tableau,Beginner
+C0034,Interviewing,Beginner
+C0034,Stakeholder Management,Advanced
+C0034,Data Visualization,Beginner
+C0034,Linux,Advanced
+C0035,Interviewing,Intermediate
+C0035,Recruitment,Intermediate
+C0035,Power BI,Beginner
+C0035,Django,Beginner
+C0035,Stakeholder Management,Beginner
+C0035,Tableau,Intermediate
+C0035,Machine Learning,Intermediate
+C0036,React,Intermediate
+C0036,Statistics,Intermediate
+C0036,Linux,Intermediate
+C0036,SQL,Intermediate
+C0036,JavaScript,Intermediate
+C0036,Numpy,Intermediate
+C0036,Communication,Intermediate
+C0036,Power BI,Beginner
+C0036,Machine Learning,Intermediate
+C0037,Flask,Intermediate
+C0037,SQL,Beginner
+C0037,Communication,Beginner
+C0037,Statistics,Advanced
+C0038,Python,Advanced
+C0038,SQL,Beginner
+C0038,Communication,Intermediate
+C0038,Data Visualization,Intermediate
+C0038,NLP,Intermediate
+C0038,Power BI,Beginner
+C0038,Stakeholder Management,Beginner
+C0038,Tableau,Beginner
+C0038,Pandas,Intermediate
+C0039,Excel,Advanced
+C0039,Numpy,Advanced
+C0039,Pandas,Advanced
+C0039,Django,Advanced
+C0039,Python,Intermediate
+C0039,Data Visualization,Beginner
+C0039,JavaScript,Advanced
+C0039,APIs,Advanced
+C0039,HR Policies,Intermediate
+C0040,Deep Learning,Intermediate
+C0040,Machine Learning,Advanced
+C0040,React,Intermediate
+C0040,Docker,Beginner
+C0040,Linux,Intermediate
+C0040,Computer Vision,Beginner
+C0040,Data Visualization,Beginner
+C0040,DAX,Beginner
+C0040,Kubernetes,Advanced
+C0041,Machine Learning,Intermediate
+C0041,Pandas,Beginner
+C0041,Deep Learning,Advanced
+C0041,Flask,Intermediate
+C0041,Cloud (Azure/AWS),Intermediate
+C0041,Excel,Intermediate
+C0041,NLP,Advanced
+C0041,Django,Intermediate
+C0041,Linux,Beginner
+C0041,Recruitment,Advanced
+C0042,Leadership,Advanced
+C0042,Flask,Intermediate
+C0042,Linux,Advanced
+C0042,Interviewing,Beginner
+C0043,Data Visualization,Advanced
+C0043,Excel,Intermediate
+C0043,Recruitment,Intermediate
+C0043,Pandas,Beginner
+C0043,Git,Intermediate
+C0043,React,Intermediate
+C0043,Statistics,Beginner
+C0044,Cloud (Azure/AWS),Intermediate
+C0044,Tableau,Beginner
+C0044,Python,Intermediate
+C0044,HR Policies,Intermediate
+C0044,Git,Beginner
+C0044,Excel,Intermediate
+C0044,Power BI,Advanced
+C0044,Recruitment,Intermediate
+C0045,Linux,Intermediate
+C0045,Communication,Beginner
+C0045,Data Visualization,Beginner
+C0045,Cloud (Azure/AWS),Intermediate
+C0046,Leadership,Advanced
+C0046,Pandas,Beginner
+C0046,Communication,Intermediate
+C0046,Stakeholder Management,Intermediate
+C0046,SQL,Beginner
+C0046,DAX,Beginner
+C0047,Kubernetes,Intermediate
+C0047,SQL,Beginner
+C0047,JavaScript,Intermediate
+C0047,Numpy,Intermediate
+C0047,Recruitment,Intermediate
+C0047,NLP,Beginner
+C0048,Deep Learning,Intermediate
+C0048,Recruitment,Intermediate
+C0048,Django,Advanced
+C0048,Docker,Intermediate
+C0048,Excel,Beginner
+C0048,Git,Beginner
+C0048,Statistics,Beginner
+C0048,Data Visualization,Advanced
+C0049,Flask,Intermediate
+C0049,Stakeholder Management,Intermediate
+C0049,Statistics,Intermediate
+C0049,Docker,Advanced
+C0049,Leadership,Advanced
+C0049,Interviewing,Advanced
+C0049,Git,Beginner
+C0049,Kubernetes,Intermediate
+C0050,Deep Learning,Intermediate
+C0050,Linux,Advanced
+C0050,DAX,Beginner
+C0050,HR Policies,Intermediate
+C0051,Python,Beginner
+C0051,NLP,Beginner
+C0051,Git,Advanced
+C0051,Deep Learning,Intermediate
+C0051,Flask,Beginner
+C0051,Tableau,Beginner
+C0051,Machine Learning,Intermediate
+C0052,Numpy,Advanced
+C0052,Power BI,Beginner
+C0052,Interviewing,Intermediate
+C0052,Recruitment,Beginner
+C0052,JavaScript,Beginner
+C0052,Communication,Intermediate
+C0052,Django,Advanced
+C0053,Kubernetes,Intermediate
+C0053,Recruitment,Intermediate
+C0053,Python,Intermediate
+C0053,Git,Advanced
+C0053,Deep Learning,Advanced
+C0053,Communication,Intermediate
+C0053,SQL,Beginner
+C0053,React,Beginner
+C0054,SQL,Beginner
+C0054,DAX,Intermediate
+C0054,Cloud (Azure/AWS),Intermediate
+C0054,Computer Vision,Intermediate
+C0055,Power BI,Beginner
+C0055,Linux,Advanced
+C0055,Django,Intermediate
+C0055,Deep Learning,Intermediate
+C0055,SQL,Intermediate
+C0055,Recruitment,Intermediate
+C0055,Leadership,Intermediate
+C0055,Python,Beginner
+C0055,Cloud (Azure/AWS),Intermediate
+C0056,Tableau,Intermediate
+C0056,NLP,Beginner
+C0056,Statistics,Intermediate
+C0056,Docker,Beginner
+C0056,DAX,Intermediate
+C0056,Computer Vision,Intermediate
+C0056,Communication,Intermediate
+C0056,APIs,Beginner
+C0057,Git,Intermediate
+C0057,Stakeholder Management,Advanced
+C0057,Data Visualization,Intermediate
+C0057,NLP,Advanced
+C0057,Kubernetes,Intermediate
+C0057,Computer Vision,Beginner
+C0057,Deep Learning,Intermediate
+C0057,APIs,Beginner
+C0057,Leadership,Beginner
+C0058,Django,Beginner
+C0058,Flask,Advanced
+C0058,Numpy,Intermediate
+C0058,Python,Intermediate
+C0058,SQL,Intermediate
+C0058,Cloud (Azure/AWS),Intermediate
+C0058,JavaScript,Advanced
+C0059,JavaScript,Beginner
+C0059,APIs,Advanced
+C0059,Machine Learning,Intermediate
+C0059,Stakeholder Management,Intermediate
+C0059,Leadership,Beginner
+C0059,Tableau,Beginner
+C0059,Pandas,Intermediate
+C0059,HR Policies,Intermediate
+C0059,Recruitment,Beginner
+C0059,Python,Advanced
+C0060,React,Advanced
+C0060,Communication,Beginner
+C0060,Machine Learning,Beginner
+C0060,Excel,Beginner
+C0060,SQL,Intermediate
+C0061,Machine Learning,Beginner
+C0061,Kubernetes,Intermediate
+C0061,Numpy,Intermediate
+C0061,JavaScript,Advanced
+C0062,Computer Vision,Beginner
+C0062,React,Intermediate
+C0062,Tableau,Intermediate
+C0062,Stakeholder Management,Beginner
+C0062,Git,Intermediate
+C0062,Leadership,Beginner
+C0063,React,Beginner
+C0063,Interviewing,Intermediate
+C0063,Stakeholder Management,Intermediate
+C0063,Recruitment,Intermediate
+C0063,Flask,Intermediate
+C0064,Interviewing,Intermediate
+C0064,Computer Vision,Intermediate
+C0064,JavaScript,Intermediate
+C0064,Data Visualization,Advanced
+C0064,Machine Learning,Beginner
+C0064,Recruitment,Beginner
+C0064,Deep Learning,Beginner
+C0064,SQL,Intermediate
+C0064,Excel,Intermediate
+C0065,Recruitment,Intermediate
+C0065,DAX,Beginner
+C0065,Computer Vision,Beginner
+C0065,JavaScript,Advanced
+C0066,Statistics,Intermediate
+C0066,Machine Learning,Beginner
+C0066,Interviewing,Beginner
+C0066,NLP,Intermediate
+C0066,Computer Vision,Intermediate
+C0066,Excel,Intermediate
+C0066,HR Policies,Intermediate
+C0066,Linux,Intermediate
+C0067,Cloud (Azure/AWS),Intermediate
+C0067,Statistics,Intermediate
+C0067,JavaScript,Advanced
+C0067,Machine Learning,Intermediate
+C0067,Recruitment,Beginner
+C0067,Data Visualization,Beginner
+C0067,Linux,Intermediate
+C0068,Recruitment,Beginner
+C0068,Python,Beginner
+C0068,Data Visualization,Beginner
+C0068,Leadership,Beginner
+C0068,SQL,Intermediate
+C0068,Tableau,Intermediate
+C0068,Stakeholder Management,Advanced
+C0068,Communication,Beginner
+C0069,Data Visualization,Beginner
+C0069,Communication,Beginner
+C0069,Django,Intermediate
+C0069,Linux,Intermediate
+C0069,NLP,Intermediate
+C0069,Numpy,Advanced
+C0069,Pandas,Beginner
+C0069,React,Beginner
+C0069,JavaScript,Beginner
+C0069,HR Policies,Beginner
+C0070,NLP,Intermediate
+C0070,Statistics,Advanced
+C0070,Leadership,Beginner
+C0070,Excel,Beginner
+C0071,Interviewing,Intermediate
+C0071,Tableau,Advanced
+C0071,Deep Learning,Beginner
+C0071,Data Visualization,Intermediate
+C0071,Machine Learning,Intermediate
+C0071,Statistics,Intermediate
+C0071,Flask,Beginner
+C0071,Docker,Beginner
+C0072,Communication,Advanced
+C0072,NLP,Beginner
+C0072,HR Policies,Intermediate
+C0072,JavaScript,Advanced
+C0072,Cloud (Azure/AWS),Intermediate
+C0072,Interviewing,Advanced
+C0072,Leadership,Advanced
+C0072,Python,Beginner
+C0073,Linux,Intermediate
+C0073,Docker,Beginner
+C0073,NLP,Advanced
+C0073,Power BI,Intermediate
+C0073,Pandas,Beginner
+C0073,Recruitment,Beginner
+C0073,DAX,Beginner
+C0073,Interviewing,Intermediate
+C0074,Tableau,Advanced
+C0074,DAX,Beginner
+C0074,Stakeholder Management,Beginner
+C0074,JavaScript,Beginner
+C0074,NLP,Intermediate
+C0074,Excel,Intermediate
+C0074,React,Beginner
+C0074,Power BI,Beginner
+C0074,Computer Vision,Intermediate
+C0074,Kubernetes,Beginner
+C0075,Statistics,Intermediate
+C0075,Docker,Beginner
+C0075,Excel,Beginner
+C0075,Python,Beginner
+C0075,DAX,Advanced
+C0075,Kubernetes,Intermediate
+C0075,Linux,Advanced
+C0075,Recruitment,Beginner
+C0075,Git,Intermediate
+C0075,Numpy,Beginner
+C0076,Deep Learning,Beginner
+C0076,Python,Beginner
+C0076,JavaScript,Beginner
+C0076,Computer Vision,Beginner
+C0076,DAX,Beginner
+C0076,Kubernetes,Beginner
+C0077,JavaScript,Intermediate
+C0077,Flask,Advanced
+C0077,Tableau,Beginner
+C0077,DAX,Beginner
+C0077,Statistics,Advanced
+C0077,Excel,Beginner
+C0077,Machine Learning,Advanced
+C0078,DAX,Intermediate
+C0078,Django,Beginner
+C0078,Power BI,Beginner
+C0078,Leadership,Intermediate
+C0078,Recruitment,Intermediate
+C0078,Python,Beginner
+C0078,JavaScript,Beginner
+C0078,Deep Learning,Intermediate
+C0079,Git,Intermediate
+C0079,Django,Beginner
+C0079,React,Intermediate
+C0079,Computer Vision,Intermediate
+C0079,Python,Beginner
+C0079,HR Policies,Intermediate
+C0079,Pandas,Intermediate
+C0080,Django,Intermediate
+C0080,NLP,Intermediate
+C0080,Recruitment,Beginner
+C0080,DAX,Intermediate
+C0080,Power BI,Advanced
+C0080,Pandas,Beginner
+C0081,Python,Beginner
+C0081,Data Visualization,Intermediate
+C0081,DAX,Advanced
+C0081,Communication,Intermediate
+C0081,Django,Advanced
+C0081,Computer Vision,Intermediate
+C0081,SQL,Beginner
+C0081,Leadership,Advanced
+C0081,Flask,Intermediate
+C0081,Cloud (Azure/AWS),Intermediate
+C0082,Leadership,Beginner
+C0082,DAX,Intermediate
+C0082,Numpy,Intermediate
+C0082,Excel,Intermediate
+C0082,React,Advanced
+C0082,SQL,Beginner
+C0082,Flask,Beginner
+C0082,Machine Learning,Intermediate
+C0083,HR Policies,Intermediate
+C0083,APIs,Advanced
+C0083,Python,Beginner
+C0083,Kubernetes,Intermediate
+C0084,Deep Learning,Intermediate
+C0084,Docker,Beginner
+C0084,Power BI,Intermediate
+C0084,Linux,Beginner
+C0085,Deep Learning,Beginner
+C0085,Kubernetes,Intermediate
+C0085,DAX,Intermediate
+C0085,Data Visualization,Intermediate
+C0085,Django,Beginner
+C0085,Excel,Advanced
+C0085,Pandas,Beginner
+C0085,NLP,Advanced
+C0085,Flask,Beginner
+C0085,React,Intermediate
+C0086,Recruitment,Beginner
+C0086,HR Policies,Advanced
+C0086,Linux,Beginner
+C0086,Pandas,Intermediate
+C0086,Numpy,Intermediate
+C0087,React,Intermediate
+C0087,APIs,Advanced
+C0087,HR Policies,Intermediate
+C0087,Tableau,Beginner
+C0087,Docker,Beginner
+C0087,Stakeholder Management,Intermediate
+C0087,Computer Vision,Intermediate
+C0088,Stakeholder Management,Beginner
+C0088,APIs,Intermediate
+C0088,JavaScript,Intermediate
+C0088,Communication,Intermediate
+C0088,Flask,Intermediate
+C0088,Kubernetes,Beginner
+C0088,Leadership,Intermediate
+C0088,Docker,Intermediate
+C0088,Deep Learning,Intermediate
+C0088,Cloud (Azure/AWS),Intermediate
+C0089,HR Policies,Beginner
+C0089,NLP,Intermediate
+C0089,Numpy,Beginner
+C0089,JavaScript,Beginner
+C0090,Excel,Beginner
+C0090,Python,Intermediate
+C0090,Computer Vision,Advanced
+C0090,Pandas,Beginner
+C0090,Cloud (Azure/AWS),Intermediate
+C0091,Data Visualization,Beginner
+C0091,Leadership,Intermediate
+C0091,Numpy,Intermediate
+C0091,Statistics,Advanced
+C0091,Pandas,Intermediate
+C0091,Interviewing,Intermediate
+C0091,Django,Beginner
+C0091,Computer Vision,Intermediate
+C0091,Docker,Beginner
+C0092,JavaScript,Intermediate
+C0092,Django,Intermediate
+C0092,Data Visualization,Beginner
+C0092,Recruitment,Intermediate
+C0093,Computer Vision,Intermediate
+C0093,Statistics,Beginner
+C0093,Communication,Beginner
+C0093,Git,Intermediate
+C0093,Django,Intermediate
+C0093,SQL,Advanced
+C0093,Data Visualization,Intermediate
+C0094,DAX,Advanced
+C0094,Communication,Beginner
+C0094,Tableau,Intermediate
+C0094,Statistics,Beginner
+C0094,Interviewing,Advanced
+C0094,Linux,Beginner
+C0094,Cloud (Azure/AWS),Beginner
+C0095,Numpy,Advanced
+C0095,Docker,Advanced
+C0095,Kubernetes,Advanced
+C0095,Computer Vision,Advanced
+C0095,Stakeholder Management,Advanced
+C0095,Interviewing,Advanced
+C0095,APIs,Intermediate
+C0095,Communication,Intermediate
+C0095,Cloud (Azure/AWS),Advanced
+C0096,Interviewing,Advanced
+C0096,Power BI,Beginner
+C0096,Stakeholder Management,Intermediate
+C0096,NLP,Beginner
+C0096,Pandas,Intermediate
+C0096,Computer Vision,Intermediate
+C0097,Docker,Beginner
+C0097,Data Visualization,Intermediate
+C0097,Statistics,Intermediate
+C0097,Leadership,Intermediate
+C0098,Deep Learning,Beginner
+C0098,Stakeholder Management,Intermediate
+C0098,Communication,Intermediate
+C0098,Cloud (Azure/AWS),Intermediate
+C0098,Linux,Beginner
+C0099,APIs,Advanced
+C0099,Deep Learning,Intermediate
+C0099,Python,Intermediate
+C0099,Tableau,Intermediate
+C0099,Leadership,Intermediate
+C0099,Communication,Advanced
+C0100,Linux,Beginner
+C0100,Communication,Advanced
+C0100,Kubernetes,Intermediate
+C0100,Interviewing,Intermediate
+C0100,Deep Learning,Beginner
+C0100,SQL,Beginner
+C0100,React,Beginner
+C0100,Cloud (Azure/AWS),Advanced
+C0100,Data Visualization,Advanced
+C0100,Git,Intermediate
+C0101,Machine Learning,Advanced
+C0101,React,Intermediate
+C0101,Communication,Intermediate
+C0101,DAX,Beginner
+C0102,Machine Learning,Intermediate
+C0102,Kubernetes,Beginner
+C0102,DAX,Intermediate
+C0102,Cloud (Azure/AWS),Beginner
+C0102,Python,Beginner
+C0102,Recruitment,Intermediate
+C0102,Deep Learning,Intermediate
+C0103,HR Policies,Intermediate
+C0103,Communication,Beginner
+C0103,Linux,Intermediate
+C0103,Flask,Intermediate
+C0103,Git,Advanced
+C0104,Git,Intermediate
+C0104,Statistics,Intermediate
+C0104,Deep Learning,Beginner
+C0104,Recruitment,Beginner
+C0104,Linux,Intermediate
+C0104,Pandas,Advanced
+C0104,JavaScript,Beginner
+C0104,Interviewing,Intermediate
+C0105,Statistics,Beginner
+C0105,Cloud (Azure/AWS),Intermediate
+C0105,Communication,Intermediate
+C0105,Power BI,Beginner
+C0105,SQL,Advanced
+C0106,Numpy,Beginner
+C0106,NLP,Beginner
+C0106,Communication,Beginner
+C0106,Statistics,Advanced
+C0106,Data Visualization,Advanced
+C0106,Kubernetes,Advanced
+C0106,Flask,Beginner
+C0106,Django,Beginner
+C0106,React,Beginner
+C0107,Computer Vision,Beginner
+C0107,Communication,Intermediate
+C0107,Django,Intermediate
+C0107,Stakeholder Management,Beginner
+C0107,React,Intermediate
+C0107,Statistics,Intermediate
+C0107,Cloud (Azure/AWS),Beginner
+C0108,Django,Intermediate
+C0108,Data Visualization,Advanced
+C0108,Tableau,Beginner
+C0108,Numpy,Intermediate
+C0108,APIs,Advanced
+C0108,React,Intermediate
+C0108,Deep Learning,Intermediate
+C0109,Git,Advanced
+C0109,Numpy,Intermediate
+C0109,HR Policies,Advanced
+C0109,Computer Vision,Intermediate
+C0109,Pandas,Intermediate
+C0110,Python,Intermediate
+C0110,Excel,Intermediate
+C0110,Recruitment,Beginner
+C0110,DAX,Intermediate
+C0110,NLP,Intermediate
+C0111,Stakeholder Management,Beginner
+C0111,Communication,Beginner
+C0111,NLP,Intermediate
+C0111,HR Policies,Intermediate
+C0111,Machine Learning,Intermediate
+C0111,Pandas,Advanced
+C0112,Stakeholder Management,Intermediate
+C0112,Recruitment,Intermediate
+C0112,Python,Beginner
+C0112,JavaScript,Advanced
+C0113,JavaScript,Intermediate
+C0113,DAX,Advanced
+C0113,Deep Learning,Beginner
+C0113,Pandas,Beginner
+C0113,Tableau,Beginner
+C0113,Excel,Advanced
+C0114,Python,Advanced
+C0114,Interviewing,Intermediate
+C0114,Git,Intermediate
+C0114,Power BI,Intermediate
+C0114,Cloud (Azure/AWS),Beginner
+C0115,Flask,Advanced
+C0115,JavaScript,Beginner
+C0115,Numpy,Beginner
+C0115,Computer Vision,Intermediate
+C0115,Git,Intermediate
+C0116,NLP,Advanced
+C0116,Machine Learning,Advanced
+C0116,Communication,Intermediate
+C0116,JavaScript,Intermediate
+C0117,React,Intermediate
+C0117,HR Policies,Intermediate
+C0117,Python,Advanced
+C0117,SQL,Advanced
+C0117,Recruitment,Intermediate
+C0118,Excel,Beginner
+C0118,Cloud (Azure/AWS),Intermediate
+C0118,Interviewing,Intermediate
+C0118,HR Policies,Intermediate
+C0118,Linux,Intermediate
+C0118,Numpy,Intermediate
+C0118,Pandas,Intermediate
+C0118,React,Intermediate
+C0118,Stakeholder Management,Advanced
+C0118,Statistics,Intermediate
+C0119,APIs,Intermediate
+C0119,DAX,Beginner
+C0119,Communication,Advanced
+C0119,Stakeholder Management,Beginner
+C0119,Excel,Advanced
+C0119,Tableau,Intermediate
+C0119,Django,Intermediate
+C0119,Power BI,Intermediate
+C0120,Interviewing,Beginner
+C0120,Data Visualization,Intermediate
+C0120,Recruitment,Intermediate
+C0120,Python,Intermediate
+C0120,Tableau,Advanced
+C0120,Computer Vision,Beginner
+C0120,Kubernetes,Advanced
+C0120,NLP,Intermediate
+C0121,Tableau,Intermediate
+C0121,Linux,Beginner
+C0121,Numpy,Beginner
+C0121,DAX,Intermediate
+C0121,Stakeholder Management,Beginner
+C0121,Leadership,Advanced
+C0122,JavaScript,Intermediate
+C0122,Linux,Intermediate
+C0122,Data Visualization,Beginner
+C0122,Machine Learning,Beginner
+C0122,Excel,Advanced
+C0123,Interviewing,Beginner
+C0123,Numpy,Beginner
+C0123,Tableau,Intermediate
+C0123,NLP,Intermediate
+C0123,Excel,Beginner
+C0124,Machine Learning,Intermediate
+C0124,Kubernetes,Beginner
+C0124,Pandas,Beginner
+C0124,HR Policies,Intermediate
+C0124,SQL,Advanced
+C0124,Interviewing,Beginner
+C0124,Cloud (Azure/AWS),Beginner
+C0124,Tableau,Beginner
+C0124,DAX,Intermediate
+C0125,NLP,Beginner
+C0125,Excel,Intermediate
+C0125,Data Visualization,Beginner
+C0125,Pandas,Beginner
+C0125,Django,Advanced
+C0125,Git,Beginner
+C0126,JavaScript,Beginner
+C0126,Computer Vision,Beginner
+C0126,Communication,Intermediate
+C0126,Numpy,Beginner
+C0126,React,Beginner
+C0127,Kubernetes,Beginner
+C0127,Power BI,Advanced
+C0127,APIs,Advanced
+C0127,Excel,Advanced
+C0127,Data Visualization,Beginner
+C0128,Docker,Intermediate
+C0128,Computer Vision,Intermediate
+C0128,SQL,Beginner
+C0128,NLP,Intermediate
+C0129,Deep Learning,Intermediate
+C0129,Django,Beginner
+C0129,Flask,Beginner
+C0129,Data Visualization,Advanced
+C0130,HR Policies,Beginner
+C0130,Machine Learning,Advanced
+C0130,Leadership,Beginner
+C0130,SQL,Intermediate
+C0130,Tableau,Beginner
+C0130,Numpy,Advanced
+C0130,Git,Intermediate
+C0130,Excel,Beginner
+C0130,APIs,Intermediate
+C0131,Recruitment,Beginner
+C0131,Numpy,Advanced
+C0131,Python,Intermediate
+C0131,Linux,Advanced
+C0131,Computer Vision,Beginner
+C0131,SQL,Beginner
+C0131,Excel,Intermediate
+C0131,Docker,Beginner
+C0132,Deep Learning,Advanced
+C0132,Tableau,Beginner
+C0132,SQL,Intermediate
+C0132,Leadership,Beginner
+C0132,HR Policies,Beginner
+C0132,Statistics,Advanced
+C0132,Cloud (Azure/AWS),Advanced
+C0132,React,Intermediate
+C0133,Deep Learning,Intermediate
+C0133,Django,Intermediate
+C0133,Git,Intermediate
+C0133,SQL,Intermediate
+C0133,React,Beginner
+C0133,Kubernetes,Intermediate
+C0133,Docker,Intermediate
+C0134,Deep Learning,Intermediate
+C0134,Stakeholder Management,Beginner
+C0134,Python,Intermediate
+C0134,NLP,Intermediate
+C0134,Pandas,Advanced
+C0134,Django,Beginner
+C0134,React,Beginner
+C0134,Tableau,Advanced
+C0134,Data Visualization,Beginner
+C0134,Leadership,Beginner
+C0135,React,Beginner
+C0135,Kubernetes,Beginner
+C0135,Linux,Advanced
+C0135,Interviewing,Intermediate
+C0135,APIs,Intermediate
+C0135,Django,Beginner
+C0135,Tableau,Intermediate
+C0135,Cloud (Azure/AWS),Beginner
+C0135,HR Policies,Beginner
+C0135,SQL,Beginner
+C0136,Django,Beginner
+C0136,DAX,Beginner
+C0136,HR Policies,Advanced
+C0136,Cloud (Azure/AWS),Advanced
+C0137,Machine Learning,Beginner
+C0137,Linux,Intermediate
+C0137,Computer Vision,Advanced
+C0137,Communication,Beginner
+C0137,Docker,Intermediate
+C0137,Git,Beginner
+C0137,Flask,Intermediate
+C0137,Kubernetes,Advanced
+C0138,APIs,Intermediate
+C0138,Excel,Intermediate
+C0138,JavaScript,Advanced
+C0138,Recruitment,Advanced
+C0138,Statistics,Beginner
+C0138,Python,Beginner
+C0139,Django,Intermediate
+C0139,Power BI,Intermediate
+C0139,NLP,Advanced
+C0139,Linux,Beginner
+C0139,Statistics,Beginner
+C0140,Linux,Intermediate
+C0140,JavaScript,Intermediate
+C0140,Interviewing,Advanced
+C0140,Power BI,Beginner
+C0140,Numpy,Intermediate
+C0140,Git,Intermediate
+C0140,HR Policies,Beginner
+C0140,DAX,Beginner
+C0140,React,Intermediate
+C0140,Stakeholder Management,Intermediate
+C0141,Recruitment,Beginner
+C0141,Pandas,Advanced
+C0141,Interviewing,Beginner
+C0141,Kubernetes,Intermediate
+C0141,JavaScript,Intermediate
+C0141,Tableau,Intermediate
+C0141,Django,Intermediate
+C0141,SQL,Intermediate
+C0141,React,Intermediate
+C0142,Leadership,Intermediate
+C0142,APIs,Beginner
+C0142,Django,Intermediate
+C0142,Computer Vision,Advanced
+C0143,Stakeholder Management,Intermediate
+C0143,Python,Beginner
+C0143,Kubernetes,Intermediate
+C0143,Flask,Beginner
+C0143,Data Visualization,Beginner
+C0143,Recruitment,Beginner
+C0143,Cloud (Azure/AWS),Intermediate
+C0143,Machine Learning,Advanced
+C0144,Pandas,Beginner
+C0144,Kubernetes,Beginner
+C0144,Power BI,Intermediate
+C0144,HR Policies,Beginner
+C0144,Communication,Intermediate
+C0144,Statistics,Advanced
+C0144,Deep Learning,Beginner
+C0144,JavaScript,Beginner
+C0145,Data Visualization,Beginner
+C0145,Kubernetes,Beginner
+C0145,Numpy,Advanced
+C0145,Flask,Intermediate
+C0145,Cloud (Azure/AWS),Intermediate
+C0145,NLP,Intermediate
+C0145,Excel,Intermediate
+C0145,Docker,Beginner
+C0145,SQL,Intermediate
+C0146,APIs,Intermediate
+C0146,Data Visualization,Intermediate
+C0146,Machine Learning,Intermediate
+C0146,Computer Vision,Beginner
+C0146,HR Policies,Intermediate
+C0146,Docker,Beginner
+C0146,Git,Beginner
+C0146,Excel,Intermediate
+C0146,DAX,Intermediate
+C0147,Docker,Intermediate
+C0147,JavaScript,Advanced
+C0147,Excel,Beginner
+C0147,Linux,Intermediate
+C0147,NLP,Advanced
+C0148,Stakeholder Management,Beginner
+C0148,APIs,Intermediate
+C0148,HR Policies,Advanced
+C0148,Pandas,Beginner
+C0148,Deep Learning,Intermediate
+C0148,Excel,Intermediate
+C0148,Git,Intermediate
+C0148,Interviewing,Intermediate
+C0148,Computer Vision,Intermediate
+C0149,Docker,Intermediate
+C0149,Pandas,Beginner
+C0149,Tableau,Beginner
+C0149,React,Beginner
+C0149,Leadership,Intermediate
+C0149,Django,Intermediate
+C0149,Communication,Advanced
+C0149,SQL,Beginner
+C0149,Data Visualization,Advanced
+C0150,Numpy,Intermediate
+C0150,Data Visualization,Advanced
+C0150,Python,Advanced
+C0150,Pandas,Intermediate
+C0150,Linux,Intermediate
+C0150,Statistics,Advanced
+C0150,Flask,Intermediate
+C0150,Machine Learning,Intermediate
+C0151,DAX,Intermediate
+C0151,Computer Vision,Advanced
+C0151,SQL,Intermediate
+C0151,Recruitment,Intermediate
+C0151,Python,Beginner
+C0151,Machine Learning,Beginner
+C0151,Pandas,Beginner
+C0151,Numpy,Beginner
+C0151,Tableau,Intermediate
+C0151,Flask,Advanced
+C0152,Tableau,Beginner
+C0152,HR Policies,Beginner
+C0152,Power BI,Beginner
+C0152,Docker,Beginner
+C0152,Git,Advanced
+C0152,Stakeholder Management,Intermediate
+C0152,Leadership,Intermediate
+C0152,Cloud (Azure/AWS),Beginner
+C0152,APIs,Advanced
+C0153,React,Intermediate
+C0153,Data Visualization,Intermediate
+C0153,Interviewing,Advanced
+C0153,Computer Vision,Beginner
+C0153,Django,Beginner
+C0153,Pandas,Advanced
+C0154,Cloud (Azure/AWS),Advanced
+C0154,React,Advanced
+C0154,Excel,Intermediate
+C0154,Deep Learning,Advanced
+C0154,Pandas,Advanced
+C0154,Linux,Beginner
+C0154,JavaScript,Beginner
+C0155,Tableau,Advanced
+C0155,Machine Learning,Intermediate
+C0155,Computer Vision,Intermediate
+C0155,Flask,Intermediate
+C0156,Git,Advanced
+C0156,Linux,Intermediate
+C0156,HR Policies,Beginner
+C0156,DAX,Intermediate
+C0156,JavaScript,Intermediate
+C0156,Tableau,Advanced
+C0156,React,Intermediate
+C0156,Pandas,Intermediate
+C0156,Python,Intermediate
+C0157,Excel,Intermediate
+C0157,Interviewing,Intermediate
+C0157,Stakeholder Management,Beginner
+C0157,Recruitment,Beginner
+C0157,Cloud (Azure/AWS),Intermediate
+C0157,Machine Learning,Beginner
+C0157,NLP,Advanced
+C0157,Git,Beginner
+C0157,Numpy,Intermediate
+C0157,Python,Beginner
+C0158,Interviewing,Beginner
+C0158,Recruitment,Advanced
+C0158,Power BI,Intermediate
+C0158,Flask,Intermediate
+C0158,Computer Vision,Beginner
+C0159,Leadership,Beginner
+C0159,Communication,Intermediate
+C0159,Docker,Intermediate
+C0159,APIs,Beginner
+C0159,Django,Intermediate
+C0159,Power BI,Intermediate
+C0159,Tableau,Intermediate
+C0160,Statistics,Beginner
+C0160,Power BI,Beginner
+C0160,React,Advanced
+C0160,Kubernetes,Intermediate
+C0160,SQL,Advanced
+C0160,Machine Learning,Intermediate
+C0160,Pandas,Advanced
+C0160,Git,Intermediate
+C0160,HR Policies,Intermediate
+C0160,NLP,Intermediate
+C0161,Cloud (Azure/AWS),Beginner
+C0161,Numpy,Intermediate
+C0161,Recruitment,Beginner
+C0161,Communication,Advanced
+C0161,Flask,Beginner
+C0161,Python,Intermediate
+C0161,Statistics,Advanced
+C0162,Numpy,Beginner
+C0162,Stakeholder Management,Beginner
+C0162,Flask,Beginner
+C0162,Tableau,Intermediate
+C0162,DAX,Intermediate
+C0162,Computer Vision,Beginner
+C0162,Kubernetes,Intermediate
+C0162,Machine Learning,Beginner
+C0162,Cloud (Azure/AWS),Beginner
+C0162,Python,Intermediate
+C0163,Kubernetes,Intermediate
+C0163,Deep Learning,Intermediate
+C0163,Data Visualization,Beginner
+C0163,APIs,Intermediate
+C0163,Cloud (Azure/AWS),Beginner
+C0163,DAX,Beginner
+C0164,NLP,Intermediate
+C0164,Excel,Beginner
+C0164,Machine Learning,Intermediate
+C0164,APIs,Intermediate
+C0164,Recruitment,Beginner
+C0164,React,Beginner
+C0164,Docker,Advanced
+C0164,Deep Learning,Beginner
+C0165,JavaScript,Advanced
+C0165,Computer Vision,Intermediate
+C0165,Django,Advanced
+C0165,Leadership,Advanced
+C0165,Interviewing,Beginner
+C0165,Docker,Beginner
+C0165,Data Visualization,Intermediate
+C0166,Tableau,Intermediate
+C0166,Linux,Beginner
+C0166,Machine Learning,Intermediate
+C0166,SQL,Intermediate
+C0166,React,Advanced
+C0166,Deep Learning,Advanced
+C0166,Stakeholder Management,Advanced
+C0166,NLP,Beginner
+C0167,Power BI,Intermediate
+C0167,Recruitment,Beginner
+C0167,JavaScript,Beginner
+C0167,NLP,Intermediate
+C0167,Statistics,Intermediate
+C0167,Django,Intermediate
+C0168,Docker,Intermediate
+C0168,Leadership,Intermediate
+C0168,NLP,Intermediate
+C0168,DAX,Beginner
+C0168,JavaScript,Intermediate
+C0168,Kubernetes,Intermediate
+C0168,Deep Learning,Intermediate
+C0169,Stakeholder Management,Beginner
+C0169,Interviewing,Advanced
+C0169,Recruitment,Advanced
+C0169,Computer Vision,Intermediate
+C0170,Flask,Intermediate
+C0170,Python,Intermediate
+C0170,Pandas,Intermediate
+C0170,DAX,Intermediate
+C0170,Recruitment,Intermediate
+C0170,Machine Learning,Beginner
+C0170,Power BI,Intermediate
+C0170,SQL,Beginner
+C0170,Git,Advanced
+C0171,Communication,Intermediate
+C0171,DAX,Beginner
+C0171,Docker,Intermediate
+C0171,React,Beginner
+C0171,Kubernetes,Intermediate
+C0172,Interviewing,Beginner
+C0172,Django,Intermediate
+C0172,Stakeholder Management,Intermediate
+C0172,Cloud (Azure/AWS),Intermediate
+C0172,Python,Beginner
+C0172,Docker,Advanced
+C0172,JavaScript,Intermediate
+C0172,Deep Learning,Intermediate
+C0172,Git,Beginner
+C0172,Communication,Beginner
+C0173,DAX,Beginner
+C0173,Interviewing,Beginner
+C0173,HR Policies,Advanced
+C0173,Linux,Advanced
+C0173,Numpy,Intermediate
+C0174,Linux,Beginner
+C0174,DAX,Beginner
+C0174,Pandas,Advanced
+C0174,Deep Learning,Beginner
+C0174,Flask,Intermediate
+C0174,Leadership,Intermediate
+C0174,SQL,Intermediate
+C0174,Recruitment,Advanced
+C0174,Data Visualization,Beginner
+C0174,Git,Intermediate
+C0175,Tableau,Beginner
+C0175,Statistics,Beginner
+C0175,Data Visualization,Beginner
+C0175,Recruitment,Beginner
+C0175,React,Beginner
+C0176,Django,Intermediate
+C0176,APIs,Intermediate
+C0176,Interviewing,Intermediate
+C0176,JavaScript,Intermediate
+C0176,Data Visualization,Intermediate
+C0176,Power BI,Advanced
+C0176,Recruitment,Intermediate
+C0176,Computer Vision,Advanced
+C0176,React,Intermediate
+C0177,Git,Beginner
+C0177,Leadership,Beginner
+C0177,HR Policies,Intermediate
+C0177,Communication,Beginner
+C0177,Tableau,Beginner
+C0177,React,Intermediate
+C0177,Numpy,Beginner
+C0177,Machine Learning,Intermediate
+C0177,Statistics,Beginner
+C0177,Kubernetes,Beginner
+C0178,Docker,Beginner
+C0178,Numpy,Beginner
+C0178,Git,Advanced
+C0178,Linux,Advanced
+C0178,Deep Learning,Beginner
+C0179,Flask,Advanced
+C0179,Leadership,Advanced
+C0179,React,Advanced
+C0179,Django,Beginner
+C0180,APIs,Intermediate
+C0180,Excel,Intermediate
+C0180,Kubernetes,Intermediate
+C0180,Docker,Intermediate
+C0180,JavaScript,Intermediate
+C0180,Deep Learning,Intermediate
+C0180,React,Intermediate
+C0180,Python,Advanced
+C0181,NLP,Beginner
+C0181,Recruitment,Beginner
+C0181,Git,Beginner
+C0181,APIs,Intermediate
+C0181,Kubernetes,Intermediate
+C0181,Python,Beginner
+C0181,Computer Vision,Intermediate
+C0181,Power BI,Intermediate
+C0181,Docker,Advanced
+C0181,Leadership,Intermediate
+C0182,Leadership,Advanced
+C0182,Cloud (Azure/AWS),Intermediate
+C0182,Communication,Intermediate
+C0182,Numpy,Beginner
+C0182,Pandas,Beginner
+C0183,NLP,Intermediate
+C0183,Statistics,Intermediate
+C0183,HR Policies,Beginner
+C0183,Excel,Beginner
+C0183,Pandas,Intermediate
+C0183,Computer Vision,Beginner
+C0183,Communication,Intermediate
+C0183,Git,Intermediate
+C0183,Kubernetes,Intermediate
+C0184,Deep Learning,Beginner
+C0184,Data Visualization,Beginner
+C0184,Recruitment,Intermediate
+C0184,HR Policies,Intermediate
+C0184,Django,Intermediate
+C0185,Python,Beginner
+C0185,Tableau,Intermediate
+C0185,Django,Beginner
+C0185,Pandas,Beginner
+C0185,Deep Learning,Beginner
+C0185,HR Policies,Intermediate
+C0185,Interviewing,Advanced
+C0185,Kubernetes,Advanced
+C0185,Docker,Advanced
+C0186,Deep Learning,Beginner
+C0186,React,Intermediate
+C0186,Git,Intermediate
+C0186,Linux,Intermediate
+C0186,Numpy,Beginner
+C0186,NLP,Intermediate
+C0186,Computer Vision,Advanced
+C0186,Cloud (Azure/AWS),Beginner
+C0186,Communication,Intermediate
+C0186,Power BI,Intermediate
+C0187,Statistics,Beginner
+C0187,Kubernetes,Intermediate
+C0187,Stakeholder Management,Advanced
+C0187,DAX,Intermediate
+C0187,Pandas,Intermediate
+C0187,Django,Intermediate
+C0188,Data Visualization,Advanced
+C0188,SQL,Beginner
+C0188,APIs,Intermediate
+C0188,Django,Advanced
+C0189,Docker,Advanced
+C0189,Kubernetes,Intermediate
+C0189,Data Visualization,Intermediate
+C0189,NLP,Beginner
+C0189,Linux,Intermediate
+C0189,Tableau,Advanced
+C0189,Git,Beginner
+C0189,Excel,Beginner
+C0190,Statistics,Intermediate
+C0190,APIs,Intermediate
+C0190,NLP,Intermediate
+C0190,Tableau,Beginner
+C0190,Deep Learning,Intermediate
+C0190,Numpy,Intermediate
+C0190,Power BI,Beginner
+C0190,JavaScript,Intermediate
+C0190,Pandas,Intermediate
+C0190,Django,Intermediate
+C0191,Recruitment,Intermediate
+C0191,Computer Vision,Beginner
+C0191,HR Policies,Beginner
+C0191,Excel,Advanced
+C0191,SQL,Advanced
+C0191,Power BI,Advanced
+C0191,Kubernetes,Beginner
+C0191,Statistics,Intermediate
+C0191,NLP,Intermediate
+C0192,Computer Vision,Advanced
+C0192,Git,Beginner
+C0192,Numpy,Beginner
+C0192,Communication,Beginner
+C0192,Python,Intermediate
+C0192,Recruitment,Intermediate
+C0192,Django,Intermediate
+C0193,Pandas,Advanced
+C0193,Cloud (Azure/AWS),Intermediate
+C0193,JavaScript,Intermediate
+C0193,Interviewing,Intermediate
+C0193,Deep Learning,Beginner
+C0193,Git,Intermediate
+C0193,Tableau,Intermediate
+C0193,SQL,Beginner
+C0194,Tableau,Beginner
+C0194,Numpy,Intermediate
+C0194,Power BI,Advanced
+C0194,JavaScript,Advanced
+C0194,Deep Learning,Advanced
+C0194,Flask,Beginner
+C0194,Communication,Beginner
+C0195,Kubernetes,Advanced
+C0195,Stakeholder Management,Intermediate
+C0195,Django,Intermediate
+C0195,Power BI,Intermediate
+C0195,Computer Vision,Advanced
+C0195,JavaScript,Intermediate
+C0195,Leadership,Beginner
+C0195,Statistics,Intermediate
+C0196,DAX,Beginner
+C0196,Docker,Beginner
+C0196,HR Policies,Advanced
+C0196,Cloud (Azure/AWS),Advanced
+C0196,NLP,Beginner
+C0196,Statistics,Beginner
+C0196,Computer Vision,Beginner
+C0197,Tableau,Intermediate
+C0197,Power BI,Advanced
+C0197,Deep Learning,Beginner
+C0197,Excel,Beginner
+C0197,Flask,Intermediate
+C0197,Statistics,Beginner
+C0197,Machine Learning,Advanced
+C0197,HR Policies,Intermediate
+C0197,React,Advanced
+C0198,React,Intermediate
+C0198,Data Visualization,Beginner
+C0198,NLP,Intermediate
+C0198,Tableau,Beginner
+C0198,Django,Beginner
+C0198,Computer Vision,Intermediate
+C0198,Leadership,Advanced
+C0198,Git,Intermediate
+C0199,Stakeholder Management,Intermediate
+C0199,Tableau,Advanced
+C0199,Pandas,Beginner
+C0199,React,Intermediate
+C0199,Recruitment,Intermediate
+C0199,Linux,Advanced
+C0200,Data Visualization,Intermediate
+C0200,Flask,Beginner
+C0200,Statistics,Beginner
+C0200,HR Policies,Beginner
+C0200,Recruitment,Intermediate
+C0200,Computer Vision,Beginner
+C0200,Deep Learning,Advanced
+C0200,JavaScript,Intermediate
+C0200,APIs,Intermediate
+C0201,SQL,Beginner
+C0201,Numpy,Advanced
+C0201,APIs,Intermediate
+C0201,React,Intermediate
+C0201,Excel,Intermediate
+C0201,JavaScript,Advanced
+C0202,Python,Intermediate
+C0202,Data Visualization,Beginner
+C0202,Kubernetes,Beginner
+C0202,Django,Beginner
+C0202,HR Policies,Advanced
+C0202,DAX,Beginner
+C0202,Deep Learning,Advanced
+C0202,SQL,Advanced
+C0202,React,Intermediate
+C0203,Flask,Beginner
+C0203,Cloud (Azure/AWS),Advanced
+C0203,DAX,Intermediate
+C0203,Data Visualization,Advanced
+C0203,Git,Advanced
+C0203,Computer Vision,Intermediate
+C0203,Stakeholder Management,Beginner
+C0203,Power BI,Intermediate
+C0203,Django,Intermediate
+C0204,Excel,Intermediate
+C0204,Git,Intermediate
+C0204,Flask,Beginner
+C0204,NLP,Beginner
+C0204,Docker,Beginner
+C0204,Leadership,Intermediate
+C0204,Numpy,Beginner
+C0204,Recruitment,Advanced
+C0205,Tableau,Intermediate
+C0205,Power BI,Intermediate
+C0205,JavaScript,Advanced
+C0205,Kubernetes,Intermediate
+C0205,Recruitment,Beginner
+C0205,Excel,Beginner
+C0205,Git,Intermediate
+C0205,HR Policies,Intermediate
+C0205,Numpy,Advanced
+C0205,Data Visualization,Beginner
+C0206,DAX,Beginner
+C0206,Computer Vision,Beginner
+C0206,Machine Learning,Intermediate
+C0206,SQL,Intermediate
+C0206,Data Visualization,Beginner
+C0206,APIs,Beginner
+C0207,Django,Intermediate
+C0207,Communication,Advanced
+C0207,Recruitment,Beginner
+C0207,NLP,Beginner
+C0208,Python,Advanced
+C0208,Statistics,Beginner
+C0208,APIs,Intermediate
+C0208,Recruitment,Intermediate
+C0208,Data Visualization,Beginner
+C0208,Communication,Beginner
+C0209,Numpy,Beginner
+C0209,Computer Vision,Intermediate
+C0209,Data Visualization,Intermediate
+C0209,Flask,Beginner
+C0209,DAX,Beginner
+C0209,Interviewing,Advanced
+C0210,HR Policies,Beginner
+C0210,JavaScript,Advanced
+C0210,Linux,Intermediate
+C0210,SQL,Beginner
+C0210,Data Visualization,Advanced
+C0210,Django,Intermediate
+C0210,Leadership,Intermediate
+C0210,NLP,Intermediate
+C0210,Flask,Intermediate
+C0210,React,Intermediate
+C0211,Excel,Intermediate
+C0211,Interviewing,Advanced
+C0211,Computer Vision,Advanced
+C0211,NLP,Beginner
+C0211,Deep Learning,Beginner
+C0212,APIs,Intermediate
+C0212,Recruitment,Beginner
+C0212,Computer Vision,Intermediate
+C0212,Numpy,Beginner
+C0212,Python,Intermediate
+C0212,Docker,Beginner
+C0212,Cloud (Azure/AWS),Intermediate
+C0213,Stakeholder Management,Beginner
+C0213,Deep Learning,Advanced
+C0213,Git,Beginner
+C0213,Interviewing,Intermediate
+C0213,Cloud (Azure/AWS),Intermediate
+C0214,Tableau,Beginner
+C0214,APIs,Intermediate
+C0214,Docker,Advanced
+C0214,Statistics,Beginner
+C0214,Power BI,Intermediate
+C0214,DAX,Intermediate
+C0214,Interviewing,Beginner
+C0214,Python,Beginner
+C0214,NLP,Advanced
+C0214,Flask,Advanced
+C0215,Docker,Intermediate
+C0215,Deep Learning,Intermediate
+C0215,Data Visualization,Intermediate
+C0215,Numpy,Beginner
+C0216,Git,Beginner
+C0216,DAX,Advanced
+C0216,NLP,Advanced
+C0216,Statistics,Intermediate
+C0217,Deep Learning,Intermediate
+C0217,Linux,Advanced
+C0217,Statistics,Beginner
+C0217,JavaScript,Intermediate
+C0217,Computer Vision,Intermediate
+C0217,Recruitment,Beginner
+C0217,Django,Intermediate
+C0217,Excel,Beginner
+C0217,Flask,Intermediate
+C0217,SQL,Intermediate
+C0218,Power BI,Beginner
+C0218,Leadership,Intermediate
+C0218,HR Policies,Intermediate
+C0218,Tableau,Beginner
+C0218,Excel,Beginner
+C0218,Cloud (Azure/AWS),Intermediate
+C0218,Communication,Advanced
+C0218,Statistics,Beginner
+C0219,DAX,Advanced
+C0219,Tableau,Beginner
+C0219,Docker,Intermediate
+C0219,Power BI,Advanced
+C0219,HR Policies,Beginner
+C0220,Django,Intermediate
+C0220,DAX,Advanced
+C0220,Data Visualization,Intermediate
+C0220,JavaScript,Intermediate
+C0220,HR Policies,Beginner
+C0220,Docker,Advanced
+C0220,Python,Beginner
+C0220,Interviewing,Advanced
+C0221,Pandas,Intermediate
+C0221,DAX,Advanced
+C0221,Machine Learning,Beginner
+C0221,Python,Intermediate
+C0221,Stakeholder Management,Advanced
+C0221,Numpy,Beginner
+C0221,Communication,Beginner
+C0221,NLP,Beginner
+C0222,HR Policies,Intermediate
+C0222,Flask,Beginner
+C0222,Pandas,Intermediate
+C0222,Docker,Intermediate
+C0222,Deep Learning,Intermediate
+C0222,Computer Vision,Beginner
+C0222,Communication,Advanced
+C0222,Excel,Advanced
+C0222,APIs,Beginner
+C0222,Numpy,Intermediate
+C0223,Numpy,Beginner
+C0223,Cloud (Azure/AWS),Beginner
+C0223,Docker,Intermediate
+C0223,NLP,Intermediate
+C0223,Python,Intermediate
+C0223,Machine Learning,Advanced
+C0223,Leadership,Intermediate
+C0223,Computer Vision,Beginner
+C0223,Pandas,Beginner
+C0223,Data Visualization,Intermediate
+C0224,Stakeholder Management,Intermediate
+C0224,Flask,Beginner
+C0224,Git,Beginner
+C0224,HR Policies,Intermediate
+C0224,Interviewing,Advanced
+C0224,Kubernetes,Intermediate
+C0224,Tableau,Intermediate
+C0224,DAX,Advanced
+C0225,Git,Advanced
+C0225,Deep Learning,Beginner
+C0225,Docker,Intermediate
+C0225,Tableau,Advanced
+C0225,DAX,Beginner
+C0226,React,Intermediate
+C0226,Leadership,Intermediate
+C0226,Django,Intermediate
+C0226,Linux,Intermediate
+C0226,APIs,Beginner
+C0226,NLP,Advanced
+C0226,Git,Beginner
+C0226,Data Visualization,Beginner
+C0227,React,Advanced
+C0227,Tableau,Intermediate
+C0227,SQL,Intermediate
+C0227,Numpy,Intermediate
+C0227,Leadership,Beginner
+C0228,Data Visualization,Intermediate
+C0228,Git,Intermediate
+C0228,Stakeholder Management,Beginner
+C0228,Power BI,Beginner
+C0228,Flask,Intermediate
+C0228,NLP,Beginner
+C0228,Deep Learning,Intermediate
+C0228,Django,Beginner
+C0229,APIs,Intermediate
+C0229,Linux,Beginner
+C0229,React,Beginner
+C0229,Communication,Intermediate
+C0229,HR Policies,Advanced
+C0229,SQL,Beginner
+C0229,Computer Vision,Intermediate
+C0229,Git,Beginner
+C0229,Numpy,Beginner
+C0229,Data Visualization,Beginner
+C0230,Power BI,Advanced
+C0230,Django,Intermediate
+C0230,NLP,Intermediate
+C0230,React,Intermediate
+C0230,Numpy,Intermediate
+C0231,Pandas,Beginner
+C0231,Deep Learning,Intermediate
+C0231,NLP,Advanced
+C0231,Leadership,Intermediate
+C0231,Machine Learning,Intermediate
+C0231,Django,Intermediate
+C0231,Power BI,Intermediate
+C0232,React,Intermediate
+C0232,Flask,Intermediate
+C0232,Cloud (Azure/AWS),Beginner
+C0232,DAX,Beginner
+C0232,Data Visualization,Beginner
+C0233,Tableau,Advanced
+C0233,Django,Intermediate
+C0233,DAX,Advanced
+C0233,Docker,Intermediate
+C0233,Recruitment,Beginner
+C0233,Data Visualization,Intermediate
+C0233,Python,Advanced
+C0233,Statistics,Intermediate
+C0233,Cloud (Azure/AWS),Intermediate
+C0234,Flask,Beginner
+C0234,Cloud (Azure/AWS),Advanced
+C0234,Interviewing,Beginner
+C0234,Recruitment,Intermediate
+C0234,Kubernetes,Intermediate
+C0234,Linux,Intermediate
+C0234,DAX,Beginner
+C0234,Power BI,Intermediate
+C0235,Statistics,Beginner
+C0235,Linux,Intermediate
+C0235,Recruitment,Intermediate
+C0235,Power BI,Advanced
+C0235,Computer Vision,Intermediate
+C0236,Docker,Beginner
+C0236,HR Policies,Advanced
+C0236,Kubernetes,Intermediate
+C0236,Deep Learning,Advanced
+C0236,Cloud (Azure/AWS),Intermediate
+C0236,Communication,Intermediate
+C0237,Pandas,Intermediate
+C0237,Power BI,Beginner
+C0237,HR Policies,Intermediate
+C0237,Excel,Intermediate
+C0237,Machine Learning,Intermediate
+C0237,SQL,Advanced
+C0237,DAX,Beginner
+C0237,Python,Beginner
+C0237,Django,Intermediate
+C0238,Data Visualization,Intermediate
+C0238,Machine Learning,Advanced
+C0238,Python,Beginner
+C0238,Recruitment,Advanced
+C0238,Kubernetes,Advanced
+C0238,Computer Vision,Intermediate
+C0238,APIs,Beginner
+C0238,Deep Learning,Beginner
+C0239,Git,Beginner
+C0239,React,Beginner
+C0239,Machine Learning,Advanced
+C0239,Power BI,Beginner
+C0239,NLP,Intermediate
+C0239,HR Policies,Beginner
+C0240,Deep Learning,Advanced
+C0240,Cloud (Azure/AWS),Intermediate
+C0240,Linux,Intermediate
+C0240,Stakeholder Management,Intermediate
+C0240,Power BI,Intermediate
+C0240,React,Intermediate
+C0241,Deep Learning,Advanced
+C0241,Recruitment,Intermediate
+C0241,Django,Intermediate
+C0241,React,Advanced
+C0241,JavaScript,Beginner
+C0241,Cloud (Azure/AWS),Intermediate
+C0241,DAX,Intermediate
+C0241,Docker,Intermediate
+C0241,Machine Learning,Intermediate
+C0241,Numpy,Intermediate
+C0242,DAX,Beginner
+C0242,Power BI,Intermediate
+C0242,Stakeholder Management,Beginner
+C0242,Excel,Intermediate
+C0242,HR Policies,Beginner
+C0242,Pandas,Beginner
+C0242,NLP,Beginner
+C0242,React,Intermediate
+C0242,JavaScript,Beginner
+C0242,Numpy,Beginner
+C0243,Deep Learning,Beginner
+C0243,DAX,Advanced
+C0243,Excel,Advanced
+C0243,Stakeholder Management,Advanced
+C0244,NLP,Intermediate
+C0244,Cloud (Azure/AWS),Advanced
+C0244,JavaScript,Beginner
+C0244,Data Visualization,Advanced
+C0245,Numpy,Advanced
+C0245,Flask,Intermediate
+C0245,Pandas,Intermediate
+C0245,Git,Intermediate
+C0245,Excel,Intermediate
+C0245,Computer Vision,Beginner
+C0246,APIs,Intermediate
+C0246,Linux,Intermediate
+C0246,SQL,Beginner
+C0246,Kubernetes,Advanced
+C0246,Django,Advanced
+C0246,Pandas,Beginner
+C0246,Data Visualization,Intermediate
+C0247,Flask,Beginner
+C0247,Leadership,Intermediate
+C0247,APIs,Intermediate
+C0247,Data Visualization,Beginner
+C0247,Docker,Advanced
+C0247,Pandas,Intermediate
+C0247,JavaScript,Intermediate
+C0247,Deep Learning,Beginner
+C0247,DAX,Beginner
+C0248,Linux,Beginner
+C0248,Django,Intermediate
+C0248,Data Visualization,Beginner
+C0248,Computer Vision,Intermediate
+C0248,Recruitment,Advanced
+C0249,Deep Learning,Intermediate
+C0249,Leadership,Advanced
+C0249,Data Visualization,Intermediate
+C0249,JavaScript,Intermediate
+C0249,React,Advanced
+C0249,Python,Beginner
+C0249,APIs,Advanced
+C0249,Computer Vision,Beginner
+C0249,Linux,Beginner
+C0249,Cloud (Azure/AWS),Intermediate
+C0250,Flask,Beginner
+C0250,Git,Beginner
+C0250,Recruitment,Beginner
+C0250,Leadership,Beginner
+C0250,NLP,Beginner
+C0250,HR Policies,Advanced
+C0251,Docker,Intermediate
+C0251,Interviewing,Beginner
+C0251,SQL,Intermediate
+C0251,Linux,Intermediate
+C0251,Django,Advanced
+C0252,Stakeholder Management,Beginner
+C0252,Cloud (Azure/AWS),Beginner
+C0252,Communication,Beginner
+C0252,Leadership,Beginner
+C0252,Data Visualization,Advanced
+C0253,Python,Beginner
+C0253,Communication,Beginner
+C0253,Leadership,Intermediate
+C0253,Excel,Beginner
+C0253,NLP,Intermediate
+C0253,DAX,Advanced
+C0253,HR Policies,Beginner
+C0253,APIs,Beginner
+C0253,SQL,Beginner
+C0253,Interviewing,Advanced
+C0254,APIs,Intermediate
+C0254,Kubernetes,Intermediate
+C0254,Django,Beginner
+C0254,HR Policies,Intermediate
+C0254,Numpy,Beginner
+C0254,Data Visualization,Advanced
+C0254,Machine Learning,Advanced
+C0254,Computer Vision,Intermediate
+C0254,Excel,Intermediate
+C0254,React,Intermediate
+C0255,Leadership,Intermediate
+C0255,Power BI,Intermediate
+C0255,DAX,Beginner
+C0255,HR Policies,Intermediate
+C0255,Django,Intermediate
+C0255,Tableau,Intermediate
+C0256,HR Policies,Beginner
+C0256,Python,Intermediate
+C0256,Docker,Intermediate
+C0256,Tableau,Beginner
+C0256,Django,Beginner
+C0256,React,Beginner
+C0256,Numpy,Intermediate
+C0256,Machine Learning,Intermediate
+C0256,DAX,Intermediate
+C0256,Statistics,Intermediate
+C0257,Stakeholder Management,Intermediate
+C0257,Data Visualization,Intermediate
+C0257,DAX,Beginner
+C0257,Computer Vision,Advanced
+C0257,Tableau,Intermediate
+C0257,Communication,Intermediate
+C0257,Leadership,Intermediate
+C0257,JavaScript,Intermediate
+C0257,Python,Advanced
+C0257,Numpy,Intermediate
+C0258,Communication,Beginner
+C0258,Pandas,Intermediate
+C0258,Machine Learning,Beginner
+C0258,SQL,Intermediate
+C0258,Stakeholder Management,Intermediate
+C0258,Statistics,Advanced
+C0258,NLP,Intermediate
+C0258,APIs,Advanced
+C0258,Leadership,Intermediate
+C0258,Deep Learning,Intermediate
+C0259,Computer Vision,Advanced
+C0259,APIs,Advanced
+C0259,NLP,Advanced
+C0259,Numpy,Intermediate
+C0259,Linux,Intermediate
+C0260,React,Intermediate
+C0260,Kubernetes,Advanced
+C0260,Tableau,Advanced
+C0260,APIs,Intermediate
+C0260,Machine Learning,Intermediate
+C0260,Statistics,Advanced
+C0260,SQL,Beginner
+C0260,DAX,Intermediate
+C0260,Power BI,Intermediate
+C0261,Excel,Beginner
+C0261,Numpy,Beginner
+C0261,Communication,Beginner
+C0261,Interviewing,Intermediate
+C0262,Django,Beginner
+C0262,Data Visualization,Intermediate
+C0262,Interviewing,Beginner
+C0262,Python,Beginner
+C0262,Cloud (Azure/AWS),Beginner
+C0262,Computer Vision,Beginner
+C0262,DAX,Beginner
+C0262,SQL,Beginner
+C0263,Tableau,Beginner
+C0263,Deep Learning,Beginner
+C0263,Communication,Beginner
+C0263,Power BI,Beginner
+C0263,React,Intermediate
+C0264,Leadership,Advanced
+C0264,Excel,Beginner
+C0264,Git,Advanced
+C0264,Docker,Intermediate
+C0265,HR Policies,Advanced
+C0265,Communication,Intermediate
+C0265,DAX,Intermediate
+C0265,JavaScript,Intermediate
+C0265,Linux,Intermediate
+C0265,Kubernetes,Beginner
+C0266,Deep Learning,Beginner
+C0266,APIs,Intermediate
+C0266,SQL,Intermediate
+C0266,Leadership,Intermediate
+C0266,Communication,Intermediate
+C0266,Flask,Advanced
+C0266,React,Intermediate
+C0266,Tableau,Beginner
+C0267,Cloud (Azure/AWS),Intermediate
+C0267,Recruitment,Advanced
+C0267,Excel,Beginner
+C0267,Interviewing,Beginner
+C0267,Python,Beginner
+C0268,HR Policies,Beginner
+C0268,Data Visualization,Beginner
+C0268,Excel,Beginner
+C0268,Recruitment,Advanced
+C0268,Pandas,Beginner
+C0268,Git,Intermediate
+C0268,Machine Learning,Advanced
+C0268,SQL,Beginner
+C0268,Django,Intermediate
+C0269,Linux,Beginner
+C0269,SQL,Advanced
+C0269,Deep Learning,Advanced
+C0269,Docker,Beginner
+C0269,HR Policies,Intermediate
+C0269,Excel,Advanced
+C0269,Leadership,Beginner
+C0269,Cloud (Azure/AWS),Beginner
+C0270,Git,Beginner
+C0270,Numpy,Beginner
+C0270,DAX,Beginner
+C0270,Flask,Intermediate
+C0270,SQL,Intermediate
+C0270,Stakeholder Management,Intermediate
+C0271,Python,Intermediate
+C0271,Computer Vision,Advanced
+C0271,Data Visualization,Advanced
+C0271,Flask,Advanced
+C0271,Git,Intermediate
+C0271,React,Beginner
+C0271,HR Policies,Beginner
+C0271,Linux,Beginner
+C0272,Pandas,Beginner
+C0272,Stakeholder Management,Beginner
+C0272,Data Visualization,Intermediate
+C0272,Git,Advanced
+C0272,Docker,Intermediate
+C0272,JavaScript,Beginner
+C0272,Excel,Advanced
+C0272,Cloud (Azure/AWS),Intermediate
+C0272,APIs,Beginner
+C0272,Interviewing,Beginner
+C0273,Docker,Beginner
+C0273,DAX,Advanced
+C0273,Statistics,Advanced
+C0273,APIs,Beginner
+C0273,NLP,Intermediate
+C0273,Kubernetes,Intermediate
+C0273,Interviewing,Beginner
+C0273,Machine Learning,Beginner
+C0273,HR Policies,Intermediate
+C0273,React,Beginner
+C0274,Git,Beginner
+C0274,Flask,Intermediate
+C0274,Computer Vision,Intermediate
+C0274,Cloud (Azure/AWS),Beginner
+C0274,Machine Learning,Intermediate
+C0274,Deep Learning,Advanced
+C0274,Python,Intermediate
+C0274,Pandas,Intermediate
+C0274,Interviewing,Beginner
+C0275,SQL,Intermediate
+C0275,Machine Learning,Intermediate
+C0275,HR Policies,Advanced
+C0275,Python,Intermediate
+C0275,Pandas,Intermediate
+C0275,Docker,Beginner
+C0276,Linux,Beginner
+C0276,DAX,Intermediate
+C0276,Django,Beginner
+C0276,SQL,Beginner
+C0277,Excel,Beginner
+C0277,Python,Beginner
+C0277,Computer Vision,Intermediate
+C0277,Statistics,Beginner
+C0278,DAX,Beginner
+C0278,NLP,Beginner
+C0278,JavaScript,Advanced
+C0278,Deep Learning,Intermediate
+C0278,Git,Beginner
+C0278,Numpy,Intermediate
+C0278,Django,Beginner
+C0279,DAX,Intermediate
+C0279,React,Intermediate
+C0279,Linux,Advanced
+C0279,Deep Learning,Beginner
+C0279,Leadership,Intermediate
+C0279,Pandas,Advanced
+C0279,Stakeholder Management,Advanced
+C0279,NLP,Intermediate
+C0279,Flask,Intermediate
+C0280,Docker,Advanced
+C0280,Cloud (Azure/AWS),Advanced
+C0280,Recruitment,Advanced
+C0280,Tableau,Intermediate
+C0280,React,Advanced
+C0280,HR Policies,Intermediate
+C0280,Django,Intermediate
+C0281,Docker,Intermediate
+C0281,Kubernetes,Advanced
+C0281,Deep Learning,Advanced
+C0281,Django,Advanced
+C0281,SQL,Intermediate
+C0281,JavaScript,Beginner
+C0281,Power BI,Beginner
+C0281,DAX,Advanced
+C0281,Data Visualization,Beginner
+C0282,Leadership,Advanced
+C0282,Docker,Beginner
+C0282,Tableau,Intermediate
+C0282,Computer Vision,Advanced
+C0282,Flask,Intermediate
+C0283,APIs,Advanced
+C0283,Pandas,Intermediate
+C0283,JavaScript,Intermediate
+C0283,React,Advanced
+C0283,Linux,Advanced
+C0283,Computer Vision,Intermediate
+C0283,Communication,Intermediate
+C0283,Git,Advanced
+C0283,Flask,Intermediate
+C0283,Excel,Intermediate
+C0284,React,Intermediate
+C0284,APIs,Advanced
+C0284,Tableau,Beginner
+C0284,Interviewing,Beginner
+C0284,Statistics,Intermediate
+C0284,Computer Vision,Intermediate
+C0284,Django,Intermediate
+C0284,Pandas,Advanced
+C0284,HR Policies,Advanced
+C0285,Numpy,Advanced
+C0285,Communication,Intermediate
+C0285,Python,Advanced
+C0285,Tableau,Advanced
+C0285,Stakeholder Management,Beginner
+C0286,React,Intermediate
+C0286,Machine Learning,Intermediate
+C0286,Cloud (Azure/AWS),Intermediate
+C0286,Django,Intermediate
+C0287,Deep Learning,Intermediate
+C0287,Numpy,Intermediate
+C0287,Leadership,Intermediate
+C0287,Cloud (Azure/AWS),Intermediate
+C0288,Recruitment,Beginner
+C0288,Excel,Intermediate
+C0288,SQL,Intermediate
+C0288,NLP,Intermediate
+C0288,APIs,Beginner
+C0288,Numpy,Intermediate
+C0289,React,Intermediate
+C0289,Flask,Beginner
+C0289,Kubernetes,Intermediate
+C0289,Python,Intermediate
+C0289,NLP,Intermediate
+C0289,Deep Learning,Beginner
+C0289,Machine Learning,Beginner
+C0289,Numpy,Intermediate
+C0289,DAX,Intermediate
+C0289,HR Policies,Beginner
+C0290,NLP,Advanced
+C0290,React,Beginner
+C0290,Machine Learning,Intermediate
+C0290,Deep Learning,Advanced
+C0290,DAX,Beginner
+C0291,Flask,Intermediate
+C0291,HR Policies,Beginner
+C0291,Cloud (Azure/AWS),Intermediate
+C0291,Computer Vision,Advanced
+C0291,Machine Learning,Beginner
+C0291,Linux,Intermediate
+C0291,DAX,Beginner
+C0291,JavaScript,Advanced
+C0292,Django,Beginner
+C0292,Power BI,Beginner
+C0292,React,Advanced
+C0292,Linux,Beginner
+C0292,Python,Intermediate
+C0293,Docker,Intermediate
+C0293,Tableau,Advanced
+C0293,DAX,Intermediate
+C0293,Computer Vision,Beginner
+C0293,Git,Intermediate
+C0294,Communication,Advanced
+C0294,DAX,Beginner
+C0294,Pandas,Advanced
+C0294,JavaScript,Intermediate
+C0294,Kubernetes,Advanced
+C0295,Recruitment,Intermediate
+C0295,Interviewing,Advanced
+C0295,Cloud (Azure/AWS),Beginner
+C0295,React,Advanced
+C0295,Flask,Beginner
+C0295,Excel,Intermediate
+C0295,Communication,Beginner
+C0295,Linux,Advanced
+C0295,Deep Learning,Intermediate
+C0296,Data Visualization,Beginner
+C0296,Flask,Advanced
+C0296,Stakeholder Management,Beginner
+C0296,SQL,Beginner
+C0296,React,Advanced
+C0296,Docker,Intermediate
+C0296,Excel,Intermediate
+C0296,Computer Vision,Intermediate
+C0296,Statistics,Advanced
+C0297,Communication,Advanced
+C0297,Django,Advanced
+C0297,HR Policies,Intermediate
+C0297,Python,Beginner
+C0297,JavaScript,Beginner
+C0297,Data Visualization,Intermediate
+C0298,Python,Beginner
+C0298,APIs,Beginner
+C0298,Kubernetes,Intermediate
+C0298,SQL,Intermediate
+C0299,Git,Beginner
+C0299,Pandas,Beginner
+C0299,Excel,Beginner
+C0299,Python,Intermediate
+C0299,Computer Vision,Intermediate
+C0300,Docker,Intermediate
+C0300,Django,Intermediate
+C0300,Machine Learning,Intermediate
+C0300,NLP,Advanced
+C0300,HR Policies,Intermediate
+C0301,Power BI,Advanced
+C0301,Communication,Intermediate
+C0301,Docker,Beginner
+C0301,React,Intermediate
+C0301,Interviewing,Intermediate
+C0301,Django,Intermediate
+C0301,SQL,Intermediate
+C0302,Linux,Beginner
+C0302,Interviewing,Advanced
+C0302,Statistics,Beginner
+C0302,Leadership,Beginner
+C0302,Tableau,Beginner
+C0302,Data Visualization,Intermediate
+C0303,Numpy,Beginner
+C0303,NLP,Beginner
+C0303,Pandas,Beginner
+C0303,Kubernetes,Intermediate
+C0303,APIs,Beginner
+C0303,Data Visualization,Beginner
+C0303,Power BI,Intermediate
+C0303,Cloud (Azure/AWS),Beginner
+C0303,SQL,Beginner
+C0303,Excel,Beginner
+C0304,Linux,Intermediate
+C0304,DAX,Advanced
+C0304,Flask,Beginner
+C0304,JavaScript,Beginner
+C0304,Python,Beginner
+C0304,Git,Advanced
+C0304,Django,Beginner
+C0305,Power BI,Intermediate
+C0305,HR Policies,Beginner
+C0305,Statistics,Intermediate
+C0305,Excel,Advanced
+C0305,Tableau,Intermediate
+C0306,Power BI,Intermediate
+C0306,Excel,Beginner
+C0306,Statistics,Intermediate
+C0306,Deep Learning,Beginner
+C0306,Stakeholder Management,Intermediate
+C0306,Docker,Intermediate
+C0306,APIs,Intermediate
+C0306,Numpy,Intermediate
+C0306,Linux,Intermediate
+C0306,Machine Learning,Beginner
+C0307,Linux,Intermediate
+C0307,Tableau,Intermediate
+C0307,JavaScript,Advanced
+C0307,Statistics,Advanced
+C0307,Cloud (Azure/AWS),Advanced
+C0307,Docker,Intermediate
+C0307,Excel,Intermediate
+C0307,Kubernetes,Intermediate
+C0307,Pandas,Beginner
+C0308,Flask,Advanced
+C0308,SQL,Intermediate
+C0308,Data Visualization,Intermediate
+C0308,Interviewing,Advanced
+C0308,Power BI,Advanced
+C0308,Linux,Intermediate
+C0308,HR Policies,Intermediate
+C0308,Deep Learning,Advanced
+C0308,Statistics,Beginner
+C0309,SQL,Intermediate
+C0309,Deep Learning,Intermediate
+C0309,Machine Learning,Beginner
+C0309,JavaScript,Beginner
+C0309,Data Visualization,Intermediate
+C0309,Python,Intermediate
+C0309,Statistics,Intermediate
+C0309,Interviewing,Advanced
+C0309,Excel,Intermediate
+C0309,Cloud (Azure/AWS),Intermediate
+C0310,Kubernetes,Beginner
+C0310,Excel,Beginner
+C0310,Django,Intermediate
+C0310,Communication,Beginner
+C0310,React,Beginner
+C0310,Machine Learning,Beginner
+C0311,Communication,Advanced
+C0311,Interviewing,Beginner
+C0311,React,Intermediate
+C0311,Tableau,Intermediate
+C0311,Docker,Advanced
+C0311,Cloud (Azure/AWS),Intermediate
+C0311,Linux,Intermediate
+C0312,Numpy,Beginner
+C0312,Leadership,Advanced
+C0312,Linux,Advanced
+C0312,Communication,Advanced
+C0312,Tableau,Intermediate
+C0312,NLP,Intermediate
+C0312,Statistics,Intermediate
+C0313,Recruitment,Beginner
+C0313,HR Policies,Advanced
+C0313,Flask,Beginner
+C0313,SQL,Advanced
+C0314,React,Advanced
+C0314,Linux,Intermediate
+C0314,Stakeholder Management,Beginner
+C0314,Interviewing,Beginner
+C0315,Statistics,Intermediate
+C0315,Communication,Intermediate
+C0315,Git,Intermediate
+C0315,Machine Learning,Beginner
+C0315,Cloud (Azure/AWS),Beginner
+C0315,NLP,Advanced
+C0315,Data Visualization,Beginner
+C0315,Python,Intermediate
+C0316,Python,Advanced
+C0316,APIs,Advanced
+C0316,DAX,Intermediate
+C0316,Machine Learning,Beginner
+C0316,Pandas,Advanced
+C0317,Docker,Intermediate
+C0317,Machine Learning,Beginner
+C0317,Leadership,Beginner
+C0317,DAX,Beginner
+C0317,Pandas,Intermediate
+C0317,React,Intermediate
+C0318,HR Policies,Intermediate
+C0318,Leadership,Advanced
+C0318,SQL,Intermediate
+C0318,APIs,Advanced
+C0318,Power BI,Intermediate
+C0319,Statistics,Beginner
+C0319,Recruitment,Beginner
+C0319,HR Policies,Advanced
+C0319,Computer Vision,Intermediate
+C0319,Tableau,Intermediate
+C0319,Stakeholder Management,Beginner
+C0320,Linux,Beginner
+C0320,DAX,Advanced
+C0320,Statistics,Beginner
+C0320,Pandas,Beginner
+C0320,SQL,Intermediate
+C0320,Stakeholder Management,Beginner
+C0320,Machine Learning,Beginner
+C0320,APIs,Intermediate
+C0320,Computer Vision,Intermediate
+C0321,Excel,Advanced
+C0321,NLP,Intermediate
+C0321,Leadership,Intermediate
+C0321,Numpy,Advanced
+C0321,Linux,Intermediate
+C0321,HR Policies,Beginner
+C0321,Python,Intermediate
+C0322,Leadership,Intermediate
+C0322,Statistics,Beginner
+C0322,Kubernetes,Intermediate
+C0322,Deep Learning,Intermediate
+C0322,Git,Beginner
+C0322,Linux,Beginner
+C0322,Pandas,Advanced
+C0323,Statistics,Intermediate
+C0323,Python,Intermediate
+C0323,React,Beginner
+C0323,Power BI,Beginner
+C0323,Data Visualization,Beginner
+C0324,Linux,Beginner
+C0324,Pandas,Beginner
+C0324,Statistics,Advanced
+C0324,Stakeholder Management,Advanced
+C0324,Tableau,Intermediate
+C0324,Git,Intermediate
+C0324,Leadership,Beginner
+C0324,Power BI,Beginner
+C0324,React,Beginner
+C0324,Flask,Advanced
+C0325,Git,Intermediate
+C0325,HR Policies,Beginner
+C0325,Docker,Beginner
+C0325,Machine Learning,Intermediate
+C0326,Kubernetes,Intermediate
+C0326,Communication,Beginner
+C0326,Power BI,Intermediate
+C0326,NLP,Beginner
+C0327,Kubernetes,Beginner
+C0327,Pandas,Intermediate
+C0327,Stakeholder Management,Intermediate
+C0327,APIs,Intermediate
+C0327,Interviewing,Intermediate
+C0327,NLP,Intermediate
+C0327,Tableau,Intermediate
+C0328,JavaScript,Beginner
+C0328,APIs,Advanced
+C0328,Statistics,Beginner
+C0328,Communication,Beginner
+C0329,Data Visualization,Advanced
+C0329,React,Intermediate
+C0329,Django,Intermediate
+C0329,Power BI,Beginner
+C0329,Linux,Intermediate
+C0329,Leadership,Intermediate
+C0329,Communication,Intermediate
+C0329,Computer Vision,Advanced
+C0329,SQL,Intermediate
+C0329,Pandas,Beginner
+C0330,Pandas,Intermediate
+C0330,Computer Vision,Beginner
+C0330,Django,Beginner
+C0330,Leadership,Intermediate
+C0331,Machine Learning,Beginner
+C0331,Stakeholder Management,Advanced
+C0331,Flask,Intermediate
+C0331,Statistics,Beginner
+C0331,Power BI,Intermediate
+C0331,Deep Learning,Beginner
+C0331,Pandas,Intermediate
+C0331,Tableau,Beginner
+C0331,Communication,Intermediate
+C0332,APIs,Advanced
+C0332,Linux,Beginner
+C0332,Cloud (Azure/AWS),Intermediate
+C0332,HR Policies,Intermediate
+C0332,Leadership,Intermediate
+C0332,Computer Vision,Beginner
+C0332,Git,Beginner
+C0333,HR Policies,Advanced
+C0333,Excel,Beginner
+C0333,Computer Vision,Intermediate
+C0333,Flask,Intermediate
+C0333,Stakeholder Management,Advanced
+C0333,NLP,Beginner
+C0333,Interviewing,Beginner
+C0333,JavaScript,Advanced
+C0333,Statistics,Intermediate
+C0333,Leadership,Intermediate
+C0334,Leadership,Beginner
+C0334,Numpy,Advanced
+C0334,Django,Intermediate
+C0334,DAX,Beginner
+C0335,Recruitment,Intermediate
+C0335,Tableau,Beginner
+C0335,Kubernetes,Intermediate
+C0335,Interviewing,Intermediate
+C0336,Statistics,Intermediate
+C0336,Python,Advanced
+C0336,Git,Intermediate
+C0336,Recruitment,Beginner
+C0336,DAX,Intermediate
+C0336,Excel,Intermediate
+C0336,Kubernetes,Beginner
+C0336,APIs,Intermediate
+C0336,NLP,Advanced
+C0337,Excel,Beginner
+C0337,Interviewing,Advanced
+C0337,Machine Learning,Advanced
+C0337,SQL,Advanced
+C0337,Computer Vision,Intermediate
+C0337,DAX,Intermediate
+C0338,Git,Beginner
+C0338,Recruitment,Beginner
+C0338,NLP,Intermediate
+C0338,Computer Vision,Beginner
+C0338,Statistics,Intermediate
+C0339,Machine Learning,Intermediate
+C0339,Cloud (Azure/AWS),Intermediate
+C0339,JavaScript,Beginner
+C0339,Statistics,Intermediate
+C0339,Communication,Beginner
+C0339,SQL,Intermediate
+C0339,Interviewing,Advanced
+C0340,Interviewing,Advanced
+C0340,Leadership,Intermediate
+C0340,Statistics,Intermediate
+C0340,Flask,Advanced
+C0340,Cloud (Azure/AWS),Intermediate
+C0340,Numpy,Advanced
+C0340,Excel,Intermediate
+C0340,JavaScript,Beginner
+C0341,Docker,Intermediate
+C0341,DAX,Intermediate
+C0341,Deep Learning,Beginner
+C0341,Stakeholder Management,Beginner
+C0341,Recruitment,Intermediate
+C0341,Statistics,Advanced
+C0341,Data Visualization,Intermediate
+C0342,Excel,Intermediate
+C0342,Docker,Advanced
+C0342,APIs,Intermediate
+C0342,Communication,Advanced
+C0342,Recruitment,Beginner
+C0342,Interviewing,Beginner
+C0342,Stakeholder Management,Beginner
+C0342,Cloud (Azure/AWS),Beginner
+C0342,Computer Vision,Intermediate
+C0343,Excel,Beginner
+C0343,Linux,Intermediate
+C0343,Interviewing,Advanced
+C0343,Stakeholder Management,Intermediate
+C0343,Leadership,Advanced
+C0343,Django,Advanced
+C0343,Python,Intermediate
+C0343,Numpy,Intermediate
+C0343,Kubernetes,Beginner
+C0344,Interviewing,Advanced
+C0344,Machine Learning,Beginner
+C0344,Excel,Beginner
+C0344,Communication,Beginner
+C0345,Numpy,Advanced
+C0345,Statistics,Beginner
+C0345,Communication,Beginner
+C0345,JavaScript,Intermediate
+C0346,NLP,Advanced
+C0346,Django,Advanced
+C0346,Tableau,Beginner
+C0346,Data Visualization,Advanced
+C0346,Linux,Intermediate
+C0346,Git,Advanced
+C0346,Docker,Intermediate
+C0346,Statistics,Beginner
+C0346,Machine Learning,Advanced
+C0346,Computer Vision,Intermediate
+C0347,Data Visualization,Beginner
+C0347,JavaScript,Intermediate
+C0347,Excel,Beginner
+C0347,Kubernetes,Intermediate
+C0347,Computer Vision,Intermediate
+C0347,Django,Beginner
+C0347,HR Policies,Beginner
+C0347,React,Intermediate
+C0347,Leadership,Advanced
+C0347,Interviewing,Advanced
+C0348,Stakeholder Management,Beginner
+C0348,Deep Learning,Beginner
+C0348,Linux,Intermediate
+C0348,Git,Intermediate
+C0348,Leadership,Advanced
+C0348,Power BI,Advanced
+C0349,Interviewing,Advanced
+C0349,Excel,Beginner
+C0349,Machine Learning,Advanced
+C0349,DAX,Intermediate
+C0349,Leadership,Intermediate
+C0349,Communication,Beginner
+C0350,HR Policies,Intermediate
+C0350,Docker,Advanced
+C0350,Stakeholder Management,Intermediate
+C0350,Pandas,Intermediate
+C0350,Power BI,Intermediate
+C0350,Git,Intermediate
+C0350,React,Beginner
+C0350,Communication,Beginner
+C0350,Kubernetes,Beginner
+C0351,Machine Learning,Intermediate
+C0351,APIs,Beginner
+C0351,Numpy,Beginner
+C0351,Linux,Advanced
+C0351,React,Beginner
+C0351,Recruitment,Beginner
+C0351,Excel,Beginner
+C0351,DAX,Intermediate
+C0352,React,Beginner
+C0352,Docker,Beginner
+C0352,APIs,Intermediate
+C0352,Leadership,Beginner
+C0352,DAX,Intermediate
+C0352,Pandas,Beginner
+C0352,Git,Advanced
+C0353,Communication,Beginner
+C0353,Leadership,Beginner
+C0353,Git,Beginner
+C0353,Tableau,Advanced
+C0353,APIs,Advanced
+C0353,React,Beginner
+C0353,Stakeholder Management,Beginner
+C0353,Numpy,Intermediate
+C0353,Recruitment,Intermediate
+C0353,Power BI,Beginner
+C0354,JavaScript,Intermediate
+C0354,Communication,Beginner
+C0354,Recruitment,Advanced
+C0354,Excel,Advanced
+C0354,React,Beginner
+C0354,Interviewing,Advanced
+C0354,Tableau,Intermediate
+C0354,APIs,Intermediate
+C0354,Django,Intermediate
+C0354,DAX,Beginner
+C0355,Git,Beginner
+C0355,Recruitment,Beginner
+C0355,Django,Intermediate
+C0355,DAX,Beginner
+C0355,Deep Learning,Advanced
+C0356,Power BI,Intermediate
+C0356,HR Policies,Intermediate
+C0356,Docker,Advanced
+C0356,Recruitment,Beginner
+C0356,React,Intermediate
+C0356,DAX,Beginner
+C0356,Statistics,Intermediate
+C0356,Python,Intermediate
+C0357,Recruitment,Beginner
+C0357,Stakeholder Management,Advanced
+C0357,HR Policies,Advanced
+C0357,Kubernetes,Intermediate
+C0357,NLP,Beginner
+C0358,Tableau,Beginner
+C0358,NLP,Beginner
+C0358,Pandas,Beginner
+C0358,Django,Beginner
+C0358,Interviewing,Intermediate
+C0358,Machine Learning,Intermediate
+C0358,DAX,Advanced
+C0358,Linux,Advanced
+C0359,Pandas,Intermediate
+C0359,Data Visualization,Advanced
+C0359,APIs,Intermediate
+C0359,Flask,Advanced
+C0359,Linux,Intermediate
+C0360,Kubernetes,Beginner
+C0360,Leadership,Intermediate
+C0360,DAX,Advanced
+C0360,Python,Intermediate
+C0360,Communication,Beginner
+C0360,React,Advanced
+C0360,Deep Learning,Beginner
+C0360,APIs,Intermediate
+C0360,Django,Intermediate
+C0361,Recruitment,Advanced
+C0361,Data Visualization,Beginner
+C0361,React,Beginner
+C0361,Communication,Intermediate
+C0362,SQL,Beginner
+C0362,NLP,Advanced
+C0362,Data Visualization,Beginner
+C0362,Deep Learning,Advanced
+C0362,Pandas,Advanced
+C0362,JavaScript,Intermediate
+C0362,Linux,Intermediate
+C0362,DAX,Intermediate
+C0362,Django,Beginner
+C0363,React,Intermediate
+C0363,Recruitment,Advanced
+C0363,Tableau,Beginner
+C0363,Git,Beginner
+C0364,Excel,Intermediate
+C0364,Statistics,Beginner
+C0364,Git,Intermediate
+C0364,Docker,Beginner
+C0364,React,Intermediate
+C0364,Linux,Intermediate
+C0364,NLP,Beginner
+C0364,Flask,Intermediate
+C0364,JavaScript,Beginner
+C0364,Machine Learning,Intermediate
+C0365,Flask,Beginner
+C0365,Pandas,Beginner
+C0365,Power BI,Beginner
+C0365,Django,Intermediate
+C0365,Interviewing,Beginner
+C0366,Computer Vision,Beginner
+C0366,Leadership,Intermediate
+C0366,DAX,Beginner
+C0366,Communication,Advanced
+C0366,APIs,Advanced
+C0367,Power BI,Intermediate
+C0367,Git,Intermediate
+C0367,Cloud (Azure/AWS),Beginner
+C0367,Machine Learning,Beginner
+C0367,Pandas,Intermediate
+C0367,Statistics,Beginner
+C0368,Deep Learning,Intermediate
+C0368,Power BI,Advanced
+C0368,Statistics,Intermediate
+C0368,Pandas,Advanced
+C0368,Excel,Beginner
+C0369,Machine Learning,Beginner
+C0369,Power BI,Intermediate
+C0369,Data Visualization,Advanced
+C0369,Excel,Intermediate
+C0369,Interviewing,Advanced
+C0369,Statistics,Beginner
+C0369,JavaScript,Beginner
+C0370,DAX,Intermediate
+C0370,Recruitment,Intermediate
+C0370,Data Visualization,Intermediate
+C0370,HR Policies,Advanced
+C0370,React,Advanced
+C0371,Tableau,Intermediate
+C0371,Communication,Beginner
+C0371,HR Policies,Intermediate
+C0371,Git,Advanced
+C0371,Statistics,Intermediate
+C0372,Stakeholder Management,Intermediate
+C0372,Cloud (Azure/AWS),Intermediate
+C0372,Python,Intermediate
+C0372,NLP,Intermediate
+C0372,JavaScript,Beginner
+C0372,Data Visualization,Beginner
+C0372,Kubernetes,Advanced
+C0372,Statistics,Intermediate
+C0372,DAX,Advanced
+C0373,React,Intermediate
+C0373,Django,Advanced
+C0373,Stakeholder Management,Advanced
+C0373,Excel,Advanced
+C0373,Recruitment,Intermediate
+C0373,Deep Learning,Advanced
+C0373,APIs,Beginner
+C0373,Tableau,Advanced
+C0373,Communication,Beginner
+C0374,Git,Beginner
+C0374,Stakeholder Management,Advanced
+C0374,Linux,Intermediate
+C0374,SQL,Beginner
+C0374,Recruitment,Intermediate
+C0374,HR Policies,Intermediate
+C0374,Statistics,Intermediate
+C0374,Computer Vision,Intermediate
+C0375,Deep Learning,Intermediate
+C0375,Linux,Beginner
+C0375,Python,Intermediate
+C0375,Recruitment,Advanced
+C0375,Pandas,Intermediate
+C0375,React,Advanced
+C0375,Machine Learning,Beginner
+C0375,Interviewing,Advanced
+C0375,Data Visualization,Intermediate
+C0375,Statistics,Intermediate
+C0376,Deep Learning,Intermediate
+C0376,Docker,Intermediate
+C0376,Pandas,Beginner
+C0376,React,Beginner
+C0376,Python,Intermediate
+C0376,Numpy,Intermediate
+C0376,Flask,Intermediate
+C0376,Statistics,Beginner
+C0376,Excel,Intermediate
+C0377,Interviewing,Beginner
+C0377,Pandas,Advanced
+C0377,Tableau,Intermediate
+C0377,Flask,Advanced
+C0377,Data Visualization,Advanced
+C0377,HR Policies,Intermediate
+C0377,Statistics,Intermediate
+C0377,Stakeholder Management,Intermediate
+C0377,Django,Advanced
+C0378,Numpy,Beginner
+C0378,Interviewing,Beginner
+C0378,Power BI,Beginner
+C0378,Machine Learning,Beginner
+C0378,Statistics,Intermediate
+C0378,Recruitment,Intermediate
+C0378,Excel,Beginner
+C0378,Computer Vision,Beginner
+C0379,Linux,Intermediate
+C0379,Recruitment,Intermediate
+C0379,React,Advanced
+C0379,Computer Vision,Intermediate
+C0379,Excel,Beginner
+C0380,Data Visualization,Intermediate
+C0380,Linux,Intermediate
+C0380,Cloud (Azure/AWS),Advanced
+C0380,Communication,Intermediate
+C0380,Machine Learning,Beginner
+C0380,Pandas,Advanced
+C0380,JavaScript,Intermediate
+C0381,APIs,Beginner
+C0381,NLP,Advanced
+C0381,Numpy,Beginner
+C0381,Statistics,Intermediate
+C0381,Flask,Beginner
+C0382,Deep Learning,Intermediate
+C0382,Recruitment,Beginner
+C0382,APIs,Advanced
+C0382,Flask,Beginner
+C0383,Deep Learning,Beginner
+C0383,Data Visualization,Beginner
+C0383,DAX,Beginner
+C0383,Computer Vision,Beginner
+C0383,Django,Intermediate
+C0383,Cloud (Azure/AWS),Advanced
+C0383,Linux,Beginner
+C0383,Docker,Advanced
+C0384,Leadership,Beginner
+C0384,Git,Intermediate
+C0384,Docker,Intermediate
+C0384,Cloud (Azure/AWS),Intermediate
+C0385,HR Policies,Intermediate
+C0385,JavaScript,Intermediate
+C0385,Python,Beginner
+C0385,Linux,Beginner
+C0385,APIs,Beginner
+C0385,Leadership,Intermediate
+C0385,DAX,Beginner
+C0386,Kubernetes,Intermediate
+C0386,Git,Intermediate
+C0386,Python,Beginner
+C0386,HR Policies,Beginner
+C0386,DAX,Beginner
+C0386,Docker,Beginner
+C0386,JavaScript,Advanced
+C0386,Tableau,Intermediate
+C0386,Deep Learning,Intermediate
+C0387,Linux,Beginner
+C0387,NLP,Advanced
+C0387,Pandas,Advanced
+C0387,Interviewing,Beginner
+C0387,Leadership,Beginner
+C0387,Docker,Intermediate
+C0387,Deep Learning,Advanced
+C0388,Cloud (Azure/AWS),Advanced
+C0388,Tableau,Advanced
+C0388,DAX,Intermediate
+C0388,Data Visualization,Intermediate
+C0388,Numpy,Intermediate
+C0388,Recruitment,Intermediate
+C0389,Interviewing,Intermediate
+C0389,Docker,Intermediate
+C0389,Data Visualization,Beginner
+C0389,Recruitment,Beginner
+C0389,Excel,Advanced
+C0389,Tableau,Intermediate
+C0390,Interviewing,Beginner
+C0390,DAX,Intermediate
+C0390,Stakeholder Management,Beginner
+C0390,Data Visualization,Advanced
+C0390,Tableau,Advanced
+C0390,Flask,Beginner
+C0390,Excel,Intermediate
+C0390,Django,Intermediate
+C0391,Cloud (Azure/AWS),Beginner
+C0391,Linux,Beginner
+C0391,HR Policies,Intermediate
+C0391,Power BI,Intermediate
+C0391,DAX,Beginner
+C0391,Kubernetes,Beginner
+C0391,Machine Learning,Advanced
+C0392,Kubernetes,Intermediate
+C0392,Django,Intermediate
+C0392,Data Visualization,Beginner
+C0392,Docker,Intermediate
+C0392,Machine Learning,Beginner
+C0392,Git,Intermediate
+C0392,Stakeholder Management,Intermediate
+C0392,Cloud (Azure/AWS),Beginner
+C0393,Flask,Advanced
+C0393,HR Policies,Intermediate
+C0393,Deep Learning,Intermediate
+C0393,Data Visualization,Intermediate
+C0393,Leadership,Advanced
+C0393,React,Intermediate
+C0393,SQL,Beginner
+C0393,Python,Beginner
+C0393,Cloud (Azure/AWS),Advanced
+C0394,APIs,Intermediate
+C0394,Git,Intermediate
+C0394,HR Policies,Intermediate
+C0394,Computer Vision,Beginner
+C0394,Interviewing,Beginner
+C0394,React,Intermediate
+C0394,Recruitment,Intermediate
+C0394,Python,Intermediate
+C0394,DAX,Beginner
+C0394,Excel,Advanced
+C0395,Kubernetes,Advanced
+C0395,SQL,Beginner
+C0395,Machine Learning,Advanced
+C0395,Docker,Beginner
+C0395,Linux,Beginner
+C0395,Pandas,Beginner
+C0395,Recruitment,Advanced
+C0396,Communication,Intermediate
+C0396,APIs,Advanced
+C0396,Machine Learning,Intermediate
+C0396,Statistics,Intermediate
+C0397,APIs,Beginner
+C0397,Pandas,Intermediate
+C0397,Kubernetes,Beginner
+C0397,Linux,Advanced
+C0398,Deep Learning,Intermediate
+C0398,Power BI,Advanced
+C0398,Stakeholder Management,Beginner
+C0398,Data Visualization,Intermediate
+C0398,HR Policies,Intermediate
+C0398,Leadership,Intermediate
+C0398,Pandas,Beginner
+C0398,JavaScript,Beginner
+C0398,SQL,Beginner
+C0398,Git,Intermediate
+C0399,JavaScript,Intermediate
+C0399,NLP,Intermediate
+C0399,Leadership,Intermediate
+C0399,React,Intermediate
+C0400,Recruitment,Intermediate
+C0400,DAX,Beginner
+C0400,Data Visualization,Intermediate
+C0400,Communication,Intermediate
+C0400,Flask,Beginner
+C0400,Git,Intermediate
+C0400,Linux,Intermediate
+C0400,Docker,Intermediate
+C0401,JavaScript,Beginner
+C0401,HR Policies,Intermediate
+C0401,Django,Advanced
+C0401,NLP,Intermediate
+C0401,Python,Intermediate
+C0402,Cloud (Azure/AWS),Intermediate
+C0402,React,Intermediate
+C0402,Excel,Intermediate
+C0402,SQL,Beginner
+C0402,Machine Learning,Beginner
+C0402,Statistics,Beginner
+C0402,JavaScript,Beginner
+C0403,APIs,Beginner
+C0403,Data Visualization,Beginner
+C0403,Flask,Intermediate
+C0403,Computer Vision,Intermediate
+C0403,Git,Beginner
+C0403,Power BI,Intermediate
+C0404,Kubernetes,Beginner
+C0404,Power BI,Intermediate
+C0404,Cloud (Azure/AWS),Beginner
+C0404,Numpy,Advanced
+C0404,Django,Beginner
+C0404,Communication,Advanced
+C0404,Excel,Intermediate
+C0404,Recruitment,Advanced
+C0405,Leadership,Beginner
+C0405,Tableau,Beginner
+C0405,JavaScript,Advanced
+C0405,Data Visualization,Intermediate
+C0405,Python,Intermediate
+C0405,Kubernetes,Intermediate
+C0405,Deep Learning,Beginner
+C0406,Cloud (Azure/AWS),Intermediate
+C0406,Numpy,Beginner
+C0406,Python,Beginner
+C0406,Machine Learning,Advanced
+C0406,Leadership,Beginner
+C0406,Flask,Intermediate
+C0406,Excel,Intermediate
+C0406,React,Advanced
+C0406,Linux,Advanced
+C0406,Communication,Beginner
+C0407,Kubernetes,Advanced
+C0407,Interviewing,Beginner
+C0407,APIs,Intermediate
+C0407,Git,Intermediate
+C0407,React,Beginner
+C0407,Communication,Intermediate
+C0407,Linux,Advanced
+C0408,NLP,Beginner
+C0408,Deep Learning,Intermediate
+C0408,Linux,Intermediate
+C0408,Excel,Intermediate
+C0408,Stakeholder Management,Intermediate
+C0408,SQL,Intermediate
+C0408,Leadership,Intermediate
+C0408,Data Visualization,Beginner
+C0408,Numpy,Intermediate
+C0408,Computer Vision,Intermediate
+C0409,React,Beginner
+C0409,Stakeholder Management,Intermediate
+C0409,HR Policies,Advanced
+C0409,Django,Intermediate
+C0409,Computer Vision,Intermediate
+C0409,DAX,Beginner
+C0409,Pandas,Intermediate
+C0409,Flask,Intermediate
+C0409,SQL,Intermediate
+C0409,Interviewing,Beginner
+C0410,Python,Beginner
+C0410,Linux,Intermediate
+C0410,HR Policies,Intermediate
+C0410,APIs,Beginner
+C0411,Tableau,Intermediate
+C0411,Recruitment,Advanced
+C0411,Statistics,Intermediate
+C0411,Stakeholder Management,Beginner
+C0411,Data Visualization,Beginner
+C0411,Docker,Beginner
+C0411,SQL,Intermediate
+C0411,Linux,Intermediate
+C0411,NLP,Advanced
+C0412,Django,Advanced
+C0412,APIs,Intermediate
+C0412,SQL,Beginner
+C0412,Machine Learning,Intermediate
+C0412,Data Visualization,Advanced
+C0412,Python,Advanced
+C0412,Pandas,Advanced
+C0412,Computer Vision,Beginner
+C0412,Docker,Intermediate
+C0412,Tableau,Beginner
+C0413,NLP,Beginner
+C0413,DAX,Intermediate
+C0413,Python,Intermediate
+C0413,Data Visualization,Intermediate
+C0413,React,Intermediate
+C0413,Machine Learning,Beginner
+C0414,Kubernetes,Beginner
+C0414,Linux,Intermediate
+C0414,Deep Learning,Intermediate
+C0414,Machine Learning,Intermediate
+C0414,Excel,Beginner
+C0414,Numpy,Intermediate
+C0414,Stakeholder Management,Advanced
+C0414,Interviewing,Beginner
+C0414,Leadership,Intermediate
+C0414,DAX,Intermediate
+C0415,Deep Learning,Intermediate
+C0415,SQL,Intermediate
+C0415,HR Policies,Intermediate
+C0415,Django,Beginner
+C0415,Numpy,Advanced
+C0416,Statistics,Beginner
+C0416,Pandas,Advanced
+C0416,HR Policies,Intermediate
+C0416,APIs,Beginner
+C0416,Deep Learning,Intermediate
+C0416,Excel,Beginner
+C0416,JavaScript,Beginner
+C0416,Python,Beginner
+C0416,Communication,Beginner
+C0416,Machine Learning,Beginner
+C0417,HR Policies,Beginner
+C0417,Deep Learning,Beginner
+C0417,Excel,Advanced
+C0417,Linux,Intermediate
+C0417,Leadership,Beginner
+C0417,Computer Vision,Advanced
+C0417,Docker,Advanced
+C0418,Interviewing,Beginner
+C0418,Django,Beginner
+C0418,Stakeholder Management,Advanced
+C0418,Deep Learning,Beginner
+C0418,Pandas,Beginner
+C0418,Data Visualization,Advanced
+C0418,Numpy,Intermediate
+C0418,Flask,Beginner
+C0418,Cloud (Azure/AWS),Intermediate
+C0418,NLP,Beginner
+C0419,Git,Advanced
+C0419,Cloud (Azure/AWS),Beginner
+C0419,Interviewing,Intermediate
+C0419,Docker,Beginner
+C0419,Communication,Advanced
+C0420,Statistics,Advanced
+C0420,JavaScript,Advanced
+C0420,Stakeholder Management,Intermediate
+C0420,Flask,Beginner
+C0420,Tableau,Beginner
+C0420,Python,Beginner
+C0420,Numpy,Beginner
+C0421,Recruitment,Intermediate
+C0421,Numpy,Intermediate
+C0421,Computer Vision,Advanced
+C0421,Leadership,Beginner
+C0421,SQL,Intermediate
+C0421,React,Beginner
+C0421,Data Visualization,Intermediate
+C0421,Pandas,Intermediate
+C0421,JavaScript,Intermediate
+C0421,Tableau,Intermediate
+C0422,APIs,Intermediate
+C0422,Docker,Advanced
+C0422,JavaScript,Beginner
+C0422,DAX,Intermediate
+C0422,Communication,Intermediate
+C0422,Cloud (Azure/AWS),Beginner
+C0422,Flask,Advanced
+C0422,Power BI,Intermediate
+C0422,Linux,Intermediate
+C0423,Kubernetes,Advanced
+C0423,Numpy,Beginner
+C0423,Machine Learning,Beginner
+C0423,HR Policies,Beginner
+C0423,Communication,Intermediate
+C0423,Statistics,Intermediate
+C0423,Cloud (Azure/AWS),Beginner
+C0423,Interviewing,Intermediate
+C0424,Recruitment,Intermediate
+C0424,Python,Beginner
+C0424,Power BI,Intermediate
+C0424,Git,Beginner
+C0424,React,Advanced
+C0424,Leadership,Advanced
+C0425,Docker,Beginner
+C0425,React,Intermediate
+C0425,Pandas,Beginner
+C0425,Leadership,Intermediate
+C0425,HR Policies,Beginner
+C0425,SQL,Advanced
+C0426,React,Beginner
+C0426,Flask,Intermediate
+C0426,Kubernetes,Intermediate
+C0426,Docker,Intermediate
+C0426,Statistics,Intermediate
+C0426,Git,Beginner
+C0426,Excel,Intermediate
+C0426,Numpy,Advanced
+C0426,NLP,Advanced
+C0427,Linux,Beginner
+C0427,Excel,Intermediate
+C0427,Flask,Intermediate
+C0427,Deep Learning,Beginner
+C0427,Git,Beginner
+C0427,JavaScript,Beginner
+C0427,Stakeholder Management,Advanced
+C0427,Django,Intermediate
+C0427,Power BI,Advanced
+C0427,Communication,Intermediate
+C0428,JavaScript,Beginner
+C0428,Machine Learning,Intermediate
+C0428,Stakeholder Management,Beginner
+C0428,React,Advanced
+C0428,Kubernetes,Intermediate
+C0428,Communication,Intermediate
+C0429,Deep Learning,Intermediate
+C0429,DAX,Beginner
+C0429,Interviewing,Intermediate
+C0429,JavaScript,Intermediate
+C0429,React,Beginner
+C0430,Leadership,Beginner
+C0430,Docker,Intermediate
+C0430,APIs,Beginner
+C0430,Django,Intermediate
+C0431,Power BI,Intermediate
+C0431,Kubernetes,Intermediate
+C0431,NLP,Intermediate
+C0431,Interviewing,Intermediate
+C0431,Statistics,Beginner
+C0431,APIs,Beginner
+C0432,Machine Learning,Advanced
+C0432,Data Visualization,Intermediate
+C0432,Flask,Advanced
+C0432,Tableau,Advanced
+C0432,DAX,Advanced
+C0432,Power BI,Beginner
+C0432,Docker,Intermediate
+C0432,APIs,Beginner
+C0432,Recruitment,Advanced
+C0432,React,Advanced
+C0433,Kubernetes,Intermediate
+C0433,Docker,Intermediate
+C0433,Django,Advanced
+C0433,Computer Vision,Intermediate
+C0434,Interviewing,Advanced
+C0434,Pandas,Intermediate
+C0434,Leadership,Beginner
+C0434,React,Intermediate
+C0434,Power BI,Intermediate
+C0434,Numpy,Intermediate
+C0434,JavaScript,Intermediate
+C0434,Deep Learning,Intermediate
+C0434,Linux,Beginner
+C0435,Data Visualization,Advanced
+C0435,Cloud (Azure/AWS),Beginner
+C0435,APIs,Beginner
+C0435,Tableau,Intermediate
+C0435,Flask,Intermediate
+C0435,React,Beginner
+C0435,Pandas,Beginner
+C0435,Docker,Beginner
+C0435,Python,Advanced
+C0436,Numpy,Advanced
+C0436,Deep Learning,Beginner
+C0436,Excel,Beginner
+C0436,APIs,Beginner
+C0436,Git,Beginner
+C0437,Data Visualization,Beginner
+C0437,React,Beginner
+C0437,Docker,Beginner
+C0437,Numpy,Intermediate
+C0437,Computer Vision,Intermediate
+C0437,NLP,Beginner
+C0437,Python,Intermediate
+C0437,Django,Beginner
+C0438,Machine Learning,Beginner
+C0438,JavaScript,Intermediate
+C0438,APIs,Intermediate
+C0438,Data Visualization,Beginner
+C0438,DAX,Intermediate
+C0438,Python,Advanced
+C0439,JavaScript,Advanced
+C0439,NLP,Intermediate
+C0439,Power BI,Intermediate
+C0439,Communication,Intermediate
+C0439,Leadership,Intermediate
+C0440,SQL,Advanced
+C0440,React,Beginner
+C0440,Machine Learning,Intermediate
+C0440,Interviewing,Intermediate
+C0440,APIs,Intermediate
+C0441,Python,Beginner
+C0441,Communication,Advanced
+C0441,Statistics,Intermediate
+C0441,Numpy,Advanced
+C0442,Linux,Intermediate
+C0442,Tableau,Beginner
+C0442,Recruitment,Beginner
+C0442,Excel,Beginner
+C0442,Kubernetes,Beginner
+C0442,Data Visualization,Intermediate
+C0442,Deep Learning,Beginner
+C0442,Python,Beginner
+C0442,NLP,Beginner
+C0443,React,Beginner
+C0443,Machine Learning,Intermediate
+C0443,APIs,Intermediate
+C0443,HR Policies,Advanced
+C0443,Computer Vision,Intermediate
+C0444,Kubernetes,Intermediate
+C0444,Excel,Advanced
+C0444,React,Intermediate
+C0444,Numpy,Intermediate
+C0444,Communication,Beginner
+C0444,Stakeholder Management,Beginner
+C0444,DAX,Intermediate
+C0444,Deep Learning,Intermediate
+C0445,Flask,Intermediate
+C0445,Machine Learning,Beginner
+C0445,Python,Beginner
+C0445,Django,Intermediate
+C0445,React,Advanced
+C0445,Recruitment,Intermediate
+C0445,NLP,Intermediate
+C0445,Communication,Intermediate
+C0445,Numpy,Intermediate
+C0446,Tableau,Advanced
+C0446,Pandas,Intermediate
+C0446,Computer Vision,Intermediate
+C0446,Linux,Intermediate
+C0446,Communication,Advanced
+C0446,HR Policies,Advanced
+C0447,JavaScript,Intermediate
+C0447,Communication,Intermediate
+C0447,Leadership,Beginner
+C0447,Computer Vision,Beginner
+C0448,HR Policies,Intermediate
+C0448,Kubernetes,Advanced
+C0448,Django,Beginner
+C0448,NLP,Beginner
+C0448,Deep Learning,Intermediate
+C0448,Machine Learning,Intermediate
+C0449,Flask,Beginner
+C0449,Computer Vision,Beginner
+C0449,Python,Intermediate
+C0449,NLP,Beginner
+C0449,Statistics,Advanced
+C0449,JavaScript,Intermediate
+C0449,APIs,Intermediate
+C0449,Stakeholder Management,Intermediate
+C0449,HR Policies,Beginner
+C0449,Pandas,Advanced
+C0450,Pandas,Intermediate
+C0450,Power BI,Beginner
+C0450,SQL,Intermediate
+C0450,Data Visualization,Intermediate
+C0450,Kubernetes,Intermediate
+C0450,Recruitment,Intermediate
+C0450,Computer Vision,Beginner
+C0450,Stakeholder Management,Advanced
+C0450,Machine Learning,Intermediate
+C0451,Numpy,Beginner
+C0451,Data Visualization,Advanced
+C0451,Cloud (Azure/AWS),Intermediate
+C0451,NLP,Beginner
+C0451,Flask,Beginner
+C0451,Stakeholder Management,Beginner
+C0451,Tableau,Beginner
+C0451,DAX,Intermediate
+C0451,HR Policies,Intermediate
+C0452,Machine Learning,Beginner
+C0452,Linux,Beginner
+C0452,Communication,Beginner
+C0452,Interviewing,Beginner
+C0452,JavaScript,Intermediate
+C0452,Leadership,Beginner
+C0452,Numpy,Intermediate
+C0452,Tableau,Beginner
+C0453,Stakeholder Management,Advanced
+C0453,HR Policies,Intermediate
+C0453,Power BI,Advanced
+C0453,Linux,Beginner
+C0453,Python,Advanced
+C0454,React,Advanced
+C0454,Computer Vision,Intermediate
+C0454,Statistics,Intermediate
+C0454,Docker,Beginner
+C0454,Machine Learning,Intermediate
+C0454,Git,Intermediate
+C0454,Stakeholder Management,Beginner
+C0454,Power BI,Beginner
+C0454,Excel,Advanced
+C0455,React,Intermediate
+C0455,Flask,Beginner
+C0455,Linux,Advanced
+C0455,Tableau,Advanced
+C0455,Cloud (Azure/AWS),Beginner
+C0455,Pandas,Advanced
+C0455,Git,Advanced
+C0456,Git,Advanced
+C0456,DAX,Intermediate
+C0456,SQL,Advanced
+C0456,Python,Advanced
+C0457,APIs,Beginner
+C0457,SQL,Advanced
+C0457,Computer Vision,Intermediate
+C0457,Git,Advanced
+C0457,Numpy,Intermediate
+C0457,Python,Beginner
+C0457,Cloud (Azure/AWS),Beginner
+C0458,Statistics,Intermediate
+C0458,DAX,Intermediate
+C0458,Interviewing,Beginner
+C0458,Data Visualization,Beginner
+C0458,Power BI,Intermediate
+C0458,Pandas,Intermediate
+C0458,Cloud (Azure/AWS),Beginner
+C0459,Stakeholder Management,Intermediate
+C0459,Interviewing,Beginner
+C0459,Tableau,Beginner
+C0459,SQL,Advanced
+C0460,Cloud (Azure/AWS),Intermediate
+C0460,Computer Vision,Advanced
+C0460,Leadership,Advanced
+C0460,Pandas,Intermediate
+C0460,NLP,Advanced
+C0460,Data Visualization,Intermediate
+C0460,Linux,Beginner
+C0461,NLP,Beginner
+C0461,Recruitment,Beginner
+C0461,Communication,Intermediate
+C0461,SQL,Beginner
+C0461,Cloud (Azure/AWS),Advanced
+C0462,NLP,Beginner
+C0462,Power BI,Beginner
+C0462,Python,Beginner
+C0462,Computer Vision,Advanced
+C0462,Leadership,Intermediate
+C0463,Git,Advanced
+C0463,NLP,Beginner
+C0463,Docker,Beginner
+C0463,Deep Learning,Advanced
+C0463,Flask,Beginner
+C0463,DAX,Intermediate
+C0463,SQL,Intermediate
+C0464,SQL,Beginner
+C0464,Kubernetes,Beginner
+C0464,Power BI,Beginner
+C0464,HR Policies,Beginner
+C0465,Linux,Advanced
+C0465,Kubernetes,Advanced
+C0465,Excel,Advanced
+C0465,DAX,Intermediate
+C0465,Machine Learning,Advanced
+C0465,Interviewing,Intermediate
+C0465,Tableau,Intermediate
+C0465,Cloud (Azure/AWS),Beginner
+C0465,Django,Advanced
+C0465,Numpy,Intermediate
+C0466,Tableau,Beginner
+C0466,Recruitment,Intermediate
+C0466,Communication,Intermediate
+C0466,Cloud (Azure/AWS),Intermediate
+C0466,NLP,Beginner
+C0466,Flask,Intermediate
+C0466,Machine Learning,Intermediate
+C0466,DAX,Intermediate
+C0466,Numpy,Beginner
+C0467,Computer Vision,Advanced
+C0467,DAX,Intermediate
+C0467,Kubernetes,Beginner
+C0467,React,Intermediate
+C0467,Linux,Advanced
+C0467,NLP,Intermediate
+C0467,Statistics,Beginner
+C0468,Deep Learning,Intermediate
+C0468,HR Policies,Intermediate
+C0468,Power BI,Advanced
+C0468,Interviewing,Intermediate
+C0468,Machine Learning,Beginner
+C0469,Cloud (Azure/AWS),Beginner
+C0469,Python,Beginner
+C0469,Computer Vision,Intermediate
+C0469,Statistics,Intermediate
+C0469,Power BI,Advanced
+C0469,Communication,Advanced
+C0469,Pandas,Beginner
+C0469,Stakeholder Management,Intermediate
+C0469,NLP,Beginner
+C0469,Machine Learning,Advanced
+C0470,React,Intermediate
+C0470,Stakeholder Management,Intermediate
+C0470,Numpy,Beginner
+C0470,Docker,Advanced
+C0470,Flask,Intermediate
+C0470,Data Visualization,Advanced
+C0471,Kubernetes,Intermediate
+C0471,HR Policies,Advanced
+C0471,Machine Learning,Beginner
+C0471,Interviewing,Beginner
+C0471,Deep Learning,Beginner
+C0471,Linux,Beginner
+C0471,Power BI,Beginner
+C0471,Stakeholder Management,Beginner
+C0471,Recruitment,Beginner
+C0471,Statistics,Intermediate
+C0472,Tableau,Intermediate
+C0472,Docker,Intermediate
+C0472,Machine Learning,Beginner
+C0472,Excel,Advanced
+C0472,Linux,Beginner
+C0472,APIs,Intermediate
+C0472,Computer Vision,Intermediate
+C0472,Statistics,Advanced
+C0472,Data Visualization,Intermediate
+C0473,Stakeholder Management,Advanced
+C0473,Deep Learning,Intermediate
+C0473,Communication,Beginner
+C0473,Interviewing,Intermediate
+C0474,SQL,Intermediate
+C0474,React,Beginner
+C0474,HR Policies,Intermediate
+C0474,Flask,Intermediate
+C0474,Cloud (Azure/AWS),Beginner
+C0474,Excel,Intermediate
+C0475,Git,Advanced
+C0475,Computer Vision,Beginner
+C0475,Interviewing,Advanced
+C0475,APIs,Intermediate
+C0475,Stakeholder Management,Intermediate
+C0476,APIs,Beginner
+C0476,HR Policies,Beginner
+C0476,Git,Intermediate
+C0476,Kubernetes,Intermediate
+C0476,Leadership,Intermediate
+C0477,Power BI,Beginner
+C0477,Interviewing,Intermediate
+C0477,JavaScript,Advanced
+C0477,SQL,Intermediate
+C0477,Python,Intermediate
+C0477,Git,Intermediate
+C0477,HR Policies,Intermediate
+C0477,Django,Intermediate
+C0477,NLP,Beginner
+C0478,Data Visualization,Beginner
+C0478,Interviewing,Beginner
+C0478,JavaScript,Intermediate
+C0478,React,Intermediate
+C0478,Python,Intermediate
+C0478,Deep Learning,Beginner
+C0478,Machine Learning,Advanced
+C0478,Django,Intermediate
+C0478,Communication,Intermediate
+C0478,Docker,Intermediate
+C0479,Recruitment,Intermediate
+C0479,Flask,Advanced
+C0479,SQL,Beginner
+C0479,Deep Learning,Intermediate
+C0479,Excel,Intermediate
+C0479,HR Policies,Intermediate
+C0479,Numpy,Advanced
+C0479,Tableau,Intermediate
+C0479,Docker,Beginner
+C0479,Stakeholder Management,Beginner
+C0480,Tableau,Beginner
+C0480,Communication,Intermediate
+C0480,Recruitment,Beginner
+C0480,Python,Intermediate
+C0480,Pandas,Beginner
+C0480,JavaScript,Intermediate
+C0480,Computer Vision,Intermediate
+C0480,Kubernetes,Intermediate
+C0480,Linux,Intermediate
+C0480,APIs,Advanced
+C0481,SQL,Advanced
+C0481,Recruitment,Beginner
+C0481,Pandas,Beginner
+C0481,Computer Vision,Beginner
+C0481,Interviewing,Intermediate
+C0481,Stakeholder Management,Beginner
+C0481,Machine Learning,Beginner
+C0482,JavaScript,Intermediate
+C0482,React,Beginner
+C0482,Statistics,Beginner
+C0482,Recruitment,Intermediate
+C0482,Deep Learning,Advanced
+C0482,Data Visualization,Beginner
+C0482,Communication,Intermediate
+C0482,NLP,Beginner
+C0483,JavaScript,Advanced
+C0483,NLP,Beginner
+C0483,DAX,Advanced
+C0483,Django,Intermediate
+C0483,Computer Vision,Intermediate
+C0483,Data Visualization,Intermediate
+C0483,Docker,Beginner
+C0483,HR Policies,Intermediate
+C0484,Machine Learning,Advanced
+C0484,NLP,Beginner
+C0484,Recruitment,Beginner
+C0484,Git,Advanced
+C0485,Communication,Beginner
+C0485,Linux,Intermediate
+C0485,SQL,Intermediate
+C0485,Leadership,Intermediate
+C0485,Statistics,Intermediate
+C0485,Git,Advanced
+C0485,HR Policies,Beginner
+C0486,Linux,Advanced
+C0486,Interviewing,Beginner
+C0486,Data Visualization,Beginner
+C0486,Deep Learning,Intermediate
+C0486,Pandas,Intermediate
+C0486,Docker,Advanced
+C0486,Kubernetes,Intermediate
+C0486,Machine Learning,Beginner
+C0487,JavaScript,Beginner
+C0487,Flask,Beginner
+C0487,Pandas,Beginner
+C0487,Deep Learning,Beginner
+C0487,Git,Intermediate
+C0487,HR Policies,Intermediate
+C0487,Power BI,Beginner
+C0487,SQL,Advanced
+C0487,Statistics,Advanced
+C0487,Kubernetes,Beginner
+C0488,Pandas,Beginner
+C0488,Excel,Intermediate
+C0488,Numpy,Beginner
+C0488,Communication,Advanced
+C0488,Recruitment,Intermediate
+C0488,Statistics,Advanced
+C0489,DAX,Intermediate
+C0489,Interviewing,Intermediate
+C0489,Computer Vision,Advanced
+C0489,Tableau,Advanced
+C0490,Tableau,Intermediate
+C0490,NLP,Beginner
+C0490,React,Intermediate
+C0490,Computer Vision,Advanced
+C0490,Python,Intermediate
+C0490,Excel,Intermediate
+C0490,Machine Learning,Intermediate
+C0490,Deep Learning,Intermediate
+C0491,React,Advanced
+C0491,Deep Learning,Advanced
+C0491,Docker,Beginner
+C0491,SQL,Advanced
+C0491,Git,Intermediate
+C0491,Communication,Intermediate
+C0492,Data Visualization,Advanced
+C0492,Stakeholder Management,Beginner
+C0492,Leadership,Intermediate
+C0492,Interviewing,Beginner
+C0492,Cloud (Azure/AWS),Beginner
+C0492,Kubernetes,Intermediate
+C0492,JavaScript,Intermediate
+C0493,Pandas,Advanced
+C0493,Django,Beginner
+C0493,Data Visualization,Beginner
+C0493,Stakeholder Management,Intermediate
+C0494,Kubernetes,Intermediate
+C0494,NLP,Advanced
+C0494,Django,Beginner
+C0494,Statistics,Intermediate
+C0494,Interviewing,Beginner
+C0494,Data Visualization,Intermediate
+C0494,Numpy,Beginner
+C0494,Cloud (Azure/AWS),Beginner
+C0494,Flask,Beginner
+C0494,Leadership,Intermediate
+C0495,Leadership,Intermediate
+C0495,Pandas,Beginner
+C0495,Statistics,Beginner
+C0495,APIs,Intermediate
+C0495,Kubernetes,Beginner
+C0495,NLP,Intermediate
+C0496,Linux,Advanced
+C0496,Leadership,Intermediate
+C0496,APIs,Advanced
+C0496,Tableau,Intermediate
+C0496,Recruitment,Advanced
+C0497,Excel,Intermediate
+C0497,Power BI,Beginner
+C0497,Django,Intermediate
+C0497,JavaScript,Intermediate
+C0497,Linux,Intermediate
+C0497,SQL,Advanced
+C0497,Numpy,Beginner
+C0497,Stakeholder Management,Beginner
+C0497,DAX,Intermediate
+C0497,Git,Intermediate
+C0498,Recruitment,Beginner
+C0498,Computer Vision,Intermediate
+C0498,Data Visualization,Intermediate
+C0498,Git,Beginner
+C0498,Numpy,Intermediate
+C0498,HR Policies,Beginner
+C0498,Power BI,Beginner
+C0499,Communication,Intermediate
+C0499,Git,Intermediate
+C0499,Cloud (Azure/AWS),Intermediate
+C0499,Python,Advanced
+C0499,Interviewing,Beginner
+C0499,Tableau,Intermediate
+C0499,Numpy,Beginner
+C0499,Statistics,Advanced
+C0500,Data Visualization,Beginner
+C0500,Statistics,Beginner
+C0500,Cloud (Azure/AWS),Beginner
+C0500,Python,Intermediate
+C0500,Linux,Intermediate
+C0500,React,Intermediate
+C0500,Django,Intermediate
+C0500,DAX,Advanced
+C0500,Flask,Beginner
+C0500,Leadership,Intermediate

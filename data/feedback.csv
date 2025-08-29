@@ -1,0 +1,1227 @@
+FeedbackID,InterviewID,FeedbackText,SentimentScore
+F3001,I2001,Communication was weak; needs improvement. Noted experience in Communication.,0.348
+F3002,I2002,Good skills but needs more industry experience. Noted experience in NLP.,0.534
+F3003,I2003,Average performance; showed potential with some gaps. Noted experience in Kubernetes.,0.519
+F3004,I2004,Strong analytical skills and clear communication. Noted experience in Pandas.,0.778
+F3005,I2005,Mixed answers; structure could improve. Noted experience in Kubernetes.,0.726
+F3006,I2006,Strong analytical skills and clear communication. Noted experience in JavaScript.,0.98
+F3007,I2007,Struggled with problem solving and coding tasks. Noted experience in Pandas.,0.323
+F3008,I2008,Average performance; showed potential with some gaps. Noted experience in Statistics.,0.515
+F3009,I2009,Excellent technical skills; solved problems well. Noted experience in React.,0.869
+F3010,I2010,Excellent technical skills; solved problems well. Noted experience in Computer Vision.,0.864
+F3011,I2011,Mixed answers; structure could improve. Noted experience in APIs.,0.691
+F3012,I2012,Very good culture fit and leadership potential. Noted experience in APIs.,0.798
+F3013,I2013,Excellent technical skills; solved problems well. Noted experience in Deep Learning.,0.828
+F3014,I2014,Mixed answers; structure could improve. Noted experience in Numpy.,0.61
+F3015,I2015,Average performance; showed potential with some gaps. Noted experience in Cloud (Azure/AWS).,0.737
+F3016,I2016,Average performance; showed potential with some gaps. Noted experience in Cloud (Azure/AWS).,0.586
+F3017,I2017,Communication was weak; needs improvement. Noted experience in Deep Learning.,0.236
+F3018,I2018,Mixed answers; structure could improve. Noted experience in Stakeholder Management.,0.484
+F3019,I2019,Mixed answers; structure could improve. Noted experience in Git.,0.598
+F3020,I2020,Excellent technical skills; solved problems well. Noted experience in DAX.,0.774
+F3021,I2021,Average performance; showed potential with some gaps. Noted experience in Data Visualization.,0.571
+F3022,I2022,Average performance; showed potential with some gaps. Noted experience in Tableau.,0.735
+F3023,I2023,Mixed answers; structure could improve. Noted experience in Tableau.,0.457
+F3024,I2024,Good skills but needs more industry experience. Noted experience in Excel.,0.74
+F3025,I2025,Strong analytical skills and clear communication. Noted experience in JavaScript.,0.98
+F3026,I2026,Not a strong fit for the role currently. Noted experience in Pandas.,0.383
+F3027,I2027,Good skills but needs more industry experience. Noted experience in Interviewing.,0.545
+F3028,I2028,Average performance; showed potential with some gaps. Noted experience in Machine Learning.,0.524
+F3029,I2029,"Confident presenter, handled questions well. Noted experience in React.",0.967
+F3030,I2030,"Confident presenter, handled questions well. Noted experience in Stakeholder Management.",0.805
+F3031,I2031,Very good culture fit and leadership potential. Noted experience in Django.,0.897
+F3032,I2032,Good skills but needs more industry experience. Noted experience in Stakeholder Management.,0.465
+F3033,I2033,Mixed answers; structure could improve. Noted experience in Excel.,0.615
+F3034,I2034,Very good culture fit and leadership potential. Noted experience in Statistics.,0.858
+F3035,I2035,Good skills but needs more industry experience. Noted experience in Git.,0.733
+F3036,I2036,Strong analytical skills and clear communication. Noted experience in Interviewing.,0.875
+F3037,I2037,Excellent technical skills; solved problems well. Noted experience in Cloud (Azure/AWS).,0.88
+F3038,I2038,Excellent technical skills; solved problems well. Noted experience in Interviewing.,0.77
+F3039,I2039,Strong analytical skills and clear communication. Noted experience in Interviewing.,0.811
+F3040,I2040,Very good culture fit and leadership potential. Noted experience in NLP.,0.774
+F3041,I2041,Very good culture fit and leadership potential. Noted experience in Recruitment.,0.797
+F3042,I2042,Not a strong fit for the role currently. Noted experience in Computer Vision.,0.413
+F3043,I2043,Communication was weak; needs improvement. Noted experience in Linux.,0.108
+F3044,I2044,Average performance; showed potential with some gaps. Noted experience in Numpy.,0.678
+F3045,I2045,Good skills but needs more industry experience. Noted experience in Machine Learning.,0.74
+F3046,I2046,Mixed answers; structure could improve. Noted experience in Power BI.,0.71
+F3047,I2047,Average performance; showed potential with some gaps. Noted experience in Leadership.,0.498
+F3048,I2048,"Confident presenter, handled questions well. Noted experience in Python.",0.829
+F3049,I2049,Average performance; showed potential with some gaps. Noted experience in SQL.,0.565
+F3050,I2050,Mixed answers; structure could improve. Noted experience in Computer Vision.,0.503
+F3051,I2051,Good skills but needs more industry experience. Noted experience in HR Policies.,0.463
+F3052,I2052,Very good culture fit and leadership potential. Noted experience in JavaScript.,0.846
+F3053,I2053,Good skills but needs more industry experience. Noted experience in APIs.,0.746
+F3054,I2054,Communication was weak; needs improvement. Noted experience in APIs.,0.443
+F3055,I2055,Struggled with problem solving and coding tasks. Noted experience in APIs.,0.425
+F3056,I2056,Strong analytical skills and clear communication. Noted experience in APIs.,0.802
+F3057,I2057,Excellent technical skills; solved problems well. Noted experience in Excel.,0.971
+F3058,I2058,Struggled with problem solving and coding tasks. Noted experience in HR Policies.,0.224
+F3059,I2059,Good skills but needs more industry experience. Noted experience in Deep Learning.,0.692
+F3060,I2060,Not a strong fit for the role currently. Noted experience in NLP.,0.301
+F3061,I2061,Average performance; showed potential with some gaps. Noted experience in Pandas.,0.581
+F3062,I2062,Struggled with problem solving and coding tasks. Noted experience in Pandas.,0.331
+F3063,I2063,"Confident presenter, handled questions well. Noted experience in JavaScript.",0.939
+F3064,I2064,Good skills but needs more industry experience. Noted experience in React.,0.655
+F3065,I2065,Mixed answers; structure could improve. Noted experience in Flask.,0.523
+F3066,I2066,Good skills but needs more industry experience. Noted experience in Python.,0.726
+F3067,I2067,Excellent technical skills; solved problems well. Noted experience in JavaScript.,0.883
+F3068,I2068,Mixed answers; structure could improve. Noted experience in Flask.,0.672
+F3069,I2069,Strong analytical skills and clear communication. Noted experience in Machine Learning.,0.762
+F3070,I2070,Good skills but needs more industry experience. Noted experience in Django.,0.748
+F3071,I2071,Mixed answers; structure could improve. Noted experience in Interviewing.,0.612
+F3072,I2072,Mixed answers; structure could improve. Noted experience in Docker.,0.584
+F3073,I2073,Average performance; showed potential with some gaps. Noted experience in DAX.,0.528
+F3074,I2074,Mixed answers; structure could improve. Noted experience in Docker.,0.587
+F3075,I2075,Not a strong fit for the role currently. Noted experience in Git.,0.408
+F3076,I2076,Mixed answers; structure could improve. Noted experience in Flask.,0.572
+F3077,I2077,Good skills but needs more industry experience. Noted experience in Recruitment.,0.714
+F3078,I2078,Strong analytical skills and clear communication. Noted experience in Computer Vision.,0.937
+F3079,I2079,Good skills but needs more industry experience. Noted experience in Data Visualization.,0.61
+F3080,I2080,Average performance; showed potential with some gaps. Noted experience in Data Visualization.,0.489
+F3081,I2081,Very good culture fit and leadership potential. Noted experience in Deep Learning.,0.757
+F3082,I2082,Average performance; showed potential with some gaps. Noted experience in Power BI.,0.56
+F3083,I2083,"Confident presenter, handled questions well. Noted experience in JavaScript.",0.795
+F3084,I2084,Good skills but needs more industry experience. Noted experience in React.,0.671
+F3085,I2085,Very good culture fit and leadership potential. Noted experience in SQL.,0.788
+F3086,I2086,Average performance; showed potential with some gaps. Noted experience in Machine Learning.,0.677
+F3087,I2087,"Confident presenter, handled questions well. Noted experience in Linux.",0.802
+F3088,I2088,Excellent technical skills; solved problems well. Noted experience in SQL.,0.798
+F3089,I2089,Very good culture fit and leadership potential. Noted experience in Flask.,0.781
+F3090,I2090,Not a strong fit for the role currently. Noted experience in HR Policies.,0.319
+F3091,I2091,Mixed answers; structure could improve. Noted experience in Pandas.,0.697
+F3092,I2092,Excellent technical skills; solved problems well. Noted experience in Flask.,0.884
+F3093,I2093,Good skills but needs more industry experience. Noted experience in Linux.,0.541
+F3094,I2094,Average performance; showed potential with some gaps. Noted experience in Flask.,0.672
+F3095,I2095,Mixed answers; structure could improve. Noted experience in Interviewing.,0.656
+F3096,I2096,Not a strong fit for the role currently. Noted experience in Cloud (Azure/AWS).,0.43
+F3097,I2097,Strong analytical skills and clear communication. Noted experience in Data Visualization.,0.91
+F3098,I2098,Good skills but needs more industry experience. Noted experience in Data Visualization.,0.712
+F3099,I2099,Excellent technical skills; solved problems well. Noted experience in Pandas.,0.841
+F3100,I2100,Very good culture fit and leadership potential. Noted experience in DAX.,0.803
+F3101,I2101,Good skills but needs more industry experience. Noted experience in Stakeholder Management.,0.597
+F3102,I2102,Struggled with problem solving and coding tasks. Noted experience in Leadership.,0.331
+F3103,I2103,"Confident presenter, handled questions well. Noted experience in SQL.",0.88
+F3104,I2104,Strong analytical skills and clear communication. Noted experience in NLP.,0.77
+F3105,I2105,Struggled with problem solving and coding tasks. Noted experience in JavaScript.,0.393
+F3106,I2106,Average performance; showed potential with some gaps. Noted experience in Recruitment.,0.474
+F3107,I2107,Not a strong fit for the role currently. Noted experience in Linux.,0.205
+F3108,I2108,Mixed answers; structure could improve. Noted experience in HR Policies.,0.67
+F3109,I2109,Good skills but needs more industry experience. Noted experience in Deep Learning.,0.625
+F3110,I2110,Mixed answers; structure could improve. Noted experience in HR Policies.,0.579
+F3111,I2111,Average performance; showed potential with some gaps. Noted experience in Deep Learning.,0.505
+F3112,I2112,Average performance; showed potential with some gaps. Noted experience in Python.,0.516
+F3113,I2113,Average performance; showed potential with some gaps. Noted experience in Kubernetes.,0.724
+F3114,I2114,Strong analytical skills and clear communication. Noted experience in DAX.,0.901
+F3115,I2115,Struggled with problem solving and coding tasks. Noted experience in Computer Vision.,0.404
+F3116,I2116,Struggled with problem solving and coding tasks. Noted experience in Computer Vision.,0.238
+F3117,I2117,Excellent technical skills; solved problems well. Noted experience in SQL.,0.771
+F3118,I2118,Good skills but needs more industry experience. Noted experience in NLP.,0.595
+F3119,I2119,Mixed answers; structure could improve. Noted experience in DAX.,0.631
+F3120,I2120,Mixed answers; structure could improve. Noted experience in NLP.,0.65
+F3121,I2121,Mixed answers; structure could improve. Noted experience in Tableau.,0.501
+F3122,I2122,Good skills but needs more industry experience. Noted experience in Tableau.,0.688
+F3123,I2123,Average performance; showed potential with some gaps. Noted experience in Computer Vision.,0.51
+F3124,I2124,Very good culture fit and leadership potential. Noted experience in Computer Vision.,0.843
+F3125,I2125,Struggled with problem solving and coding tasks. Noted experience in Deep Learning.,0.399
+F3126,I2126,Mixed answers; structure could improve. Noted experience in NLP.,0.566
+F3127,I2127,Not a strong fit for the role currently. Noted experience in Kubernetes.,0.369
+F3128,I2128,Mixed answers; structure could improve. Noted experience in JavaScript.,0.516
+F3129,I2129,Communication was weak; needs improvement. Noted experience in Django.,0.418
+F3130,I2130,Average performance; showed potential with some gaps. Noted experience in Python.,0.559
+F3131,I2131,Strong analytical skills and clear communication. Noted experience in Cloud (Azure/AWS).,0.837
+F3132,I2132,Communication was weak; needs improvement. Noted experience in Django.,0.424
+F3133,I2133,Good skills but needs more industry experience. Noted experience in Stakeholder Management.,0.744
+F3134,I2134,Mixed answers; structure could improve. Noted experience in HR Policies.,0.585
+F3135,I2135,Communication was weak; needs improvement. Noted experience in APIs.,0.133
+F3136,I2136,Average performance; showed potential with some gaps. Noted experience in Machine Learning.,0.49
+F3137,I2137,Excellent technical skills; solved problems well. Noted experience in Excel.,0.77
+F3138,I2138,Strong analytical skills and clear communication. Noted experience in SQL.,0.765
+F3139,I2139,Average performance; showed potential with some gaps. Noted experience in JavaScript.,0.58
+F3140,I2140,Communication was weak; needs improvement. Noted experience in Machine Learning.,0.106
+F3141,I2141,Mixed answers; structure could improve. Noted experience in React.,0.718
+F3142,I2142,Mixed answers; structure could improve. Noted experience in Flask.,0.724
+F3143,I2143,Mixed answers; structure could improve. Noted experience in Stakeholder Management.,0.703
+F3144,I2144,Mixed answers; structure could improve. Noted experience in Interviewing.,0.588
+F3145,I2145,Average performance; showed potential with some gaps. Noted experience in Data Visualization.,0.697
+F3146,I2146,Good skills but needs more industry experience. Noted experience in JavaScript.,0.564
+F3147,I2147,Very good culture fit and leadership potential. Noted experience in Recruitment.,0.775
+F3148,I2148,Average performance; showed potential with some gaps. Noted experience in JavaScript.,0.544
+F3149,I2149,Good skills but needs more industry experience. Noted experience in Recruitment.,0.527
+F3150,I2150,Mixed answers; structure could improve. Noted experience in Statistics.,0.57
+F3151,I2151,Very good culture fit and leadership potential. Noted experience in Cloud (Azure/AWS).,0.756
+F3152,I2152,Mixed answers; structure could improve. Noted experience in Data Visualization.,0.665
+F3153,I2153,Mixed answers; structure could improve. Noted experience in Stakeholder Management.,0.511
+F3154,I2154,Communication was weak; needs improvement. Noted experience in Python.,0.423
+F3155,I2155,Average performance; showed potential with some gaps. Noted experience in Communication.,0.747
+F3156,I2156,Average performance; showed potential with some gaps. Noted experience in Leadership.,0.601
+F3157,I2157,Mixed answers; structure could improve. Noted experience in Communication.,0.506
+F3158,I2158,Excellent technical skills; solved problems well. Noted experience in Numpy.,0.8
+F3159,I2159,"Confident presenter, handled questions well. Noted experience in Communication.",0.753
+F3160,I2160,Excellent technical skills; solved problems well. Noted experience in Tableau.,0.821
+F3161,I2161,Strong analytical skills and clear communication. Noted experience in JavaScript.,0.869
+F3162,I2162,Average performance; showed potential with some gaps. Noted experience in Leadership.,0.648
+F3163,I2163,Strong analytical skills and clear communication. Noted experience in Communication.,0.98
+F3164,I2164,"Confident presenter, handled questions well. Noted experience in DAX.",0.794
+F3165,I2165,Strong analytical skills and clear communication. Noted experience in DAX.,0.767
+F3166,I2166,Good skills but needs more industry experience. Noted experience in Power BI.,0.662
+F3167,I2167,Average performance; showed potential with some gaps. Noted experience in Pandas.,0.474
+F3168,I2168,Excellent technical skills; solved problems well. Noted experience in Recruitment.,0.937
+F3169,I2169,Communication was weak; needs improvement. Noted experience in DAX.,0.279
+F3170,I2170,Good skills but needs more industry experience. Noted experience in Computer Vision.,0.742
+F3171,I2171,Very good culture fit and leadership potential. Noted experience in Computer Vision.,0.98
+F3172,I2172,Mixed answers; structure could improve. Noted experience in DAX.,0.73
+F3173,I2173,Mixed answers; structure could improve. Noted experience in Flask.,0.712
+F3174,I2174,"Confident presenter, handled questions well. Noted experience in Excel.",0.907
+F3175,I2175,Good skills but needs more industry experience. Noted experience in Statistics.,0.715
+F3176,I2176,Good skills but needs more industry experience. Noted experience in Machine Learning.,0.642
+F3177,I2177,Mixed answers; structure could improve. Noted experience in JavaScript.,0.721
+F3178,I2178,Excellent technical skills; solved problems well. Noted experience in JavaScript.,0.936
+F3179,I2179,Mixed answers; structure could improve. Noted experience in Flask.,0.57
+F3180,I2180,Very good culture fit and leadership potential. Noted experience in DAX.,0.957
+F3181,I2181,Average performance; showed potential with some gaps. Noted experience in Python.,0.613
+F3182,I2182,Average performance; showed potential with some gaps. Noted experience in Deep Learning.,0.498
+F3183,I2183,Excellent technical skills; solved problems well. Noted experience in React.,0.98
+F3184,I2184,Average performance; showed potential with some gaps. Noted experience in Git.,0.585
+F3185,I2185,Not a strong fit for the role currently. Noted experience in Python.,0.312
+F3186,I2186,Average performance; showed potential with some gaps. Noted experience in React.,0.6
+F3187,I2187,Average performance; showed potential with some gaps. Noted experience in Git.,0.658
+F3188,I2188,Struggled with problem solving and coding tasks. Noted experience in Django.,0.265
+F3189,I2189,Very good culture fit and leadership potential. Noted experience in HR Policies.,0.969
+F3190,I2190,Not a strong fit for the role currently. Noted experience in NLP.,0.336
+F3191,I2191,Average performance; showed potential with some gaps. Noted experience in Power BI.,0.702
+F3192,I2192,Average performance; showed potential with some gaps. Noted experience in Recruitment.,0.575
+F3193,I2193,Average performance; showed potential with some gaps. Noted experience in Python.,0.601
+F3194,I2194,Good skills but needs more industry experience. Noted experience in Kubernetes.,0.571
+F3195,I2195,Good skills but needs more industry experience. Noted experience in APIs.,0.549
+F3196,I2196,Excellent technical skills; solved problems well. Noted experience in Kubernetes.,0.79
+F3197,I2197,Struggled with problem solving and coding tasks. Noted experience in Python.,0.438
+F3198,I2198,Mixed answers; structure could improve. Noted experience in HR Policies.,0.468
+F3199,I2199,Good skills but needs more industry experience. Noted experience in Python.,0.573
+F3200,I2200,Mixed answers; structure could improve. Noted experience in Deep Learning.,0.671
+F3201,I2201,"Confident presenter, handled questions well. Noted experience in Deep Learning.",0.962
+F3202,I2202,Mixed answers; structure could improve. Noted experience in Excel.,0.585
+F3203,I2203,Mixed answers; structure could improve. Noted experience in Pandas.,0.661
+F3204,I2204,Average performance; showed potential with some gaps. Noted experience in Pandas.,0.544
+F3205,I2205,Not a strong fit for the role currently. Noted experience in Linux.,0.386
+F3206,I2206,Average performance; showed potential with some gaps. Noted experience in HR Policies.,0.688
+F3207,I2207,Communication was weak; needs improvement. Noted experience in HR Policies.,0.25
+F3208,I2208,Not a strong fit for the role currently. Noted experience in APIs.,0.318
+F3209,I2209,Very good culture fit and leadership potential. Noted experience in HR Policies.,0.826
+F3210,I2210,Excellent technical skills; solved problems well. Noted experience in Docker.,0.788
+F3211,I2211,Mixed answers; structure could improve. Noted experience in Leadership.,0.541
+F3212,I2212,Struggled with problem solving and coding tasks. Noted experience in NLP.,0.392
+F3213,I2213,Average performance; showed potential with some gaps. Noted experience in Numpy.,0.727
+F3214,I2214,Average performance; showed potential with some gaps. Noted experience in HR Policies.,0.673
+F3215,I2215,Communication was weak; needs improvement. Noted experience in Cloud (Azure/AWS).,0.363
+F3216,I2216,Excellent technical skills; solved problems well. Noted experience in Docker.,0.836
+F3217,I2217,Good skills but needs more industry experience. Noted experience in Data Visualization.,0.48
+F3218,I2218,Average performance; showed potential with some gaps. Noted experience in Statistics.,0.719
+F3219,I2219,Communication was weak; needs improvement. Noted experience in Django.,0.424
+F3220,I2220,Excellent technical skills; solved problems well. Noted experience in Leadership.,0.887
+F3221,I2221,Struggled with problem solving and coding tasks. Noted experience in JavaScript.,0.305
+F3222,I2222,Good skills but needs more industry experience. Noted experience in Django.,0.723
+F3223,I2223,Mixed answers; structure could improve. Noted experience in Django.,0.611
+F3224,I2224,"Confident presenter, handled questions well. Noted experience in Communication.",0.95
+F3225,I2225,Struggled with problem solving and coding tasks. Noted experience in Computer Vision.,0.301
+F3226,I2226,Not a strong fit for the role currently. Noted experience in Communication.,0.376
+F3227,I2227,Good skills but needs more industry experience. Noted experience in SQL.,0.584
+F3228,I2228,Excellent technical skills; solved problems well. Noted experience in SQL.,0.837
+F3229,I2229,Average performance; showed potential with some gaps. Noted experience in Docker.,0.686
+F3230,I2230,Average performance; showed potential with some gaps. Noted experience in Kubernetes.,0.642
+F3231,I2231,Average performance; showed potential with some gaps. Noted experience in Communication.,0.678
+F3232,I2232,Not a strong fit for the role currently. Noted experience in Numpy.,0.409
+F3233,I2233,Not a strong fit for the role currently. Noted experience in Docker.,0.408
+F3234,I2234,Average performance; showed potential with some gaps. Noted experience in Communication.,0.611
+F3235,I2235,Average performance; showed potential with some gaps. Noted experience in NLP.,0.68
+F3236,I2236,Not a strong fit for the role currently. Noted experience in NLP.,0.39
+F3237,I2237,Average performance; showed potential with some gaps. Noted experience in NLP.,0.688
+F3238,I2238,Not a strong fit for the role currently. Noted experience in Stakeholder Management.,0.395
+F3239,I2239,"Confident presenter, handled questions well. Noted experience in Stakeholder Management.",0.87
+F3240,I2240,Average performance; showed potential with some gaps. Noted experience in Power BI.,0.527
+F3241,I2241,Average performance; showed potential with some gaps. Noted experience in Interviewing.,0.571
+F3242,I2242,Good skills but needs more industry experience. Noted experience in Data Visualization.,0.655
+F3243,I2243,Mixed answers; structure could improve. Noted experience in Data Visualization.,0.553
+F3244,I2244,Communication was weak; needs improvement. Noted experience in Linux.,0.319
+F3245,I2245,Good skills but needs more industry experience. Noted experience in Deep Learning.,0.645
+F3246,I2246,Mixed answers; structure could improve. Noted experience in DAX.,0.608
+F3247,I2247,Good skills but needs more industry experience. Noted experience in React.,0.619
+F3248,I2248,Good skills but needs more industry experience. Noted experience in React.,0.551
+F3249,I2249,Good skills but needs more industry experience. Noted experience in Communication.,0.522
+F3250,I2250,Struggled with problem solving and coding tasks. Noted experience in DAX.,0.442
+F3251,I2251,Good skills but needs more industry experience. Noted experience in Git.,0.713
+F3252,I2252,Excellent technical skills; solved problems well. Noted experience in Linux.,0.803
+F3253,I2253,Average performance; showed potential with some gaps. Noted experience in Git.,0.495
+F3254,I2254,Mixed answers; structure could improve. Noted experience in Cloud (Azure/AWS).,0.498
+F3255,I2255,"Confident presenter, handled questions well. Noted experience in SQL.",0.949
+F3256,I2256,Average performance; showed potential with some gaps. Noted experience in Statistics.,0.701
+F3257,I2257,"Confident presenter, handled questions well. Noted experience in Communication.",0.872
+F3258,I2258,Average performance; showed potential with some gaps. Noted experience in Statistics.,0.572
+F3259,I2259,Mixed answers; structure could improve. Noted experience in Communication.,0.578
+F3260,I2260,Mixed answers; structure could improve. Noted experience in Statistics.,0.695
+F3261,I2261,"Confident presenter, handled questions well. Noted experience in Django.",0.809
+F3262,I2262,Average performance; showed potential with some gaps. Noted experience in NLP.,0.556
+F3263,I2263,Good skills but needs more industry experience. Noted experience in Communication.,0.621
+F3264,I2264,Strong analytical skills and clear communication. Noted experience in NLP.,0.98
+F3265,I2265,Mixed answers; structure could improve. Noted experience in Excel.,0.726
+F3266,I2266,Strong analytical skills and clear communication. Noted experience in Excel.,0.752
+F3267,I2267,Strong analytical skills and clear communication. Noted experience in DAX.,0.795
+F3268,I2268,Good skills but needs more industry experience. Noted experience in NLP.,0.512
+F3269,I2269,Mixed answers; structure could improve. Noted experience in Machine Learning.,0.568
+F3270,I2270,Good skills but needs more industry experience. Noted experience in NLP.,0.675
+F3271,I2271,Average performance; showed potential with some gaps. Noted experience in Machine Learning.,0.521
+F3272,I2272,Struggled with problem solving and coding tasks. Noted experience in Stakeholder Management.,0.342
+F3273,I2273,Excellent technical skills; solved problems well. Noted experience in JavaScript.,0.827
+F3274,I2274,Average performance; showed potential with some gaps. Noted experience in JavaScript.,0.53
+F3275,I2275,Mixed answers; structure could improve. Noted experience in Tableau.,0.737
+F3276,I2276,Mixed answers; structure could improve. Noted experience in Pandas.,0.644
+F3277,I2277,Good skills but needs more industry experience. Noted experience in Interviewing.,0.575
+F3278,I2278,Struggled with problem solving and coding tasks. Noted experience in Python.,0.402
+F3279,I2279,"Confident presenter, handled questions well. Noted experience in Power BI.",0.852
+F3280,I2280,Very good culture fit and leadership potential. Noted experience in NLP.,0.751
+F3281,I2281,Average performance; showed potential with some gaps. Noted experience in NLP.,0.529
+F3282,I2282,Mixed answers; structure could improve. Noted experience in NLP.,0.668
+F3283,I2283,Good skills but needs more industry experience. Noted experience in React.,0.676
+F3284,I2284,Excellent technical skills; solved problems well. Noted experience in Recruitment.,0.871
+F3285,I2285,Average performance; showed potential with some gaps. Noted experience in SQL.,0.681
+F3286,I2286,Average performance; showed potential with some gaps. Noted experience in React.,0.565
+F3287,I2287,Average performance; showed potential with some gaps. Noted experience in Excel.,0.637
+F3288,I2288,Communication was weak; needs improvement. Noted experience in Cloud (Azure/AWS).,0.333
+F3289,I2289,Mixed answers; structure could improve. Noted experience in React.,0.707
+F3290,I2290,Mixed answers; structure could improve. Noted experience in Excel.,0.658
+F3291,I2291,Not a strong fit for the role currently. Noted experience in DAX.,0.431
+F3292,I2292,Communication was weak; needs improvement. Noted experience in Tableau.,0.377
+F3293,I2293,Good skills but needs more industry experience. Noted experience in Tableau.,0.719
+F3294,I2294,Mixed answers; structure could improve. Noted experience in Recruitment.,0.573
+F3295,I2295,Good skills but needs more industry experience. Noted experience in Kubernetes.,0.609
+F3296,I2296,Average performance; showed potential with some gaps. Noted experience in Recruitment.,0.675
+F3297,I2297,Average performance; showed potential with some gaps. Noted experience in Tableau.,0.649
+F3298,I2298,Mixed answers; structure could improve. Noted experience in Kubernetes.,0.566
+F3299,I2299,Very good culture fit and leadership potential. Noted experience in Kubernetes.,0.824
+F3300,I2300,"Confident presenter, handled questions well. Noted experience in Interviewing.",0.898
+F3301,I2301,Very good culture fit and leadership potential. Noted experience in Tableau.,0.837
+F3302,I2302,Average performance; showed potential with some gaps. Noted experience in Leadership.,0.715
+F3303,I2303,Good skills but needs more industry experience. Noted experience in Tableau.,0.485
+F3304,I2304,"Confident presenter, handled questions well. Noted experience in Tableau.",0.792
+F3305,I2305,Mixed answers; structure could improve. Noted experience in Data Visualization.,0.518
+F3306,I2306,Very good culture fit and leadership potential. Noted experience in NLP.,0.98
+F3307,I2307,Good skills but needs more industry experience. Noted experience in Interviewing.,0.538
+F3308,I2308,"Confident presenter, handled questions well. Noted experience in Excel.",0.819
+F3309,I2309,Average performance; showed potential with some gaps. Noted experience in Numpy.,0.622
+F3310,I2310,Mixed answers; structure could improve. Noted experience in NLP.,0.573
+F3311,I2311,Mixed answers; structure could improve. Noted experience in NLP.,0.678
+F3312,I2312,Average performance; showed potential with some gaps. Noted experience in Git.,0.452
+F3313,I2313,Communication was weak; needs improvement. Noted experience in Pandas.,0.404
+F3314,I2314,Communication was weak; needs improvement. Noted experience in React.,0.449
+F3315,I2315,Excellent technical skills; solved problems well. Noted experience in Excel.,0.98
+F3316,I2316,Average performance; showed potential with some gaps. Noted experience in Data Visualization.,0.687
+F3317,I2317,Good skills but needs more industry experience. Noted experience in APIs.,0.518
+F3318,I2318,Struggled with problem solving and coding tasks. Noted experience in NLP.,0.27
+F3319,I2319,Average performance; showed potential with some gaps. Noted experience in SQL.,0.693
+F3320,I2320,Strong analytical skills and clear communication. Noted experience in Computer Vision.,0.908
+F3321,I2321,Mixed answers; structure could improve. Noted experience in NLP.,0.623
+F3322,I2322,Average performance; showed potential with some gaps. Noted experience in SQL.,0.659
+F3323,I2323,Excellent technical skills; solved problems well. Noted experience in NLP.,0.952
+F3324,I2324,Good skills but needs more industry experience. Noted experience in Flask.,0.481
+F3325,I2325,Average performance; showed potential with some gaps. Noted experience in Flask.,0.471
+F3326,I2326,Average performance; showed potential with some gaps. Noted experience in Deep Learning.,0.651
+F3327,I2327,Good skills but needs more industry experience. Noted experience in Django.,0.624
+F3328,I2328,Strong analytical skills and clear communication. Noted experience in Django.,0.766
+F3329,I2329,"Confident presenter, handled questions well. Noted experience in Numpy.",0.98
+F3330,I2330,"Confident presenter, handled questions well. Noted experience in Tableau.",0.864
+F3331,I2331,Average performance; showed potential with some gaps. Noted experience in Git.,0.551
+F3332,I2332,Good skills but needs more industry experience. Noted experience in Machine Learning.,0.457
+F3333,I2333,Mixed answers; structure could improve. Noted experience in Leadership.,0.626
+F3334,I2334,Mixed answers; structure could improve. Noted experience in Docker.,0.709
+F3335,I2335,Excellent technical skills; solved problems well. Noted experience in Linux.,0.793
+F3336,I2336,"Confident presenter, handled questions well. Noted experience in Recruitment.",0.879
+F3337,I2337,Good skills but needs more industry experience. Noted experience in Linux.,0.714
+F3338,I2338,Mixed answers; structure could improve. Noted experience in Docker.,0.721
+F3339,I2339,Average performance; showed potential with some gaps. Noted experience in Docker.,0.523
+F3340,I2340,Not a strong fit for the role currently. Noted experience in HR Policies.,0.28
+F3341,I2341,Communication was weak; needs improvement. Noted experience in SQL.,0.381
+F3342,I2342,Excellent technical skills; solved problems well. Noted experience in Django.,0.866
+F3343,I2343,Good skills but needs more industry experience. Noted experience in Deep Learning.,0.675
+F3344,I2344,Mixed answers; structure could improve. Noted experience in SQL.,0.688
+F3345,I2345,Mixed answers; structure could improve. Noted experience in Git.,0.452
+F3346,I2346,Average performance; showed potential with some gaps. Noted experience in React.,0.471
+F3347,I2347,Good skills but needs more industry experience. Noted experience in Linux.,0.507
+F3348,I2348,Good skills but needs more industry experience. Noted experience in Kubernetes.,0.703
+F3349,I2349,"Confident presenter, handled questions well. Noted experience in HR Policies.",0.972
+F3350,I2350,Average performance; showed potential with some gaps. Noted experience in Kubernetes.,0.572
+F3351,I2351,Average performance; showed potential with some gaps. Noted experience in Linux.,0.535
+F3352,I2352,Average performance; showed potential with some gaps. Noted experience in Communication.,0.505
+F3353,I2353,Excellent technical skills; solved problems well. Noted experience in Machine Learning.,0.77
+F3354,I2354,Struggled with problem solving and coding tasks. Noted experience in Kubernetes.,0.133
+F3355,I2355,Communication was weak; needs improvement. Noted experience in Linux.,0.408
+F3356,I2356,Average performance; showed potential with some gaps. Noted experience in Power BI.,0.565
+F3357,I2357,Mixed answers; structure could improve. Noted experience in Stakeholder Management.,0.605
+F3358,I2358,Mixed answers; structure could improve. Noted experience in React.,0.668
+F3359,I2359,Strong analytical skills and clear communication. Noted experience in Numpy.,0.808
+F3360,I2360,Mixed answers; structure could improve. Noted experience in HR Policies.,0.462
+F3361,I2361,Good skills but needs more industry experience. Noted experience in Numpy.,0.531
+F3362,I2362,Good skills but needs more industry experience. Noted experience in Numpy.,0.706
+F3363,I2363,Mixed answers; structure could improve. Noted experience in Kubernetes.,0.499
+F3364,I2364,Good skills but needs more industry experience. Noted experience in Django.,0.66
+F3365,I2365,Good skills but needs more industry experience. Noted experience in React.,0.506
+F3366,I2366,Mixed answers; structure could improve. Noted experience in Django.,0.57
+F3367,I2367,Average performance; showed potential with some gaps. Noted experience in Communication.,0.737
+F3368,I2368,Communication was weak; needs improvement. Noted experience in HR Policies.,0.259
+F3369,I2369,Average performance; showed potential with some gaps. Noted experience in HR Policies.,0.561
+F3370,I2370,Strong analytical skills and clear communication. Noted experience in Numpy.,0.98
+F3371,I2371,Mixed answers; structure could improve. Noted experience in Excel.,0.476
+F3372,I2372,Not a strong fit for the role currently. Noted experience in Docker.,0.419
+F3373,I2373,Average performance; showed potential with some gaps. Noted experience in DAX.,0.64
+F3374,I2374,Good skills but needs more industry experience. Noted experience in Docker.,0.506
+F3375,I2375,Mixed answers; structure could improve. Noted experience in APIs.,0.641
+F3376,I2376,Average performance; showed potential with some gaps. Noted experience in HR Policies.,0.62
+F3377,I2377,Average performance; showed potential with some gaps. Noted experience in Stakeholder Management.,0.674
+F3378,I2378,Average performance; showed potential with some gaps. Noted experience in Tableau.,0.687
+F3379,I2379,Good skills but needs more industry experience. Noted experience in Communication.,0.691
+F3380,I2380,Mixed answers; structure could improve. Noted experience in Django.,0.663
+F3381,I2381,Average performance; showed potential with some gaps. Noted experience in Numpy.,0.747
+F3382,I2382,Mixed answers; structure could improve. Noted experience in Numpy.,0.615
+F3383,I2383,Communication was weak; needs improvement. Noted experience in Pandas.,0.331
+F3384,I2384,Mixed answers; structure could improve. Noted experience in Computer Vision.,0.619
+F3385,I2385,Struggled with problem solving and coding tasks. Noted experience in Django.,0.141
+F3386,I2386,Average performance; showed potential with some gaps. Noted experience in Computer Vision.,0.67
+F3387,I2387,Mixed answers; structure could improve. Noted experience in Pandas.,0.532
+F3388,I2388,Excellent technical skills; solved problems well. Noted experience in Django.,0.775
+F3389,I2389,Good skills but needs more industry experience. Noted experience in Linux.,0.544
+F3390,I2390,Average performance; showed potential with some gaps. Noted experience in Pandas.,0.531
+F3391,I2391,Average performance; showed potential with some gaps. Noted experience in Deep Learning.,0.698
+F3392,I2392,Strong analytical skills and clear communication. Noted experience in Cloud (Azure/AWS).,0.98
+F3393,I2393,Mixed answers; structure could improve. Noted experience in React.,0.509
+F3394,I2394,Mixed answers; structure could improve. Noted experience in Deep Learning.,0.671
+F3395,I2395,"Confident presenter, handled questions well. Noted experience in Machine Learning.",0.843
+F3396,I2396,Not a strong fit for the role currently. Noted experience in Recruitment.,0.401
+F3397,I2397,"Confident presenter, handled questions well. Noted experience in Interviewing.",0.93
+F3398,I2398,Average performance; showed potential with some gaps. Noted experience in Recruitment.,0.718
+F3399,I2399,Strong analytical skills and clear communication. Noted experience in Interviewing.,0.98
+F3400,I2400,Mixed answers; structure could improve. Noted experience in Power BI.,0.482
+F3401,I2401,Good skills but needs more industry experience. Noted experience in Tableau.,0.672
+F3402,I2402,Communication was weak; needs improvement. Noted experience in Tableau.,0.255
+F3403,I2403,Mixed answers; structure could improve. Noted experience in Docker.,0.595
+F3404,I2404,Strong analytical skills and clear communication. Noted experience in Django.,0.857
+F3405,I2405,Not a strong fit for the role currently. Noted experience in Git.,0.386
+F3406,I2406,"Confident presenter, handled questions well. Noted experience in Power BI.",0.914
+F3407,I2407,"Confident presenter, handled questions well. Noted experience in Stakeholder Management.",0.944
+F3408,I2408,Strong analytical skills and clear communication. Noted experience in DAX.,0.913
+F3409,I2409,Average performance; showed potential with some gaps. Noted experience in NLP.,0.605
+F3410,I2410,"Confident presenter, handled questions well. Noted experience in Recruitment.",0.98
+F3411,I2411,Mixed answers; structure could improve. Noted experience in Leadership.,0.614
+F3412,I2412,Strong analytical skills and clear communication. Noted experience in Interviewing.,0.794
+F3413,I2413,Mixed answers; structure could improve. Noted experience in Interviewing.,0.684
+F3414,I2414,Very good culture fit and leadership potential. Noted experience in Tableau.,0.757
+F3415,I2415,Struggled with problem solving and coding tasks. Noted experience in Linux.,0.249
+F3416,I2416,Mixed answers; structure could improve. Noted experience in React.,0.713
+F3417,I2417,Average performance; showed potential with some gaps. Noted experience in Recruitment.,0.7
+F3418,I2418,Average performance; showed potential with some gaps. Noted experience in JavaScript.,0.61
+F3419,I2419,Good skills but needs more industry experience. Noted experience in React.,0.644
+F3420,I2420,Good skills but needs more industry experience. Noted experience in Cloud (Azure/AWS).,0.513
+F3421,I2421,Not a strong fit for the role currently. Noted experience in Interviewing.,0.426
+F3422,I2422,Good skills but needs more industry experience. Noted experience in Interviewing.,0.543
+F3423,I2423,"Confident presenter, handled questions well. Noted experience in Docker.",0.87
+F3424,I2424,Strong analytical skills and clear communication. Noted experience in JavaScript.,0.927
+F3425,I2425,Mixed answers; structure could improve. Noted experience in Communication.,0.63
+F3426,I2426,Mixed answers; structure could improve. Noted experience in Deep Learning.,0.749
+F3427,I2427,Good skills but needs more industry experience. Noted experience in Django.,0.534
+F3428,I2428,Good skills but needs more industry experience. Noted experience in Interviewing.,0.489
+F3429,I2429,Mixed answers; structure could improve. Noted experience in Linux.,0.48
+F3430,I2430,Good skills but needs more industry experience. Noted experience in HR Policies.,0.678
+F3431,I2431,Mixed answers; structure could improve. Noted experience in Leadership.,0.723
+F3432,I2432,Mixed answers; structure could improve. Noted experience in Recruitment.,0.551
+F3433,I2433,Average performance; showed potential with some gaps. Noted experience in Git.,0.675
+F3434,I2434,Average performance; showed potential with some gaps. Noted experience in Recruitment.,0.519
+F3435,I2435,Not a strong fit for the role currently. Noted experience in Data Visualization.,0.321
+F3436,I2436,Mixed answers; structure could improve. Noted experience in Data Visualization.,0.65
+F3437,I2437,Average performance; showed potential with some gaps. Noted experience in JavaScript.,0.532
+F3438,I2438,"Confident presenter, handled questions well. Noted experience in Data Visualization.",0.816
+F3439,I2439,Average performance; showed potential with some gaps. Noted experience in Data Visualization.,0.702
+F3440,I2440,Good skills but needs more industry experience. Noted experience in React.,0.703
+F3441,I2441,Average performance; showed potential with some gaps. Noted experience in Computer Vision.,0.665
+F3442,I2442,Strong analytical skills and clear communication. Noted experience in Communication.,0.797
+F3443,I2443,Struggled with problem solving and coding tasks. Noted experience in Git.,0.324
+F3444,I2444,Good skills but needs more industry experience. Noted experience in React.,0.579
+F3445,I2445,Strong analytical skills and clear communication. Noted experience in Machine Learning.,0.757
+F3446,I2446,"Confident presenter, handled questions well. Noted experience in Tableau.",0.98
+F3447,I2447,Very good culture fit and leadership potential. Noted experience in Statistics.,0.933
+F3448,I2448,Communication was weak; needs improvement. Noted experience in Numpy.,0.264
+F3449,I2449,Good skills but needs more industry experience. Noted experience in React.,0.581
+F3450,I2450,Average performance; showed potential with some gaps. Noted experience in Leadership.,0.613
+F3451,I2451,Average performance; showed potential with some gaps. Noted experience in Django.,0.73
+F3452,I2452,Mixed answers; structure could improve. Noted experience in Django.,0.56
+F3453,I2453,Excellent technical skills; solved problems well. Noted experience in React.,0.788
+F3454,I2454,Mixed answers; structure could improve. Noted experience in Leadership.,0.556
+F3455,I2455,Struggled with problem solving and coding tasks. Noted experience in Excel.,0.281
+F3456,I2456,Average performance; showed potential with some gaps. Noted experience in Leadership.,0.679
+F3457,I2457,"Confident presenter, handled questions well. Noted experience in Numpy.",0.773
+F3458,I2458,Good skills but needs more industry experience. Noted experience in Communication.,0.738
+F3459,I2459,Mixed answers; structure could improve. Noted experience in Pandas.,0.624
+F3460,I2460,Very good culture fit and leadership potential. Noted experience in Computer Vision.,0.838
+F3461,I2461,Average performance; showed potential with some gaps. Noted experience in Excel.,0.686
+F3462,I2462,Average performance; showed potential with some gaps. Noted experience in Communication.,0.538
+F3463,I2463,Strong analytical skills and clear communication. Noted experience in Kubernetes.,0.789
+F3464,I2464,Good skills but needs more industry experience. Noted experience in Computer Vision.,0.53
+F3465,I2465,Average performance; showed potential with some gaps. Noted experience in Communication.,0.475
+F3466,I2466,Good skills but needs more industry experience. Noted experience in React.,0.688
+F3467,I2467,Excellent technical skills; solved problems well. Noted experience in Cloud (Azure/AWS).,0.98
+F3468,I2468,Strong analytical skills and clear communication. Noted experience in React.,0.757
+F3469,I2469,Communication was weak; needs improvement. Noted experience in Communication.,0.127
+F3470,I2470,Strong analytical skills and clear communication. Noted experience in Stakeholder Management.,0.771
+F3471,I2471,Good skills but needs more industry experience. Noted experience in Stakeholder Management.,0.573
+F3472,I2472,Strong analytical skills and clear communication. Noted experience in Data Visualization.,0.98
+F3473,I2473,Mixed answers; structure could improve. Noted experience in Data Visualization.,0.495
+F3474,I2474,Not a strong fit for the role currently. Noted experience in Data Visualization.,0.346
+F3475,I2475,Mixed answers; structure could improve. Noted experience in APIs.,0.466
+F3476,I2476,Good skills but needs more industry experience. Noted experience in Django.,0.461
+F3477,I2477,Average performance; showed potential with some gaps. Noted experience in APIs.,0.545
+F3478,I2478,Mixed answers; structure could improve. Noted experience in Django.,0.562
+F3479,I2479,Average performance; showed potential with some gaps. Noted experience in Docker.,0.532
+F3480,I2480,Average performance; showed potential with some gaps. Noted experience in NLP.,0.629
+F3481,I2481,Communication was weak; needs improvement. Noted experience in Tableau.,0.368
+F3482,I2482,Communication was weak; needs improvement. Noted experience in Deep Learning.,0.381
+F3483,I2483,Strong analytical skills and clear communication. Noted experience in Deep Learning.,0.825
+F3484,I2484,Struggled with problem solving and coding tasks. Noted experience in JavaScript.,0.266
+F3485,I2485,Mixed answers; structure could improve. Noted experience in Statistics.,0.641
+F3486,I2486,Very good culture fit and leadership potential. Noted experience in Python.,0.78
+F3487,I2487,Good skills but needs more industry experience. Noted experience in Communication.,0.652
+F3488,I2488,Mixed answers; structure could improve. Noted experience in Git.,0.746
+F3489,I2489,Average performance; showed potential with some gaps. Noted experience in Python.,0.55
+F3490,I2490,Average performance; showed potential with some gaps. Noted experience in Communication.,0.613
+F3491,I2491,Good skills but needs more industry experience. Noted experience in Interviewing.,0.635
+F3492,I2492,Not a strong fit for the role currently. Noted experience in Stakeholder Management.,0.323
+F3493,I2493,Good skills but needs more industry experience. Noted experience in Leadership.,0.642
+F3494,I2494,Strong analytical skills and clear communication. Noted experience in Power BI.,0.98
+F3495,I2495,Communication was weak; needs improvement. Noted experience in Tableau.,0.389
+F3496,I2496,"Confident presenter, handled questions well. Noted experience in Git.",0.78
+F3497,I2497,Communication was weak; needs improvement. Noted experience in Tableau.,0.35
+F3498,I2498,Excellent technical skills; solved problems well. Noted experience in HR Policies.,0.811
+F3499,I2499,Average performance; showed potential with some gaps. Noted experience in HR Policies.,0.704
+F3500,I2500,Very good culture fit and leadership potential. Noted experience in Deep Learning.,0.812
+F3501,I2501,Good skills but needs more industry experience. Noted experience in Data Visualization.,0.69
+F3502,I2502,Good skills but needs more industry experience. Noted experience in HR Policies.,0.643
+F3503,I2503,Average performance; showed potential with some gaps. Noted experience in Computer Vision.,0.745
+F3504,I2504,Strong analytical skills and clear communication. Noted experience in Git.,0.942
+F3505,I2505,Mixed answers; structure could improve. Noted experience in Power BI.,0.528
+F3506,I2506,Good skills but needs more industry experience. Noted experience in Stakeholder Management.,0.598
+F3507,I2507,Good skills but needs more industry experience. Noted experience in Numpy.,0.555
+F3508,I2508,Very good culture fit and leadership potential. Noted experience in Flask.,0.819
+F3509,I2509,Mixed answers; structure could improve. Noted experience in Numpy.,0.662
+F3510,I2510,"Confident presenter, handled questions well. Noted experience in HR Policies.",0.871
+F3511,I2511,Very good culture fit and leadership potential. Noted experience in Data Visualization.,0.813
+F3512,I2512,Very good culture fit and leadership potential. Noted experience in Data Visualization.,0.908
+F3513,I2513,Mixed answers; structure could improve. Noted experience in SQL.,0.579
+F3514,I2514,Good skills but needs more industry experience. Noted experience in Recruitment.,0.516
+F3515,I2515,Not a strong fit for the role currently. Noted experience in Django.,0.324
+F3516,I2516,"Confident presenter, handled questions well. Noted experience in Recruitment.",0.98
+F3517,I2517,Good skills but needs more industry experience. Noted experience in NLP.,0.664
+F3518,I2518,Average performance; showed potential with some gaps. Noted experience in Communication.,0.647
+F3519,I2519,Mixed answers; structure could improve. Noted experience in Django.,0.619
+F3520,I2520,Good skills but needs more industry experience. Noted experience in Python.,0.558
+F3521,I2521,Average performance; showed potential with some gaps. Noted experience in Python.,0.706
+F3522,I2522,Struggled with problem solving and coding tasks. Noted experience in Python.,0.387
+F3523,I2523,Struggled with problem solving and coding tasks. Noted experience in Statistics.,0.242
+F3524,I2524,Good skills but needs more industry experience. Noted experience in APIs.,0.457
+F3525,I2525,Good skills but needs more industry experience. Noted experience in Communication.,0.492
+F3526,I2526,Good skills but needs more industry experience. Noted experience in Recruitment.,0.724
+F3527,I2527,Good skills but needs more industry experience. Noted experience in Numpy.,0.68
+F3528,I2528,Communication was weak; needs improvement. Noted experience in Flask.,0.403
+F3529,I2529,"Confident presenter, handled questions well. Noted experience in Flask.",0.841
+F3530,I2530,"Confident presenter, handled questions well. Noted experience in Linux.",0.772
+F3531,I2531,"Confident presenter, handled questions well. Noted experience in Linux.",0.812
+F3532,I2532,Average performance; showed potential with some gaps. Noted experience in Flask.,0.671
+F3533,I2533,Struggled with problem solving and coding tasks. Noted experience in Linux.,0.448
+F3534,I2534,Communication was weak; needs improvement. Noted experience in React.,0.43
+F3535,I2535,Mixed answers; structure could improve. Noted experience in NLP.,0.541
+F3536,I2536,Communication was weak; needs improvement. Noted experience in Computer Vision.,0.337
+F3537,I2537,Mixed answers; structure could improve. Noted experience in Interviewing.,0.457
+F3538,I2538,Average performance; showed potential with some gaps. Noted experience in Deep Learning.,0.666
+F3539,I2539,"Confident presenter, handled questions well. Noted experience in Stakeholder Management.",0.811
+F3540,I2540,Good skills but needs more industry experience. Noted experience in Interviewing.,0.472
+F3541,I2541,"Confident presenter, handled questions well. Noted experience in NLP.",0.931
+F3542,I2542,Not a strong fit for the role currently. Noted experience in NLP.,0.05
+F3543,I2543,Strong analytical skills and clear communication. Noted experience in Git.,0.931
+F3544,I2544,Struggled with problem solving and coding tasks. Noted experience in DAX.,0.193
+F3545,I2545,Strong analytical skills and clear communication. Noted experience in DAX.,0.969
+F3546,I2546,Excellent technical skills; solved problems well. Noted experience in Git.,0.841
+F3547,I2547,Excellent technical skills; solved problems well. Noted experience in Git.,0.881
+F3548,I2548,Struggled with problem solving and coding tasks. Noted experience in Git.,0.352
+F3549,I2549,Average performance; showed potential with some gaps. Noted experience in JavaScript.,0.631
+F3550,I2550,Not a strong fit for the role currently. Noted experience in Linux.,0.241
+F3551,I2551,Mixed answers; structure could improve. Noted experience in Tableau.,0.657
+F3552,I2552,Excellent technical skills; solved problems well. Noted experience in Tableau.,0.907
+F3553,I2553,Excellent technical skills; solved problems well. Noted experience in Docker.,0.98
+F3554,I2554,Strong analytical skills and clear communication. Noted experience in DAX.,0.973
+F3555,I2555,Average performance; showed potential with some gaps. Noted experience in Docker.,0.464
+F3556,I2556,Strong analytical skills and clear communication. Noted experience in Python.,0.754
+F3557,I2557,Average performance; showed potential with some gaps. Noted experience in Excel.,0.732
+F3558,I2558,Excellent technical skills; solved problems well. Noted experience in APIs.,0.804
+F3559,I2559,Mixed answers; structure could improve. Noted experience in Docker.,0.47
+F3560,I2560,"Confident presenter, handled questions well. Noted experience in Machine Learning.",0.775
+F3561,I2561,Good skills but needs more industry experience. Noted experience in Data Visualization.,0.718
+F3562,I2562,Not a strong fit for the role currently. Noted experience in APIs.,0.389
+F3563,I2563,Mixed answers; structure could improve. Noted experience in Django.,0.538
+F3564,I2564,Good skills but needs more industry experience. Noted experience in Git.,0.542
+F3565,I2565,Mixed answers; structure could improve. Noted experience in APIs.,0.465
+F3566,I2566,"Confident presenter, handled questions well. Noted experience in Git.",0.98
+F3567,I2567,Communication was weak; needs improvement. Noted experience in NLP.,0.445
+F3568,I2568,Average performance; showed potential with some gaps. Noted experience in Data Visualization.,0.727
+F3569,I2569,Communication was weak; needs improvement. Noted experience in NLP.,0.337
+F3570,I2570,Mixed answers; structure could improve. Noted experience in APIs.,0.725
+F3571,I2571,Mixed answers; structure could improve. Noted experience in Leadership.,0.529
+F3572,I2572,Communication was weak; needs improvement. Noted experience in React.,0.223
+F3573,I2573,Average performance; showed potential with some gaps. Noted experience in Data Visualization.,0.574
+F3574,I2574,"Confident presenter, handled questions well. Noted experience in DAX.",0.765
+F3575,I2575,Not a strong fit for the role currently. Noted experience in Data Visualization.,0.39
+F3576,I2576,Strong analytical skills and clear communication. Noted experience in Data Visualization.,0.98
+F3577,I2577,"Confident presenter, handled questions well. Noted experience in React.",0.98
+F3578,I2578,"Confident presenter, handled questions well. Noted experience in React.",0.874
+F3579,I2579,Mixed answers; structure could improve. Noted experience in Flask.,0.505
+F3580,I2580,Not a strong fit for the role currently. Noted experience in DAX.,0.257
+F3581,I2581,Average performance; showed potential with some gaps. Noted experience in DAX.,0.586
+F3582,I2582,Average performance; showed potential with some gaps. Noted experience in Flask.,0.689
+F3583,I2583,Strong analytical skills and clear communication. Noted experience in Flask.,0.92
+F3584,I2584,Very good culture fit and leadership potential. Noted experience in Cloud (Azure/AWS).,0.872
+F3585,I2585,Very good culture fit and leadership potential. Noted experience in Computer Vision.,0.774
+F3586,I2586,Communication was weak; needs improvement. Noted experience in Linux.,0.228
+F3587,I2587,Communication was weak; needs improvement. Noted experience in Recruitment.,0.316
+F3588,I2588,Mixed answers; structure could improve. Noted experience in Deep Learning.,0.68
+F3589,I2589,Good skills but needs more industry experience. Noted experience in Pandas.,0.515
+F3590,I2590,Strong analytical skills and clear communication. Noted experience in Power BI.,0.787
+F3591,I2591,Struggled with problem solving and coding tasks. Noted experience in Linux.,0.387
+F3592,I2592,Very good culture fit and leadership potential. Noted experience in Stakeholder Management.,0.836
+F3593,I2593,Communication was weak; needs improvement. Noted experience in Recruitment.,0.207
+F3594,I2594,Average performance; showed potential with some gaps. Noted experience in Machine Learning.,0.655
+F3595,I2595,Mixed answers; structure could improve. Noted experience in Cloud (Azure/AWS).,0.538
+F3596,I2596,Excellent technical skills; solved problems well. Noted experience in Machine Learning.,0.793
+F3597,I2597,Not a strong fit for the role currently. Noted experience in Recruitment.,0.376
+F3598,I2598,"Confident presenter, handled questions well. Noted experience in Power BI.",0.768
+F3599,I2599,Excellent technical skills; solved problems well. Noted experience in NLP.,0.757
+F3600,I2600,Not a strong fit for the role currently. Noted experience in JavaScript.,0.25
+F3601,I2601,"Confident presenter, handled questions well. Noted experience in React.",0.917
+F3602,I2602,Average performance; showed potential with some gaps. Noted experience in Stakeholder Management.,0.592
+F3603,I2603,Average performance; showed potential with some gaps. Noted experience in Cloud (Azure/AWS).,0.451
+F3604,I2604,Not a strong fit for the role currently. Noted experience in NLP.,0.401
+F3605,I2605,Excellent technical skills; solved problems well. Noted experience in Data Visualization.,0.98
+F3606,I2606,Not a strong fit for the role currently. Noted experience in Cloud (Azure/AWS).,0.377
+F3607,I2607,Good skills but needs more industry experience. Noted experience in Linux.,0.632
+F3608,I2608,Average performance; showed potential with some gaps. Noted experience in APIs.,0.611
+F3609,I2609,Strong analytical skills and clear communication. Noted experience in Django.,0.769
+F3610,I2610,Good skills but needs more industry experience. Noted experience in Kubernetes.,0.527
+F3611,I2611,Good skills but needs more industry experience. Noted experience in Data Visualization.,0.532
+F3612,I2612,"Confident presenter, handled questions well. Noted experience in Django.",0.902
+F3613,I2613,"Confident presenter, handled questions well. Noted experience in Django.",0.98
+F3614,I2614,Mixed answers; structure could improve. Noted experience in Data Visualization.,0.73
+F3615,I2615,Average performance; showed potential with some gaps. Noted experience in Flask.,0.463
+F3616,I2616,Excellent technical skills; solved problems well. Noted experience in Pandas.,0.795
+F3617,I2617,Mixed answers; structure could improve. Noted experience in Data Visualization.,0.716
+F3618,I2618,Communication was weak; needs improvement. Noted experience in Flask.,0.348
+F3619,I2619,Excellent technical skills; solved problems well. Noted experience in Flask.,0.813
+F3620,I2620,Mixed answers; structure could improve. Noted experience in Git.,0.58
+F3621,I2621,"Confident presenter, handled questions well. Noted experience in Git.",0.98
+F3622,I2622,Mixed answers; structure could improve. Noted experience in Leadership.,0.508
+F3623,I2623,Good skills but needs more industry experience. Noted experience in Leadership.,0.61
+F3624,I2624,Good skills but needs more industry experience. Noted experience in Stakeholder Management.,0.563
+F3625,I2625,Struggled with problem solving and coding tasks. Noted experience in Stakeholder Management.,0.415
+F3626,I2626,Good skills but needs more industry experience. Noted experience in Data Visualization.,0.629
+F3627,I2627,Communication was weak; needs improvement. Noted experience in Excel.,0.345
+F3628,I2628,Mixed answers; structure could improve. Noted experience in Communication.,0.53
+F3629,I2629,Average performance; showed potential with some gaps. Noted experience in Python.,0.7
+F3630,I2630,Good skills but needs more industry experience. Noted experience in Leadership.,0.454
+F3631,I2631,Good skills but needs more industry experience. Noted experience in HR Policies.,0.715
+F3632,I2632,Very good culture fit and leadership potential. Noted experience in Excel.,0.845
+F3633,I2633,Strong analytical skills and clear communication. Noted experience in DAX.,0.98
+F3634,I2634,Average performance; showed potential with some gaps. Noted experience in Leadership.,0.704
+F3635,I2635,Average performance; showed potential with some gaps. Noted experience in Power BI.,0.467
+F3636,I2636,Good skills but needs more industry experience. Noted experience in Tableau.,0.529
+F3637,I2637,Excellent technical skills; solved problems well. Noted experience in Leadership.,0.796
+F3638,I2638,Good skills but needs more industry experience. Noted experience in HR Policies.,0.527
+F3639,I2639,"Confident presenter, handled questions well. Noted experience in APIs.",0.98
+F3640,I2640,Average performance; showed potential with some gaps. Noted experience in Linux.,0.628
+F3641,I2641,"Confident presenter, handled questions well. Noted experience in Computer Vision.",0.801
+F3642,I2642,Good skills but needs more industry experience. Noted experience in APIs.,0.636
+F3643,I2643,Mixed answers; structure could improve. Noted experience in Computer Vision.,0.522
+F3644,I2644,Average performance; showed potential with some gaps. Noted experience in NLP.,0.539
+F3645,I2645,Average performance; showed potential with some gaps. Noted experience in Computer Vision.,0.457
+F3646,I2646,Good skills but needs more industry experience. Noted experience in DAX.,0.576
+F3647,I2647,Good skills but needs more industry experience. Noted experience in SQL.,0.579
+F3648,I2648,Excellent technical skills; solved problems well. Noted experience in React.,0.867
+F3649,I2649,Struggled with problem solving and coding tasks. Noted experience in DAX.,0.292
+F3650,I2650,Very good culture fit and leadership potential. Noted experience in DAX.,0.829
+F3651,I2651,Good skills but needs more industry experience. Noted experience in Excel.,0.578
+F3652,I2652,Good skills but needs more industry experience. Noted experience in Leadership.,0.583
+F3653,I2653,Good skills but needs more industry experience. Noted experience in Docker.,0.68
+F3654,I2654,Struggled with problem solving and coding tasks. Noted experience in Docker.,0.246
+F3655,I2655,Mixed answers; structure could improve. Noted experience in Excel.,0.543
+F3656,I2656,Excellent technical skills; solved problems well. Noted experience in Leadership.,0.884
+F3657,I2657,Mixed answers; structure could improve. Noted experience in Communication.,0.558
+F3658,I2658,Very good culture fit and leadership potential. Noted experience in Kubernetes.,0.98
+F3659,I2659,Good skills but needs more industry experience. Noted experience in Communication.,0.564
+F3660,I2660,Good skills but needs more industry experience. Noted experience in JavaScript.,0.719
+F3661,I2661,Mixed answers; structure could improve. Noted experience in Linux.,0.735
+F3662,I2662,Mixed answers; structure could improve. Noted experience in React.,0.491
+F3663,I2663,Good skills but needs more industry experience. Noted experience in Python.,0.7
+F3664,I2664,Good skills but needs more industry experience. Noted experience in Interviewing.,0.563
+F3665,I2665,Very good culture fit and leadership potential. Noted experience in Recruitment.,0.835
+F3666,I2666,Average performance; showed potential with some gaps. Noted experience in Python.,0.515
+F3667,I2667,Strong analytical skills and clear communication. Noted experience in Cloud (Azure/AWS).,0.784
+F3668,I2668,Mixed answers; structure could improve. Noted experience in Python.,0.695
+F3669,I2669,Strong analytical skills and clear communication. Noted experience in Git.,0.789
+F3670,I2670,Strong analytical skills and clear communication. Noted experience in HR Policies.,0.774
+F3671,I2671,Struggled with problem solving and coding tasks. Noted experience in SQL.,0.433
+F3672,I2672,Struggled with problem solving and coding tasks. Noted experience in Flask.,0.375
+F3673,I2673,Strong analytical skills and clear communication. Noted experience in HR Policies.,0.851
+F3674,I2674,Good skills but needs more industry experience. Noted experience in HR Policies.,0.632
+F3675,I2675,Good skills but needs more industry experience. Noted experience in Docker.,0.588
+F3676,I2676,Mixed answers; structure could improve. Noted experience in Excel.,0.506
+F3677,I2677,Strong analytical skills and clear communication. Noted experience in Docker.,0.773
+F3678,I2678,Mixed answers; structure could improve. Noted experience in APIs.,0.715
+F3679,I2679,Good skills but needs more industry experience. Noted experience in Cloud (Azure/AWS).,0.645
+F3680,I2680,Average performance; showed potential with some gaps. Noted experience in Deep Learning.,0.578
+F3681,I2681,Average performance; showed potential with some gaps. Noted experience in Cloud (Azure/AWS).,0.518
+F3682,I2682,Excellent technical skills; solved problems well. Noted experience in Deep Learning.,0.884
+F3683,I2683,Average performance; showed potential with some gaps. Noted experience in Pandas.,0.478
+F3684,I2684,Average performance; showed potential with some gaps. Noted experience in HR Policies.,0.63
+F3685,I2685,Good skills but needs more industry experience. Noted experience in SQL.,0.673
+F3686,I2686,Excellent technical skills; solved problems well. Noted experience in Statistics.,0.967
+F3687,I2687,Good skills but needs more industry experience. Noted experience in Statistics.,0.528
+F3688,I2688,Excellent technical skills; solved problems well. Noted experience in Computer Vision.,0.98
+F3689,I2689,Good skills but needs more industry experience. Noted experience in Python.,0.462
+F3690,I2690,Communication was weak; needs improvement. Noted experience in Stakeholder Management.,0.406
+F3691,I2691,Excellent technical skills; solved problems well. Noted experience in Linux.,0.81
+F3692,I2692,Very good culture fit and leadership potential. Noted experience in Stakeholder Management.,0.757
+F3693,I2693,Very good culture fit and leadership potential. Noted experience in Flask.,0.862
+F3694,I2694,Struggled with problem solving and coding tasks. Noted experience in Leadership.,0.417
+F3695,I2695,Very good culture fit and leadership potential. Noted experience in DAX.,0.793
+F3696,I2696,Average performance; showed potential with some gaps. Noted experience in NLP.,0.731
+F3697,I2697,Very good culture fit and leadership potential. Noted experience in DAX.,0.875
+F3698,I2698,Struggled with problem solving and coding tasks. Noted experience in React.,0.414
+F3699,I2699,Good skills but needs more industry experience. Noted experience in Django.,0.709
+F3700,I2700,Average performance; showed potential with some gaps. Noted experience in Django.,0.609
+F3701,I2701,Good skills but needs more industry experience. Noted experience in HR Policies.,0.511
+F3702,I2702,Strong analytical skills and clear communication. Noted experience in Tableau.,0.763
+F3703,I2703,Mixed answers; structure could improve. Noted experience in Docker.,0.65
+F3704,I2704,Struggled with problem solving and coding tasks. Noted experience in Computer Vision.,0.183
+F3705,I2705,Average performance; showed potential with some gaps. Noted experience in Docker.,0.582
+F3706,I2706,"Confident presenter, handled questions well. Noted experience in Tableau.",0.757
+F3707,I2707,Average performance; showed potential with some gaps. Noted experience in Docker.,0.619
+F3708,I2708,Mixed answers; structure could improve. Noted experience in Tableau.,0.55
+F3709,I2709,Excellent technical skills; solved problems well. Noted experience in Docker.,0.935
+F3710,I2710,Average performance; showed potential with some gaps. Noted experience in Computer Vision.,0.488
+F3711,I2711,Struggled with problem solving and coding tasks. Noted experience in Pandas.,0.433
+F3712,I2712,Good skills but needs more industry experience. Noted experience in Machine Learning.,0.724
+F3713,I2713,Not a strong fit for the role currently. Noted experience in Django.,0.365
+F3714,I2714,Good skills but needs more industry experience. Noted experience in Numpy.,0.485
+F3715,I2715,Good skills but needs more industry experience. Noted experience in Numpy.,0.569
+F3716,I2716,Average performance; showed potential with some gaps. Noted experience in Numpy.,0.728
+F3717,I2717,Mixed answers; structure could improve. Noted experience in Cloud (Azure/AWS).,0.597
+F3718,I2718,Strong analytical skills and clear communication. Noted experience in Deep Learning.,0.894
+F3719,I2719,Good skills but needs more industry experience. Noted experience in APIs.,0.524
+F3720,I2720,"Confident presenter, handled questions well. Noted experience in Docker.",0.759
+F3721,I2721,Strong analytical skills and clear communication. Noted experience in Git.,0.935
+F3722,I2722,Average performance; showed potential with some gaps. Noted experience in Kubernetes.,0.515
+F3723,I2723,Good skills but needs more industry experience. Noted experience in Kubernetes.,0.521
+F3724,I2724,Good skills but needs more industry experience. Noted experience in Kubernetes.,0.496
+F3725,I2725,Average performance; showed potential with some gaps. Noted experience in Communication.,0.625
+F3726,I2726,Excellent technical skills; solved problems well. Noted experience in JavaScript.,0.825
+F3727,I2727,Very good culture fit and leadership potential. Noted experience in JavaScript.,0.807
+F3728,I2728,Very good culture fit and leadership potential. Noted experience in HR Policies.,0.828
+F3729,I2729,Mixed answers; structure could improve. Noted experience in Python.,0.565
+F3730,I2730,Mixed answers; structure could improve. Noted experience in Python.,0.544
+F3731,I2731,Good skills but needs more industry experience. Noted experience in Pandas.,0.461
+F3732,I2732,Communication was weak; needs improvement. Noted experience in Machine Learning.,0.406
+F3733,I2733,Strong analytical skills and clear communication. Noted experience in Docker.,0.8
+F3734,I2734,Strong analytical skills and clear communication. Noted experience in Django.,0.98
+F3735,I2735,"Confident presenter, handled questions well. Noted experience in Docker.",0.754
+F3736,I2736,Very good culture fit and leadership potential. Noted experience in HR Policies.,0.849
+F3737,I2737,Excellent technical skills; solved problems well. Noted experience in Machine Learning.,0.938
+F3738,I2738,Mixed answers; structure could improve. Noted experience in Communication.,0.465
+F3739,I2739,Communication was weak; needs improvement. Noted experience in Django.,0.268
+F3740,I2740,Mixed answers; structure could improve. Noted experience in Data Visualization.,0.522
+F3741,I2741,Average performance; showed potential with some gaps. Noted experience in Data Visualization.,0.683
+F3742,I2742,Average performance; showed potential with some gaps. Noted experience in Linux.,0.714
+F3743,I2743,Mixed answers; structure could improve. Noted experience in Leadership.,0.71
+F3744,I2744,Not a strong fit for the role currently. Noted experience in Interviewing.,0.372
+F3745,I2745,Good skills but needs more industry experience. Noted experience in NLP.,0.484
+F3746,I2746,Good skills but needs more industry experience. Noted experience in Numpy.,0.496
+F3747,I2747,Struggled with problem solving and coding tasks. Noted experience in Numpy.,0.322
+F3748,I2748,Communication was weak; needs improvement. Noted experience in Python.,0.427
+F3749,I2749,Excellent technical skills; solved problems well. Noted experience in Django.,0.977
+F3750,I2750,Good skills but needs more industry experience. Noted experience in Django.,0.611
+F3751,I2751,Very good culture fit and leadership potential. Noted experience in Statistics.,0.98
+F3752,I2752,"Confident presenter, handled questions well. Noted experience in HR Policies.",0.778
+F3753,I2753,Excellent technical skills; solved problems well. Noted experience in Statistics.,0.899
+F3754,I2754,Good skills but needs more industry experience. Noted experience in Excel.,0.742
+F3755,I2755,Communication was weak; needs improvement. Noted experience in Excel.,0.115
+F3756,I2756,Average performance; showed potential with some gaps. Noted experience in Statistics.,0.629
+F3757,I2757,Average performance; showed potential with some gaps. Noted experience in Excel.,0.651
+F3758,I2758,Excellent technical skills; solved problems well. Noted experience in Docker.,0.82
+F3759,I2759,Mixed answers; structure could improve. Noted experience in Excel.,0.625
+F3760,I2760,Mixed answers; structure could improve. Noted experience in Linux.,0.549
+F3761,I2761,Mixed answers; structure could improve. Noted experience in JavaScript.,0.687
+F3762,I2762,Average performance; showed potential with some gaps. Noted experience in Kubernetes.,0.663
+F3763,I2763,Very good culture fit and leadership potential. Noted experience in Excel.,0.756
+F3764,I2764,"Confident presenter, handled questions well. Noted experience in Excel.",0.775
+F3765,I2765,Excellent technical skills; solved problems well. Noted experience in Docker.,0.773
+F3766,I2766,Struggled with problem solving and coding tasks. Noted experience in React.,0.348
+F3767,I2767,Good skills but needs more industry experience. Noted experience in Leadership.,0.585
+F3768,I2768,Strong analytical skills and clear communication. Noted experience in Flask.,0.864
+F3769,I2769,Mixed answers; structure could improve. Noted experience in Recruitment.,0.717
+F3770,I2770,Good skills but needs more industry experience. Noted experience in SQL.,0.468
+F3771,I2771,Not a strong fit for the role currently. Noted experience in HR Policies.,0.425
+F3772,I2772,Mixed answers; structure could improve. Noted experience in Interviewing.,0.535
+F3773,I2773,Communication was weak; needs improvement. Noted experience in Python.,0.367
+F3774,I2774,Mixed answers; structure could improve. Noted experience in APIs.,0.727
+F3775,I2775,Mixed answers; structure could improve. Noted experience in Machine Learning.,0.608
+F3776,I2776,Excellent technical skills; solved problems well. Noted experience in Pandas.,0.836
+F3777,I2777,Very good culture fit and leadership potential. Noted experience in React.,0.955
+F3778,I2778,Very good culture fit and leadership potential. Noted experience in Pandas.,0.777
+F3779,I2779,Very good culture fit and leadership potential. Noted experience in DAX.,0.851
+F3780,I2780,Excellent technical skills; solved problems well. Noted experience in Pandas.,0.82
+F3781,I2781,Mixed answers; structure could improve. Noted experience in Pandas.,0.473
+F3782,I2782,Very good culture fit and leadership potential. Noted experience in Machine Learning.,0.79
+F3783,I2783,Excellent technical skills; solved problems well. Noted experience in Leadership.,0.931
+F3784,I2784,Mixed answers; structure could improve. Noted experience in Machine Learning.,0.74
+F3785,I2785,Very good culture fit and leadership potential. Noted experience in Leadership.,0.974
+F3786,I2786,Mixed answers; structure could improve. Noted experience in Power BI.,0.599
+F3787,I2787,Excellent technical skills; solved problems well. Noted experience in HR Policies.,0.799
+F3788,I2788,Mixed answers; structure could improve. Noted experience in Computer Vision.,0.587
+F3789,I2789,Good skills but needs more industry experience. Noted experience in APIs.,0.478
+F3790,I2790,Good skills but needs more industry experience. Noted experience in SQL.,0.636
+F3791,I2791,Not a strong fit for the role currently. Noted experience in Statistics.,0.345
+F3792,I2792,Average performance; showed potential with some gaps. Noted experience in Kubernetes.,0.599
+F3793,I2793,Average performance; showed potential with some gaps. Noted experience in Leadership.,0.467
+F3794,I2794,Average performance; showed potential with some gaps. Noted experience in Statistics.,0.489
+F3795,I2795,Average performance; showed potential with some gaps. Noted experience in Deep Learning.,0.619
+F3796,I2796,Good skills but needs more industry experience. Noted experience in Pandas.,0.695
+F3797,I2797,Average performance; showed potential with some gaps. Noted experience in Leadership.,0.683
+F3798,I2798,Good skills but needs more industry experience. Noted experience in Git.,0.742
+F3799,I2799,Average performance; showed potential with some gaps. Noted experience in Statistics.,0.676
+F3800,I2800,Mixed answers; structure could improve. Noted experience in React.,0.524
+F3801,I2801,Struggled with problem solving and coding tasks. Noted experience in Statistics.,0.35
+F3802,I2802,Strong analytical skills and clear communication. Noted experience in Pandas.,0.846
+F3803,I2803,Communication was weak; needs improvement. Noted experience in React.,0.426
+F3804,I2804,Not a strong fit for the role currently. Noted experience in React.,0.407
+F3805,I2805,Strong analytical skills and clear communication. Noted experience in Power BI.,0.787
+F3806,I2806,Excellent technical skills; solved problems well. Noted experience in Power BI.,0.788
+F3807,I2807,Average performance; showed potential with some gaps. Noted experience in Kubernetes.,0.683
+F3808,I2808,Good skills but needs more industry experience. Noted experience in Django.,0.531
+F3809,I2809,Excellent technical skills; solved problems well. Noted experience in Computer Vision.,0.78
+F3810,I2810,Mixed answers; structure could improve. Noted experience in React.,0.576
+F3811,I2811,Mixed answers; structure could improve. Noted experience in Communication.,0.687
+F3812,I2812,Excellent technical skills; solved problems well. Noted experience in Computer Vision.,0.98
+F3813,I2813,Average performance; showed potential with some gaps. Noted experience in Pandas.,0.505
+F3814,I2814,Communication was weak; needs improvement. Noted experience in APIs.,0.424
+F3815,I2815,Good skills but needs more industry experience. Noted experience in Numpy.,0.574
+F3816,I2816,Struggled with problem solving and coding tasks. Noted experience in Django.,0.266
+F3817,I2817,Mixed answers; structure could improve. Noted experience in Leadership.,0.527
+F3818,I2818,Strong analytical skills and clear communication. Noted experience in Leadership.,0.941
+F3819,I2819,Struggled with problem solving and coding tasks. Noted experience in Django.,0.337
+F3820,I2820,Good skills but needs more industry experience. Noted experience in Numpy.,0.711
+F3821,I2821,Strong analytical skills and clear communication. Noted experience in Interviewing.,0.824
+F3822,I2822,Very good culture fit and leadership potential. Noted experience in Recruitment.,0.898
+F3823,I2823,Mixed answers; structure could improve. Noted experience in Tableau.,0.587
+F3824,I2824,Very good culture fit and leadership potential. Noted experience in Kubernetes.,0.82
+F3825,I2825,Mixed answers; structure could improve. Noted experience in NLP.,0.454
+F3826,I2826,Good skills but needs more industry experience. Noted experience in Excel.,0.671
+F3827,I2827,Struggled with problem solving and coding tasks. Noted experience in SQL.,0.331
+F3828,I2828,Very good culture fit and leadership potential. Noted experience in Computer Vision.,0.765
+F3829,I2829,Average performance; showed potential with some gaps. Noted experience in JavaScript.,0.502
+F3830,I2830,Mixed answers; structure could improve. Noted experience in Interviewing.,0.605
+F3831,I2831,Good skills but needs more industry experience. Noted experience in SQL.,0.712
+F3832,I2832,Average performance; showed potential with some gaps. Noted experience in Cloud (Azure/AWS).,0.733
+F3833,I2833,Average performance; showed potential with some gaps. Noted experience in Leadership.,0.577
+F3834,I2834,Good skills but needs more industry experience. Noted experience in Stakeholder Management.,0.618
+F3835,I2835,Not a strong fit for the role currently. Noted experience in Docker.,0.387
+F3836,I2836,Very good culture fit and leadership potential. Noted experience in Excel.,0.911
+F3837,I2837,Excellent technical skills; solved problems well. Noted experience in Excel.,0.809
+F3838,I2838,"Confident presenter, handled questions well. Noted experience in Interviewing.",0.815
+F3839,I2839,Mixed answers; structure could improve. Noted experience in Numpy.,0.65
+F3840,I2840,Average performance; showed potential with some gaps. Noted experience in Git.,0.516
+F3841,I2841,Good skills but needs more industry experience. Noted experience in Data Visualization.,0.571
+F3842,I2842,Average performance; showed potential with some gaps. Noted experience in Machine Learning.,0.493
+F3843,I2843,Struggled with problem solving and coding tasks. Noted experience in Django.,0.383
+F3844,I2844,Strong analytical skills and clear communication. Noted experience in Statistics.,0.931
+F3845,I2845,Mixed answers; structure could improve. Noted experience in Statistics.,0.65
+F3846,I2846,Average performance; showed potential with some gaps. Noted experience in Tableau.,0.511
+F3847,I2847,Very good culture fit and leadership potential. Noted experience in Kubernetes.,0.98
+F3848,I2848,"Confident presenter, handled questions well. Noted experience in Machine Learning.",0.842
+F3849,I2849,Mixed answers; structure could improve. Noted experience in DAX.,0.474
+F3850,I2850,Mixed answers; structure could improve. Noted experience in Docker.,0.678
+F3851,I2851,Good skills but needs more industry experience. Noted experience in Git.,0.627
+F3852,I2852,Good skills but needs more industry experience. Noted experience in Kubernetes.,0.741
+F3853,I2853,Good skills but needs more industry experience. Noted experience in Kubernetes.,0.64
+F3854,I2854,"Confident presenter, handled questions well. Noted experience in APIs.",0.821
+F3855,I2855,Mixed answers; structure could improve. Noted experience in Recruitment.,0.677
+F3856,I2856,Mixed answers; structure could improve. Noted experience in Django.,0.663
+F3857,I2857,Struggled with problem solving and coding tasks. Noted experience in Tableau.,0.377
+F3858,I2858,Very good culture fit and leadership potential. Noted experience in Interviewing.,0.96
+F3859,I2859,Struggled with problem solving and coding tasks. Noted experience in Communication.,0.309
+F3860,I2860,Excellent technical skills; solved problems well. Noted experience in Interviewing.,0.98
+F3861,I2861,Average performance; showed potential with some gaps. Noted experience in DAX.,0.617
+F3862,I2862,Mixed answers; structure could improve. Noted experience in Python.,0.55
+F3863,I2863,Average performance; showed potential with some gaps. Noted experience in DAX.,0.614
+F3864,I2864,"Confident presenter, handled questions well. Noted experience in Docker.",0.767
+F3865,I2865,Good skills but needs more industry experience. Noted experience in Statistics.,0.726
+F3866,I2866,Communication was weak; needs improvement. Noted experience in HR Policies.,0.339
+F3867,I2867,Average performance; showed potential with some gaps. Noted experience in Power BI.,0.622
+F3868,I2868,Mixed answers; structure could improve. Noted experience in Power BI.,0.5
+F3869,I2869,Mixed answers; structure could improve. Noted experience in Statistics.,0.715
+F3870,I2870,Average performance; showed potential with some gaps. Noted experience in Docker.,0.506
+F3871,I2871,Good skills but needs more industry experience. Noted experience in Tableau.,0.7
+F3872,I2872,Good skills but needs more industry experience. Noted experience in Linux.,0.548
+F3873,I2873,Average performance; showed potential with some gaps. Noted experience in APIs.,0.633
+F3874,I2874,Good skills but needs more industry experience. Noted experience in Communication.,0.595
+F3875,I2875,Good skills but needs more industry experience. Noted experience in Django.,0.618
+F3876,I2876,Excellent technical skills; solved problems well. Noted experience in SQL.,0.831
+F3877,I2877,Average performance; showed potential with some gaps. Noted experience in SQL.,0.744
+F3878,I2878,Very good culture fit and leadership potential. Noted experience in Django.,0.816
+F3879,I2879,Struggled with problem solving and coding tasks. Noted experience in Django.,0.371
+F3880,I2880,Not a strong fit for the role currently. Noted experience in Recruitment.,0.308
+F3881,I2881,Struggled with problem solving and coding tasks. Noted experience in NLP.,0.289
+F3882,I2882,Very good culture fit and leadership potential. Noted experience in NLP.,0.783
+F3883,I2883,Average performance; showed potential with some gaps. Noted experience in React.,0.58
+F3884,I2884,Good skills but needs more industry experience. Noted experience in Git.,0.455
+F3885,I2885,Not a strong fit for the role currently. Noted experience in Flask.,0.377
+F3886,I2886,Not a strong fit for the role currently. Noted experience in Git.,0.404
+F3887,I2887,Mixed answers; structure could improve. Noted experience in Docker.,0.599
+F3888,I2888,Communication was weak; needs improvement. Noted experience in Linux.,0.387
+F3889,I2889,Good skills but needs more industry experience. Noted experience in Power BI.,0.614
+F3890,I2890,Mixed answers; structure could improve. Noted experience in Communication.,0.593
+F3891,I2891,Mixed answers; structure could improve. Noted experience in Pandas.,0.7
+F3892,I2892,Average performance; showed potential with some gaps. Noted experience in Excel.,0.711
+F3893,I2893,Average performance; showed potential with some gaps. Noted experience in Excel.,0.627
+F3894,I2894,Mixed answers; structure could improve. Noted experience in Statistics.,0.559
+F3895,I2895,Strong analytical skills and clear communication. Noted experience in Excel.,0.823
+F3896,I2896,Strong analytical skills and clear communication. Noted experience in Data Visualization.,0.788
+F3897,I2897,Good skills but needs more industry experience. Noted experience in Excel.,0.733
+F3898,I2898,Mixed answers; structure could improve. Noted experience in Interviewing.,0.649
+F3899,I2899,Mixed answers; structure could improve. Noted experience in Machine Learning.,0.65
+F3900,I2900,Good skills but needs more industry experience. Noted experience in React.,0.616
+F3901,I2901,Average performance; showed potential with some gaps. Noted experience in DAX.,0.508
+F3902,I2902,Struggled with problem solving and coding tasks. Noted experience in Statistics.,0.343
+F3903,I2903,Average performance; showed potential with some gaps. Noted experience in HR Policies.,0.736
+F3904,I2904,Average performance; showed potential with some gaps. Noted experience in Tableau.,0.608
+F3905,I2905,Mixed answers; structure could improve. Noted experience in Tableau.,0.608
+F3906,I2906,Mixed answers; structure could improve. Noted experience in Recruitment.,0.709
+F3907,I2907,Average performance; showed potential with some gaps. Noted experience in HR Policies.,0.722
+F3908,I2908,"Confident presenter, handled questions well. Noted experience in Statistics.",0.98
+F3909,I2909,Excellent technical skills; solved problems well. Noted experience in Statistics.,0.875
+F3910,I2910,Good skills but needs more industry experience. Noted experience in Recruitment.,0.728
+F3911,I2911,Average performance; showed potential with some gaps. Noted experience in Statistics.,0.657
+F3912,I2912,Mixed answers; structure could improve. Noted experience in Linux.,0.68
+F3913,I2913,Average performance; showed potential with some gaps. Noted experience in Recruitment.,0.586
+F3914,I2914,Very good culture fit and leadership potential. Noted experience in Data Visualization.,0.944
+F3915,I2915,Good skills but needs more industry experience. Noted experience in Statistics.,0.718
+F3916,I2916,Strong analytical skills and clear communication. Noted experience in Pandas.,0.8
+F3917,I2917,Communication was weak; needs improvement. Noted experience in Numpy.,0.207
+F3918,I2918,Mixed answers; structure could improve. Noted experience in Interviewing.,0.584
+F3919,I2919,Excellent technical skills; solved problems well. Noted experience in Stakeholder Management.,0.752
+F3920,I2920,Not a strong fit for the role currently. Noted experience in Statistics.,0.387
+F3921,I2921,Strong analytical skills and clear communication. Noted experience in Power BI.,0.939
+F3922,I2922,Struggled with problem solving and coding tasks. Noted experience in Recruitment.,0.35
+F3923,I2923,Mixed answers; structure could improve. Noted experience in Numpy.,0.579
+F3924,I2924,Average performance; showed potential with some gaps. Noted experience in Interviewing.,0.59
+F3925,I2925,Excellent technical skills; solved problems well. Noted experience in React.,0.811
+F3926,I2926,Good skills but needs more industry experience. Noted experience in React.,0.541
+F3927,I2927,Average performance; showed potential with some gaps. Noted experience in Excel.,0.747
+F3928,I2928,Good skills but needs more industry experience. Noted experience in Recruitment.,0.505
+F3929,I2929,Mixed answers; structure could improve. Noted experience in Cloud (Azure/AWS).,0.557
+F3930,I2930,Good skills but needs more industry experience. Noted experience in Machine Learning.,0.574
+F3931,I2931,Average performance; showed potential with some gaps. Noted experience in Data Visualization.,0.709
+F3932,I2932,Good skills but needs more industry experience. Noted experience in Cloud (Azure/AWS).,0.686
+F3933,I2933,Average performance; showed potential with some gaps. Noted experience in JavaScript.,0.631
+F3934,I2934,Struggled with problem solving and coding tasks. Noted experience in Machine Learning.,0.137
+F3935,I2935,"Confident presenter, handled questions well. Noted experience in NLP.",0.758
+F3936,I2936,Average performance; showed potential with some gaps. Noted experience in NLP.,0.682
+F3937,I2937,Average performance; showed potential with some gaps. Noted experience in Flask.,0.584
+F3938,I2938,Mixed answers; structure could improve. Noted experience in Flask.,0.691
+F3939,I2939,Good skills but needs more industry experience. Noted experience in Docker.,0.517
+F3940,I2940,Excellent technical skills; solved problems well. Noted experience in Cloud (Azure/AWS).,0.857
+F3941,I2941,Mixed answers; structure could improve. Noted experience in Cloud (Azure/AWS).,0.58
+F3942,I2942,Average performance; showed potential with some gaps. Noted experience in Leadership.,0.684
+F3943,I2943,Good skills but needs more industry experience. Noted experience in Git.,0.738
+F3944,I2944,Mixed answers; structure could improve. Noted experience in Git.,0.624
+F3945,I2945,Good skills but needs more industry experience. Noted experience in Cloud (Azure/AWS).,0.691
+F3946,I2946,Very good culture fit and leadership potential. Noted experience in Docker.,0.792
+F3947,I2947,Struggled with problem solving and coding tasks. Noted experience in Deep Learning.,0.362
+F3948,I2948,Good skills but needs more industry experience. Noted experience in Data Visualization.,0.569
+F3949,I2949,Excellent technical skills; solved problems well. Noted experience in Tableau.,0.98
+F3950,I2950,Mixed answers; structure could improve. Noted experience in Data Visualization.,0.655
+F3951,I2951,Mixed answers; structure could improve. Noted experience in Recruitment.,0.668
+F3952,I2952,Average performance; showed potential with some gaps. Noted experience in Interviewing.,0.74
+F3953,I2953,Not a strong fit for the role currently. Noted experience in Excel.,0.431
+F3954,I2954,Strong analytical skills and clear communication. Noted experience in Interviewing.,0.834
+F3955,I2955,Good skills but needs more industry experience. Noted experience in Recruitment.,0.554
+F3956,I2956,Very good culture fit and leadership potential. Noted experience in Excel.,0.756
+F3957,I2957,Average performance; showed potential with some gaps. Noted experience in HR Policies.,0.73
+F3958,I2958,Average performance; showed potential with some gaps. Noted experience in HR Policies.,0.599
+F3959,I2959,Average performance; showed potential with some gaps. Noted experience in Kubernetes.,0.515
+F3960,I2960,"Confident presenter, handled questions well. Noted experience in Machine Learning.",0.851
+F3961,I2961,Average performance; showed potential with some gaps. Noted experience in DAX.,0.662
+F3962,I2962,Average performance; showed potential with some gaps. Noted experience in DAX.,0.518
+F3963,I2963,Not a strong fit for the role currently. Noted experience in Django.,0.441
+F3964,I2964,Mixed answers; structure could improve. Noted experience in Data Visualization.,0.646
+F3965,I2965,Very good culture fit and leadership potential. Noted experience in Cloud (Azure/AWS).,0.98
+F3966,I2966,Communication was weak; needs improvement. Noted experience in SQL.,0.294
+F3967,I2967,Strong analytical skills and clear communication. Noted experience in React.,0.98
+F3968,I2968,Excellent technical skills; solved problems well. Noted experience in APIs.,0.824
+F3969,I2969,Mixed answers; structure could improve. Noted experience in Machine Learning.,0.581
+F3970,I2970,"Confident presenter, handled questions well. Noted experience in Machine Learning.",0.784
+F3971,I2971,Average performance; showed potential with some gaps. Noted experience in Pandas.,0.683
+F3972,I2972,Good skills but needs more industry experience. Noted experience in Linux.,0.474
+F3973,I2973,"Confident presenter, handled questions well. Noted experience in APIs.",0.818
+F3974,I2974,Very good culture fit and leadership potential. Noted experience in Linux.,0.865
+F3975,I2975,Strong analytical skills and clear communication. Noted experience in Linux.,0.778
+F3976,I2976,Struggled with problem solving and coding tasks. Noted experience in Kubernetes.,0.26
+F3977,I2977,Mixed answers; structure could improve. Noted experience in Kubernetes.,0.655
+F3978,I2978,Average performance; showed potential with some gaps. Noted experience in HR Policies.,0.695
+F3979,I2979,Good skills but needs more industry experience. Noted experience in Stakeholder Management.,0.65
+F3980,I2980,Communication was weak; needs improvement. Noted experience in SQL.,0.298
+F3981,I2981,Average performance; showed potential with some gaps. Noted experience in Git.,0.629
+F3982,I2982,Not a strong fit for the role currently. Noted experience in Leadership.,0.402
+F3983,I2983,Average performance; showed potential with some gaps. Noted experience in React.,0.661
+F3984,I2984,Good skills but needs more industry experience. Noted experience in React.,0.579
+F3985,I2985,"Confident presenter, handled questions well. Noted experience in NLP.",0.896
+F3986,I2986,Communication was weak; needs improvement. Noted experience in SQL.,0.356
+F3987,I2987,Average performance; showed potential with some gaps. Noted experience in Statistics.,0.528
+F3988,I2988,Mixed answers; structure could improve. Noted experience in Flask.,0.557
+F3989,I2989,Mixed answers; structure could improve. Noted experience in Data Visualization.,0.494
+F3990,I2990,Strong analytical skills and clear communication. Noted experience in Computer Vision.,0.98
+F3991,I2991,Very good culture fit and leadership potential. Noted experience in APIs.,0.853
+F3992,I2992,Good skills but needs more industry experience. Noted experience in Flask.,0.463
+F3993,I2993,Strong analytical skills and clear communication. Noted experience in Flask.,0.832
+F3994,I2994,Average performance; showed potential with some gaps. Noted experience in Excel.,0.662
+F3995,I2995,Average performance; showed potential with some gaps. Noted experience in Recruitment.,0.723
+F3996,I2996,Strong analytical skills and clear communication. Noted experience in Cloud (Azure/AWS).,0.762
+F3997,I2997,Very good culture fit and leadership potential. Noted experience in Excel.,0.791
+F3998,I2998,Strong analytical skills and clear communication. Noted experience in Data Visualization.,0.96
+F3999,I2999,Mixed answers; structure could improve. Noted experience in Data Visualization.,0.694
+F4000,I3000,Excellent technical skills; solved problems well. Noted experience in Kubernetes.,0.869
+F4001,I3001,Struggled with problem solving and coding tasks. Noted experience in Python.,0.282
+F4002,I3002,Not a strong fit for the role currently. Noted experience in Excel.,0.335
+F4003,I3003,"Confident presenter, handled questions well. Noted experience in Machine Learning.",0.788
+F4004,I3004,Mixed answers; structure could improve. Noted experience in Communication.,0.639
+F4005,I3005,"Confident presenter, handled questions well. Noted experience in Linux.",0.929
+F4006,I3006,Mixed answers; structure could improve. Noted experience in Communication.,0.675
+F4007,I3007,"Confident presenter, handled questions well. Noted experience in Git.",0.808
+F4008,I3008,Mixed answers; structure could improve. Noted experience in Communication.,0.547
+F4009,I3009,Excellent technical skills; solved problems well. Noted experience in Kubernetes.,0.871
+F4010,I3010,Good skills but needs more industry experience. Noted experience in Git.,0.46
+F4011,I3011,Mixed answers; structure could improve. Noted experience in APIs.,0.684
+F4012,I3012,Good skills but needs more industry experience. Noted experience in Linux.,0.693
+F4013,I3013,Good skills but needs more industry experience. Noted experience in Linux.,0.595
+F4014,I3014,Average performance; showed potential with some gaps. Noted experience in Leadership.,0.574
+F4015,I3015,Good skills but needs more industry experience. Noted experience in SQL.,0.695
+F4016,I3016,Communication was weak; needs improvement. Noted experience in Numpy.,0.29
+F4017,I3017,"Confident presenter, handled questions well. Noted experience in Leadership.",0.786
+F4018,I3018,Average performance; showed potential with some gaps. Noted experience in Deep Learning.,0.653
+F4019,I3019,Good skills but needs more industry experience. Noted experience in Deep Learning.,0.575
+F4020,I3020,Good skills but needs more industry experience. Noted experience in Stakeholder Management.,0.623
+F4021,I3021,Mixed answers; structure could improve. Noted experience in React.,0.604
+F4022,I3022,Mixed answers; structure could improve. Noted experience in React.,0.521
+F4023,I3023,Mixed answers; structure could improve. Noted experience in Stakeholder Management.,0.483
+F4024,I3024,Mixed answers; structure could improve. Noted experience in Pandas.,0.618
+F4025,I3025,Good skills but needs more industry experience. Noted experience in APIs.,0.455
+F4026,I3026,Excellent technical skills; solved problems well. Noted experience in NLP.,0.751
+F4027,I3027,"Confident presenter, handled questions well. Noted experience in APIs.",0.963
+F4028,I3028,Not a strong fit for the role currently. Noted experience in SQL.,0.354
+F4029,I3029,Mixed answers; structure could improve. Noted experience in Docker.,0.491
+F4030,I3030,Good skills but needs more industry experience. Noted experience in Pandas.,0.749
+F4031,I3031,Mixed answers; structure could improve. Noted experience in Data Visualization.,0.748
+F4032,I3032,Average performance; showed potential with some gaps. Noted experience in Data Visualization.,0.715
+F4033,I3033,Mixed answers; structure could improve. Noted experience in Pandas.,0.523
+F4034,I3034,Strong analytical skills and clear communication. Noted experience in Computer Vision.,0.78
+F4035,I3035,Average performance; showed potential with some gaps. Noted experience in Data Visualization.,0.53
+F4036,I3036,Strong analytical skills and clear communication. Noted experience in React.,0.82
+F4037,I3037,Communication was weak; needs improvement. Noted experience in DAX.,0.387
+F4038,I3038,Not a strong fit for the role currently. Noted experience in NLP.,0.414
+F4039,I3039,Good skills but needs more industry experience. Noted experience in Machine Learning.,0.506
+F4040,I3040,Good skills but needs more industry experience. Noted experience in Interviewing.,0.514
+F4041,I3041,Mixed answers; structure could improve. Noted experience in Leadership.,0.632
+F4042,I3042,Strong analytical skills and clear communication. Noted experience in Kubernetes.,0.98
+F4043,I3043,Mixed answers; structure could improve. Noted experience in Kubernetes.,0.526
+F4044,I3044,Mixed answers; structure could improve. Noted experience in Linux.,0.537
+F4045,I3045,Mixed answers; structure could improve. Noted experience in Interviewing.,0.565
+F4046,I3046,"Confident presenter, handled questions well. Noted experience in SQL.",0.753
+F4047,I3047,Mixed answers; structure could improve. Noted experience in HR Policies.,0.56
+F4048,I3048,Mixed answers; structure could improve. Noted experience in Python.,0.631
+F4049,I3049,Average performance; showed potential with some gaps. Noted experience in Leadership.,0.619
+F4050,I3050,Mixed answers; structure could improve. Noted experience in HR Policies.,0.519
+F4051,I3051,Excellent technical skills; solved problems well. Noted experience in Linux.,0.88
+F4052,I3052,Average performance; showed potential with some gaps. Noted experience in Numpy.,0.578
+F4053,I3053,Mixed answers; structure could improve. Noted experience in Numpy.,0.512
+F4054,I3054,Strong analytical skills and clear communication. Noted experience in Cloud (Azure/AWS).,0.979
+F4055,I3055,Struggled with problem solving and coding tasks. Noted experience in Stakeholder Management.,0.299
+F4056,I3056,Struggled with problem solving and coding tasks. Noted experience in Stakeholder Management.,0.192
+F4057,I3057,Mixed answers; structure could improve. Noted experience in Cloud (Azure/AWS).,0.738
+F4058,I3058,"Confident presenter, handled questions well. Noted experience in SQL.",0.801
+F4059,I3059,Struggled with problem solving and coding tasks. Noted experience in Computer Vision.,0.395
+F4060,I3060,Good skills but needs more industry experience. Noted experience in Pandas.,0.585
+F4061,I3061,"Confident presenter, handled questions well. Noted experience in Computer Vision.",0.8
+F4062,I3062,Not a strong fit for the role currently. Noted experience in React.,0.316
+F4063,I3063,Average performance; showed potential with some gaps. Noted experience in Leadership.,0.535
+F4064,I3064,Struggled with problem solving and coding tasks. Noted experience in JavaScript.,0.275
+F4065,I3065,Struggled with problem solving and coding tasks. Noted experience in Cloud (Azure/AWS).,0.339
+F4066,I3066,Good skills but needs more industry experience. Noted experience in Statistics.,0.558
+F4067,I3067,"Confident presenter, handled questions well. Noted experience in Kubernetes.",0.836
+F4068,I3068,Mixed answers; structure could improve. Noted experience in Git.,0.605
+F4069,I3069,Good skills but needs more industry experience. Noted experience in HR Policies.,0.582
+F4070,I3070,Good skills but needs more industry experience. Noted experience in Docker.,0.519
+F4071,I3071,Mixed answers; structure could improve. Noted experience in NLP.,0.522
+F4072,I3072,Struggled with problem solving and coding tasks. Noted experience in Flask.,0.423
+F4073,I3073,Communication was weak; needs improvement. Noted experience in Git.,0.179
+F4074,I3074,Very good culture fit and leadership potential. Noted experience in Docker.,0.806
+F4075,I3075,Good skills but needs more industry experience. Noted experience in Communication.,0.745
+F4076,I3076,Good skills but needs more industry experience. Noted experience in Git.,0.558
+F4077,I3077,Mixed answers; structure could improve. Noted experience in Docker.,0.658
+F4078,I3078,Very good culture fit and leadership potential. Noted experience in Leadership.,0.87
+F4079,I3079,Not a strong fit for the role currently. Noted experience in DAX.,0.349
+F4080,I3080,Good skills but needs more industry experience. Noted experience in Flask.,0.482
+F4081,I3081,Not a strong fit for the role currently. Noted experience in Power BI.,0.335
+F4082,I3082,"Confident presenter, handled questions well. Noted experience in Flask.",0.98
+F4083,I3083,"Confident presenter, handled questions well. Noted experience in Django.",0.892
+F4084,I3084,Average performance; showed potential with some gaps. Noted experience in Docker.,0.468
+F4085,I3085,Good skills but needs more industry experience. Noted experience in Python.,0.739
+F4086,I3086,Very good culture fit and leadership potential. Noted experience in Tableau.,0.98
+F4087,I3087,Good skills but needs more industry experience. Noted experience in Python.,0.496
+F4088,I3088,"Confident presenter, handled questions well. Noted experience in React.",0.949
+F4089,I3089,Struggled with problem solving and coding tasks. Noted experience in React.,0.353
+F4090,I3090,Very good culture fit and leadership potential. Noted experience in Data Visualization.,0.863
+F4091,I3091,Good skills but needs more industry experience. Noted experience in Excel.,0.686
+F4092,I3092,Average performance; showed potential with some gaps. Noted experience in Data Visualization.,0.561
+F4093,I3093,Not a strong fit for the role currently. Noted experience in Django.,0.419
+F4094,I3094,Communication was weak; needs improvement. Noted experience in Leadership.,0.38
+F4095,I3095,Good skills but needs more industry experience. Noted experience in JavaScript.,0.584
+F4096,I3096,Struggled with problem solving and coding tasks. Noted experience in Interviewing.,0.445
+F4097,I3097,Excellent technical skills; solved problems well. Noted experience in Numpy.,0.973
+F4098,I3098,Communication was weak; needs improvement. Noted experience in Statistics.,0.304
+F4099,I3099,Good skills but needs more industry experience. Noted experience in Numpy.,0.707
+F4100,I3100,Not a strong fit for the role currently. Noted experience in Data Visualization.,0.414
+F4101,I3101,Mixed answers; structure could improve. Noted experience in Recruitment.,0.577
+F4102,I3102,Struggled with problem solving and coding tasks. Noted experience in Kubernetes.,0.233
+F4103,I3103,"Confident presenter, handled questions well. Noted experience in Deep Learning.",0.838
+F4104,I3104,Strong analytical skills and clear communication. Noted experience in React.,0.803
+F4105,I3105,Good skills but needs more industry experience. Noted experience in React.,0.625
+F4106,I3106,Mixed answers; structure could improve. Noted experience in Django.,0.46
+F4107,I3107,Mixed answers; structure could improve. Noted experience in Recruitment.,0.534
+F4108,I3108,Good skills but needs more industry experience. Noted experience in Machine Learning.,0.617
+F4109,I3109,Mixed answers; structure could improve. Noted experience in Tableau.,0.546
+F4110,I3110,Very good culture fit and leadership potential. Noted experience in JavaScript.,0.98
+F4111,I3111,Average performance; showed potential with some gaps. Noted experience in Computer Vision.,0.681
+F4112,I3112,Average performance; showed potential with some gaps. Noted experience in Communication.,0.634
+F4113,I3113,Good skills but needs more industry experience. Noted experience in Communication.,0.513
+F4114,I3114,Mixed answers; structure could improve. Noted experience in JavaScript.,0.591
+F4115,I3115,"Confident presenter, handled questions well. Noted experience in Kubernetes.",0.772
+F4116,I3116,"Confident presenter, handled questions well. Noted experience in Computer Vision.",0.947
+F4117,I3117,Communication was weak; needs improvement. Noted experience in Recruitment.,0.348
+F4118,I3118,Mixed answers; structure could improve. Noted experience in Communication.,0.521
+F4119,I3119,Good skills but needs more industry experience. Noted experience in Python.,0.573
+F4120,I3120,Average performance; showed potential with some gaps. Noted experience in Python.,0.682
+F4121,I3121,Not a strong fit for the role currently. Noted experience in HR Policies.,0.359
+F4122,I3122,Struggled with problem solving and coding tasks. Noted experience in Git.,0.4
+F4123,I3123,Strong analytical skills and clear communication. Noted experience in Git.,0.849
+F4124,I3124,"Confident presenter, handled questions well. Noted experience in React.",0.817
+F4125,I3125,Average performance; showed potential with some gaps. Noted experience in Tableau.,0.544
+F4126,I3126,Average performance; showed potential with some gaps. Noted experience in Python.,0.602
+F4127,I3127,Not a strong fit for the role currently. Noted experience in DAX.,0.429
+F4128,I3128,Good skills but needs more industry experience. Noted experience in Interviewing.,0.653
+F4129,I3129,Mixed answers; structure could improve. Noted experience in Tableau.,0.748
+F4130,I3130,Mixed answers; structure could improve. Noted experience in Interviewing.,0.602
+F4131,I3131,Average performance; showed potential with some gaps. Noted experience in Stakeholder Management.,0.625
+F4132,I3132,Mixed answers; structure could improve. Noted experience in SQL.,0.6
+F4133,I3133,Average performance; showed potential with some gaps. Noted experience in Tableau.,0.561
+F4134,I3134,Average performance; showed potential with some gaps. Noted experience in Stakeholder Management.,0.698
+F4135,I3135,Mixed answers; structure could improve. Noted experience in NLP.,0.634
+F4136,I3136,Average performance; showed potential with some gaps. Noted experience in Recruitment.,0.453
+F4137,I3137,Average performance; showed potential with some gaps. Noted experience in Cloud (Azure/AWS).,0.745
+F4138,I3138,Communication was weak; needs improvement. Noted experience in Communication.,0.214
+F4139,I3139,Very good culture fit and leadership potential. Noted experience in SQL.,0.915
+F4140,I3140,"Confident presenter, handled questions well. Noted experience in Python.",0.864
+F4141,I3141,"Confident presenter, handled questions well. Noted experience in Power BI.",0.98
+F4142,I3142,Mixed answers; structure could improve. Noted experience in Python.,0.452
+F4143,I3143,Average performance; showed potential with some gaps. Noted experience in Docker.,0.686
+F4144,I3144,Mixed answers; structure could improve. Noted experience in HR Policies.,0.593
+F4145,I3145,Average performance; showed potential with some gaps. Noted experience in HR Policies.,0.676
+F4146,I3146,Good skills but needs more industry experience. Noted experience in SQL.,0.481
+F4147,I3147,Average performance; showed potential with some gaps. Noted experience in Power BI.,0.585
+F4148,I3148,"Confident presenter, handled questions well. Noted experience in Power BI.",0.763
+F4149,I3149,Struggled with problem solving and coding tasks. Noted experience in SQL.,0.411
+F4150,I3150,Not a strong fit for the role currently. Noted experience in Tableau.,0.226
+F4151,I3151,Mixed answers; structure could improve. Noted experience in Kubernetes.,0.592
+F4152,I3152,Mixed answers; structure could improve. Noted experience in Statistics.,0.5
+F4153,I3153,Average performance; showed potential with some gaps. Noted experience in Interviewing.,0.663
+F4154,I3154,Not a strong fit for the role currently. Noted experience in Deep Learning.,0.251
+F4155,I3155,Strong analytical skills and clear communication. Noted experience in HR Policies.,0.98
+F4156,I3156,Communication was weak; needs improvement. Noted experience in Interviewing.,0.343
+F4157,I3157,Strong analytical skills and clear communication. Noted experience in Python.,0.764
+F4158,I3158,Good skills but needs more industry experience. Noted experience in Power BI.,0.716
+F4159,I3159,Very good culture fit and leadership potential. Noted experience in Communication.,0.757
+F4160,I3160,Strong analytical skills and clear communication. Noted experience in React.,0.817
+F4161,I3161,"Confident presenter, handled questions well. Noted experience in Numpy.",0.839
+F4162,I3162,Average performance; showed potential with some gaps. Noted experience in React.,0.569
+F4163,I3163,Excellent technical skills; solved problems well. Noted experience in Numpy.,0.829
+F4164,I3164,Excellent technical skills; solved problems well. Noted experience in React.,0.811
+F4165,I3165,Excellent technical skills; solved problems well. Noted experience in React.,0.85
+F4166,I3166,Mixed answers; structure could improve. Noted experience in Stakeholder Management.,0.558
+F4167,I3167,Good skills but needs more industry experience. Noted experience in Interviewing.,0.731
+F4168,I3168,Average performance; showed potential with some gaps. Noted experience in Stakeholder Management.,0.642
+F4169,I3169,Excellent technical skills; solved problems well. Noted experience in Machine Learning.,0.98
+F4170,I3170,Good skills but needs more industry experience. Noted experience in Power BI.,0.668
+F4171,I3171,Strong analytical skills and clear communication. Noted experience in Statistics.,0.767
+F4172,I3172,Average performance; showed potential with some gaps. Noted experience in Recruitment.,0.664
+F4173,I3173,Communication was weak; needs improvement. Noted experience in Stakeholder Management.,0.431
+F4174,I3174,Very good culture fit and leadership potential. Noted experience in Excel.,0.919
+F4175,I3175,Mixed answers; structure could improve. Noted experience in HR Policies.,0.621
+F4176,I3176,Average performance; showed potential with some gaps. Noted experience in SQL.,0.676
+F4177,I3177,Good skills but needs more industry experience. Noted experience in SQL.,0.61
+F4178,I3178,Strong analytical skills and clear communication. Noted experience in SQL.,0.972
+F4179,I3179,Strong analytical skills and clear communication. Noted experience in Excel.,0.923
+F4180,I3180,Strong analytical skills and clear communication. Noted experience in Leadership.,0.757
+F4181,I3181,Average performance; showed potential with some gaps. Noted experience in HR Policies.,0.638
+F4182,I3182,Excellent technical skills; solved problems well. Noted experience in Kubernetes.,0.829
+F4183,I3183,Mixed answers; structure could improve. Noted experience in Machine Learning.,0.5
+F4184,I3184,Mixed answers; structure could improve. Noted experience in React.,0.648
+F4185,I3185,Good skills but needs more industry experience. Noted experience in Flask.,0.71
+F4186,I3186,Communication was weak; needs improvement. Noted experience in Flask.,0.352
+F4187,I3187,Excellent technical skills; solved problems well. Noted experience in Numpy.,0.901
+F4188,I3188,Average performance; showed potential with some gaps. Noted experience in Tableau.,0.462
+F4189,I3189,Communication was weak; needs improvement. Noted experience in JavaScript.,0.305
+F4190,I3190,Struggled with problem solving and coding tasks. Noted experience in Pandas.,0.139
+F4191,I3191,Mixed answers; structure could improve. Noted experience in Deep Learning.,0.522
+F4192,I3192,Mixed answers; structure could improve. Noted experience in Communication.,0.601
+F4193,I3193,Mixed answers; structure could improve. Noted experience in NLP.,0.451
+F4194,I3194,Not a strong fit for the role currently. Noted experience in Git.,0.316
+F4195,I3195,Average performance; showed potential with some gaps. Noted experience in Recruitment.,0.702
+F4196,I3196,Communication was weak; needs improvement. Noted experience in Machine Learning.,0.391
+F4197,I3197,Mixed answers; structure could improve. Noted experience in Linux.,0.627
+F4198,I3198,Strong analytical skills and clear communication. Noted experience in HR Policies.,0.913
+F4199,I3199,Average performance; showed potential with some gaps. Noted experience in Statistics.,0.627
+F4200,I3200,Very good culture fit and leadership potential. Noted experience in Flask.,0.912
+F4201,I3201,Average performance; showed potential with some gaps. Noted experience in Git.,0.488
+F4202,I3202,"Confident presenter, handled questions well. Noted experience in Recruitment.",0.98
+F4203,I3203,Strong analytical skills and clear communication. Noted experience in Communication.,0.793
+F4204,I3204,Very good culture fit and leadership potential. Noted experience in Communication.,0.98
+F4205,I3205,Average performance; showed potential with some gaps. Noted experience in React.,0.716
+F4206,I3206,Average performance; showed potential with some gaps. Noted experience in React.,0.732
+F4207,I3207,Average performance; showed potential with some gaps. Noted experience in Python.,0.515
+F4208,I3208,Struggled with problem solving and coding tasks. Noted experience in SQL.,0.284
+F4209,I3209,Average performance; showed potential with some gaps. Noted experience in Kubernetes.,0.53
+F4210,I3210,Mixed answers; structure could improve. Noted experience in Cloud (Azure/AWS).,0.652
+F4211,I3211,Average performance; showed potential with some gaps. Noted experience in Leadership.,0.521
+F4212,I3212,Strong analytical skills and clear communication. Noted experience in Leadership.,0.928
+F4213,I3213,Struggled with problem solving and coding tasks. Noted experience in Cloud (Azure/AWS).,0.379
+F4214,I3214,Not a strong fit for the role currently. Noted experience in Pandas.,0.409
+F4215,I3215,Average performance; showed potential with some gaps. Noted experience in Data Visualization.,0.631
+F4216,I3216,Not a strong fit for the role currently. Noted experience in Django.,0.208
+F4217,I3217,Good skills but needs more industry experience. Noted experience in Statistics.,0.482
+F4218,I3218,Very good culture fit and leadership potential. Noted experience in Linux.,0.98
+F4219,I3219,Good skills but needs more industry experience. Noted experience in Recruitment.,0.583
+F4220,I3220,Struggled with problem solving and coding tasks. Noted experience in Recruitment.,0.23
+F4221,I3221,Good skills but needs more industry experience. Noted experience in SQL.,0.453
+F4222,I3222,Mixed answers; structure could improve. Noted experience in JavaScript.,0.511
+F4223,I3223,Excellent technical skills; solved problems well. Noted experience in Git.,0.847
+F4224,I3224,Mixed answers; structure could improve. Noted experience in Linux.,0.679
+F4225,I3225,Very good culture fit and leadership potential. Noted experience in Git.,0.98
+F4226,I3226,Mixed answers; structure could improve. Noted experience in Power BI.,0.497

@@ -1,0 +1,237 @@
+JobID,Skill
+J001,Git
+J001,Communication
+J001,NLP
+J001,Data Visualization
+J001,Flask
+J001,Docker
+J002,Statistics
+J002,Linux
+J002,Stakeholder Management
+J002,DAX
+J002,SQL
+J002,Power BI
+J002,Data Visualization
+J003,Cloud (Azure/AWS)
+J003,Data Visualization
+J003,Git
+J004,Docker
+J004,Computer Vision
+J004,Machine Learning
+J004,Git
+J004,Interviewing
+J004,JavaScript
+J005,Communication
+J005,Statistics
+J005,Cloud (Azure/AWS)
+J006,Pandas
+J006,Leadership
+J006,Flask
+J006,React
+J007,Linux
+J007,Deep Learning
+J007,React
+J007,Git
+J008,SQL
+J008,HR Policies
+J008,Statistics
+J009,Interviewing
+J009,Computer Vision
+J009,Flask
+J009,Python
+J009,Tableau
+J009,React
+J009,Communication
+J010,JavaScript
+J010,Stakeholder Management
+J010,Kubernetes
+J010,Excel
+J010,Power BI
+J011,Django
+J011,Power BI
+J011,JavaScript
+J011,Recruitment
+J012,Excel
+J012,APIs
+J012,Pandas
+J012,Cloud (Azure/AWS)
+J012,Data Visualization
+J013,Pandas
+J013,Data Visualization
+J013,Flask
+J014,Deep Learning
+J014,Flask
+J014,Django
+J015,Recruitment
+J015,Interviewing
+J015,HR Policies
+J016,SQL
+J016,Statistics
+J016,Computer Vision
+J017,Statistics
+J017,DAX
+J017,Git
+J017,Python
+J017,Linux
+J017,Flask
+J018,Cloud (Azure/AWS)
+J018,DAX
+J018,Flask
+J018,Stakeholder Management
+J018,HR Policies
+J018,Kubernetes
+J019,Pandas
+J019,Communication
+J019,Python
+J019,Git
+J020,Tableau
+J020,Excel
+J020,Data Visualization
+J020,HR Policies
+J021,Pandas
+J021,Stakeholder Management
+J021,Docker
+J022,Cloud (Azure/AWS)
+J022,Deep Learning
+J022,React
+J022,Kubernetes
+J023,Cloud (Azure/AWS)
+J023,JavaScript
+J023,React
+J023,Recruitment
+J024,DAX
+J024,Machine Learning
+J024,APIs
+J024,Power BI
+J024,Flask
+J024,React
+J024,Deep Learning
+J025,Recruitment
+J025,HR Policies
+J025,SQL
+J026,Cloud (Azure/AWS)
+J026,Linux
+J026,Git
+J026,HR Policies
+J026,SQL
+J027,APIs
+J027,HR Policies
+J027,Excel
+J027,Docker
+J027,Numpy
+J028,Communication
+J028,SQL
+J028,Kubernetes
+J028,Power BI
+J029,Machine Learning
+J029,SQL
+J029,Cloud (Azure/AWS)
+J029,Flask
+J029,Linux
+J030,Tableau
+J030,Git
+J030,SQL
+J030,APIs
+J030,Recruitment
+J030,DAX
+J031,Deep Learning
+J031,Linux
+J031,Pandas
+J031,JavaScript
+J031,NLP
+J031,Tableau
+J032,NLP
+J032,Deep Learning
+J032,Tableau
+J032,Pandas
+J032,Git
+J033,Power BI
+J033,Excel
+J033,SQL
+J033,APIs
+J034,Communication
+J034,SQL
+J034,React
+J034,HR Policies
+J034,Python
+J034,Git
+J034,Kubernetes
+J035,Kubernetes
+J035,Git
+J035,Power BI
+J035,Django
+J035,Python
+J035,HR Policies
+J035,Interviewing
+J036,Git
+J036,SQL
+J036,Statistics
+J037,Stakeholder Management
+J037,Machine Learning
+J037,NLP
+J037,Flask
+J037,HR Policies
+J037,React
+J038,Git
+J038,HR Policies
+J038,APIs
+J038,Docker
+J038,Cloud (Azure/AWS)
+J038,Flask
+J038,Recruitment
+J039,Flask
+J039,SQL
+J039,Numpy
+J039,Git
+J039,Docker
+J039,Recruitment
+J039,Kubernetes
+J040,Leadership
+J040,Machine Learning
+J040,HR Policies
+J041,Linux
+J041,SQL
+J041,Power BI
+J041,Recruitment
+J041,DAX
+J041,Python
+J041,Stakeholder Management
+J042,Computer Vision
+J042,DAX
+J042,Statistics
+J042,Django
+J042,Machine Learning
+J043,APIs
+J043,Data Visualization
+J043,Leadership
+J043,Python
+J044,Numpy
+J044,Power BI
+J044,Kubernetes
+J044,Statistics
+J045,Communication
+J045,Tableau
+J045,APIs
+J045,Cloud (Azure/AWS)
+J045,Leadership
+J045,Recruitment
+J046,Communication
+J046,Leadership
+J046,Git
+J046,React
+J047,Computer Vision
+J047,React
+J047,Django
+J048,Flask
+J048,Cloud (Azure/AWS)
+J048,NLP
+J048,Pandas
+J048,Leadership
+J049,Flask
+J049,Tableau
+J049,Docker
+J049,Machine Learning
+J049,Deep Learning
+J050,Power BI
+J050,Statistics
+J050,React
